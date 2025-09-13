@@ -1,0 +1,4002 @@
+[
+  {
+    "name": "G.O.D.",
+    "score": 340
+  },
+  {
+    "name": "這遊戲怎麼玩",
+    "score": 336
+  },
+  {
+    "name": "D.O.G.",
+    "score": 332
+  },
+  {
+    "name": "EternalWhisper",
+    "score": 214
+  },
+  {
+    "name": "天穹劍聖",
+    "score": 191
+  },
+  {
+    "name": "幽冥刀尊",
+    "score": 226
+  },
+  {
+    "name": "InfernalLord",
+    "score": 120
+  },
+  {
+    "name": "El Terrible Monstruo",
+    "score": 248
+  },
+  {
+    "name": "CursedSinger",
+    "score": 275
+  },
+  {
+    "name": "SilentWing",
+    "score": 287
+  },
+  {
+    "name": "SilentFlame",
+    "score": 286
+  },
+  {
+    "name": "ThunderViking",
+    "score": 191
+  },
+  {
+    "name": "SavagePrince",
+    "score": 230
+  },
+  {
+    "name": "SilentWhisper",
+    "score": 193
+  },
+  {
+    "name": "StormKnight",
+    "score": 178
+  },
+  {
+    "name": "BurningMage",
+    "score": 204
+  },
+  {
+    "name": "DarkLord",
+    "score": 200
+  },
+  {
+    "name": "La Sagrado Águila",
+    "score": 250
+  },
+  {
+    "name": "GrimPrince",
+    "score": 191
+  },
+  {
+    "name": "AzureAssassin",
+    "score": 193
+  },
+  {
+    "name": "StormRogue",
+    "score": 181
+  },
+  {
+    "name": "La Leal Cazador",
+    "score": 190
+  },
+  {
+    "name": "SteelClaw",
+    "score": 213
+  },
+  {
+    "name": "蒼穹帝君",
+    "score": 173
+  },
+  {
+    "name": "EternalKing",
+    "score": 284
+  },
+  {
+    "name": "ScarletHowl",
+    "score": 262
+  },
+  {
+    "name": "GhostHammer",
+    "score": 315
+  },
+  {
+    "name": "BurningFist",
+    "score": 260
+  },
+  {
+    "name": "La Vasto Maestro",
+    "score": 235
+  },
+  {
+    "name": "El Salvaje Guerrero",
+    "score": 242
+  },
+  {
+    "name": "青龍霸主",
+    "score": 247
+  },
+  {
+    "name": "GrimQueen",
+    "score": 256
+  },
+  {
+    "name": "WildAssassin",
+    "score": 318
+  },
+  {
+    "name": "蒼龍妖王",
+    "score": 204
+  },
+  {
+    "name": "SavageSamurai",
+    "score": 305
+  },
+  {
+    "name": "La Dorado Corazón",
+    "score": 228
+  },
+  {
+    "name": "IronPrincess",
+    "score": 220
+  },
+  {
+    "name": "DarkWhisper",
+    "score": 218
+  },
+  {
+    "name": "BurningSamurai",
+    "score": 336
+  },
+  {
+    "name": "DuskBow",
+    "score": 255
+  },
+  {
+    "name": "CrystalSlayer",
+    "score": 230
+  },
+  {
+    "name": "DawnClaw",
+    "score": 189
+  },
+  {
+    "name": "DawnAssassin",
+    "score": 260
+  },
+  {
+    "name": "FrostMonk",
+    "score": 273
+  },
+  {
+    "name": "ThunderQueen",
+    "score": 102
+  },
+  {
+    "name": "PhantomQueen",
+    "score": 217
+  },
+  {
+    "name": "BloodOverlord",
+    "score": 192
+  },
+  {
+    "name": "RagingWatcher",
+    "score": 233
+  },
+  {
+    "name": "FallenFlame",
+    "score": 189
+  },
+  {
+    "name": "SacredClaw",
+    "score": 198
+  },
+  {
+    "name": "ImmortalMage",
+    "score": 292
+  },
+  {
+    "name": "霸氣火尊",
+    "score": 216
+  },
+  {
+    "name": "雷霆仙尊",
+    "score": 204
+  },
+  {
+    "name": "NightStrike",
+    "score": 180
+  },
+  {
+    "name": "DemonFang",
+    "score": 161
+  },
+  {
+    "name": "EternalFlame",
+    "score": 211
+  },
+  {
+    "name": "DarkHunter",
+    "score": 234
+  },
+  {
+    "name": "焰心妖帝",
+    "score": 187
+  },
+  {
+    "name": "赤焰神將",
+    "score": 307
+  },
+  {
+    "name": "FallenHammer",
+    "score": 221
+  },
+  {
+    "name": "GrimMage",
+    "score": 250
+  },
+  {
+    "name": "GhostWizard",
+    "score": 197
+  },
+  {
+    "name": "La Veloz Corazón",
+    "score": 298
+  },
+  {
+    "name": "EternalWarden",
+    "score": 194
+  },
+  {
+    "name": "El Amargo Cazador",
+    "score": 202
+  },
+  {
+    "name": "神秘之眼",
+    "score": 234
+  },
+  {
+    "name": "ThunderMage",
+    "score": 280
+  },
+  {
+    "name": "DuskAssassin",
+    "score": 290
+  },
+  {
+    "name": "ScarletGuardian",
+    "score": 210
+  },
+  {
+    "name": "El Radiante Dragona",
+    "score": 217
+  },
+  {
+    "name": "ShadowStalker",
+    "score": 210
+  },
+  {
+    "name": "LoneChampion",
+    "score": 222
+  },
+  {
+    "name": "NightBreaker",
+    "score": 255
+  },
+  {
+    "name": "DuskHowl",
+    "score": 200
+  },
+  {
+    "name": "InfernalQueen",
+    "score": 234
+  },
+  {
+    "name": "DuskSentinel",
+    "score": 212
+  },
+  {
+    "name": "DuskKnight",
+    "score": 208
+  },
+  {
+    "name": "ObsidianFist",
+    "score": 190
+  },
+  {
+    "name": "SilverPrince",
+    "score": 90
+  },
+  {
+    "name": "La Pálido Villano",
+    "score": 225
+  },
+  {
+    "name": "SacredWing",
+    "score": 234
+  },
+  {
+    "name": "DarkStorm",
+    "score": 253
+  },
+  {
+    "name": "La Veloz Príncipe",
+    "score": 287
+  },
+  {
+    "name": "ObsidianWatcher",
+    "score": 259
+  },
+  {
+    "name": "NightWizard",
+    "score": 234
+  },
+  {
+    "name": "El Infame Guerrera",
+    "score": 231
+  },
+  {
+    "name": "黑炎劍帝",
+    "score": 228
+  },
+  {
+    "name": "La Luminoso Guerrera",
+    "score": 191
+  },
+  {
+    "name": "CelestialFist",
+    "score": 196
+  },
+  {
+    "name": "DemonBlade",
+    "score": 224
+  },
+  {
+    "name": "IronSamurai",
+    "score": 234
+  },
+  {
+    "name": "WhiteWarden",
+    "score": 181
+  },
+  {
+    "name": "ArcaneHowl",
+    "score": 98
+  },
+  {
+    "name": "ObsidianSamurai",
+    "score": 280
+  },
+  {
+    "name": "El Joven Gigante",
+    "score": 245
+  },
+  {
+    "name": "ArcaneFang",
+    "score": 313
+  },
+  {
+    "name": "MysticPrince",
+    "score": 218
+  },
+  {
+    "name": "StormWing",
+    "score": 285
+  },
+  {
+    "name": "怒濤聖主",
+    "score": 203
+  },
+  {
+    "name": "ShadowBreaker",
+    "score": 250
+  },
+  {
+    "name": "MysticWarden",
+    "score": 240
+  },
+  {
+    "name": "StormStorm",
+    "score": 245
+  },
+  {
+    "name": "BlackBreaker",
+    "score": 279
+  },
+  {
+    "name": "NightSinger",
+    "score": 288
+  },
+  {
+    "name": "寒霜聖君",
+    "score": 219
+  },
+  {
+    "name": "LoneSentinel",
+    "score": 192
+  },
+  {
+    "name": "MysticKnight",
+    "score": 197
+  },
+  {
+    "name": "El Silencioso Trueno",
+    "score": 228
+  },
+  {
+    "name": "El Sereno León",
+    "score": 223
+  },
+  {
+    "name": "MysticReaper",
+    "score": 248
+  },
+  {
+    "name": "RoyalSinger",
+    "score": 229
+  },
+  {
+    "name": "朱雀圣皇",
+    "score": 184
+  },
+  {
+    "name": "IronBreaker",
+    "score": 230
+  },
+  {
+    "name": "La Silencioso Señora",
+    "score": 99
+  },
+  {
+    "name": "IronCrusher",
+    "score": 203
+  },
+  {
+    "name": "炎龙天尊",
+    "score": 235
+  },
+  {
+    "name": "DarkBow",
+    "score": 144
+  },
+  {
+    "name": "El Invisible Mago",
+    "score": 233
+  },
+  {
+    "name": "神秘弓聖",
+    "score": 199
+  },
+  {
+    "name": "AngelReaper",
+    "score": 226
+  },
+  {
+    "name": "DivineWizard",
+    "score": 80
+  },
+  {
+    "name": "WildPrince",
+    "score": 230
+  },
+  {
+    "name": "WhiteSpear",
+    "score": 198
+  },
+  {
+    "name": "GhostSpear",
+    "score": 215
+  },
+  {
+    "name": "El Fugaz Luz",
+    "score": 200
+  },
+  {
+    "name": "NightHunter",
+    "score": 229
+  },
+  {
+    "name": "El Dorado Águila",
+    "score": 232
+  },
+  {
+    "name": "SavageBreaker",
+    "score": 153
+  },
+  {
+    "name": "EternalSword",
+    "score": 237
+  },
+  {
+    "name": "雷霆神帝",
+    "score": 197
+  },
+  {
+    "name": "FrostHowl",
+    "score": 247
+  },
+  {
+    "name": "WildSeeker",
+    "score": 212
+  },
+  {
+    "name": "WhitePrincess",
+    "score": 204
+  },
+  {
+    "name": "黑夜霸主",
+    "score": 142
+  },
+  {
+    "name": "DragonSeeker",
+    "score": 216
+  },
+  {
+    "name": "BraveHammer",
+    "score": 311
+  },
+  {
+    "name": "RagingShield",
+    "score": 228
+  },
+  {
+    "name": "AzureStalker",
+    "score": 187
+  },
+  {
+    "name": "破曉修羅",
+    "score": 191
+  },
+  {
+    "name": "赤焰戰神",
+    "score": 231
+  },
+  {
+    "name": "凌霄修罗",
+    "score": 297
+  },
+  {
+    "name": "BlackLord",
+    "score": 198
+  },
+  {
+    "name": "El Infame León",
+    "score": 249
+  },
+  {
+    "name": "ThunderConqueror",
+    "score": 303
+  },
+  {
+    "name": "幻影劍仙",
+    "score": 207
+  },
+  {
+    "name": "FrostWatcher",
+    "score": 184
+  },
+  {
+    "name": "ScarletHunter",
+    "score": 201
+  },
+  {
+    "name": "ScarletMage",
+    "score": 289
+  },
+  {
+    "name": "ScarletSpear",
+    "score": 235
+  },
+  {
+    "name": "黑炎之怒",
+    "score": 230
+  },
+  {
+    "name": "PhantomStrike",
+    "score": 298
+  },
+  {
+    "name": "El Joven Fantasma",
+    "score": 266
+  },
+  {
+    "name": "InfernalBreaker",
+    "score": 270
+  },
+  {
+    "name": "絕影戰魂",
+    "score": 193
+  },
+  {
+    "name": "VenomHunter",
+    "score": 180
+  },
+  {
+    "name": "黃昏聖皇",
+    "score": 230
+  },
+  {
+    "name": "DarkMonk",
+    "score": 210
+  },
+  {
+    "name": "FallenSentinel",
+    "score": 221
+  },
+  {
+    "name": "BloodPrince",
+    "score": 242
+  },
+  {
+    "name": "ObsidianWolf",
+    "score": 212
+  },
+  {
+    "name": "ShadowMonk",
+    "score": 258
+  },
+  {
+    "name": "BloodMage",
+    "score": 293
+  },
+  {
+    "name": "InfernalSpear",
+    "score": 195
+  },
+  {
+    "name": "EmeraldSlayer",
+    "score": 284
+  },
+  {
+    "name": "DragonWatcher",
+    "score": 222
+  },
+  {
+    "name": "银月修罗",
+    "score": 200
+  },
+  {
+    "name": "無雙聖者",
+    "score": 180
+  },
+  {
+    "name": "ArcanePrince",
+    "score": 227
+  },
+  {
+    "name": "DawnWhisper",
+    "score": 216
+  },
+  {
+    "name": "烈日皇帝",
+    "score": 196
+  },
+  {
+    "name": "DuskOverlord",
+    "score": 214
+  },
+  {
+    "name": "WildLord",
+    "score": 195
+  },
+  {
+    "name": "DemonSlayer",
+    "score": 296
+  },
+  {
+    "name": "BraveWing",
+    "score": 262
+  },
+  {
+    "name": "CelestialWizard",
+    "score": 182
+  },
+  {
+    "name": "StormQueen",
+    "score": 135
+  },
+  {
+    "name": "藍影之怒",
+    "score": 236
+  },
+  {
+    "name": "DragonWizard",
+    "score": 180
+  },
+  {
+    "name": "La Noble Maestro",
+    "score": 264
+  },
+  {
+    "name": "火鳳刀尊",
+    "score": 225
+  },
+  {
+    "name": "怒濤之魂",
+    "score": 236
+  },
+  {
+    "name": "MoonViking",
+    "score": 246
+  },
+  {
+    "name": "CursedBow",
+    "score": 209
+  },
+  {
+    "name": "InfernalMage",
+    "score": 245
+  },
+  {
+    "name": "RoyalSamurai",
+    "score": 210
+  },
+  {
+    "name": "ShadowFist",
+    "score": 278
+  },
+  {
+    "name": "La Invisible Príncipe",
+    "score": 212
+  },
+  {
+    "name": "玄武之眼",
+    "score": 294
+  },
+  {
+    "name": "NightWhisper",
+    "score": 241
+  },
+  {
+    "name": "DragonPrincess",
+    "score": 236
+  },
+  {
+    "name": "GrimSword",
+    "score": 249
+  },
+  {
+    "name": "La Misterioso Revolución",
+    "score": 181
+  },
+  {
+    "name": "NightQueen",
+    "score": 185
+  },
+  {
+    "name": "BlackMage",
+    "score": 204
+  },
+  {
+    "name": "EternalSlayer",
+    "score": 191
+  },
+  {
+    "name": "MoonInvoker",
+    "score": 237
+  },
+  {
+    "name": "MoonSlayer",
+    "score": 210
+  },
+  {
+    "name": "ShadowInvoker",
+    "score": 255
+  },
+  {
+    "name": "白虎聖主",
+    "score": 260
+  },
+  {
+    "name": "MoonBreaker",
+    "score": 253
+  },
+  {
+    "name": "EmeraldConqueror",
+    "score": 197
+  },
+  {
+    "name": "AzureMaster",
+    "score": 239
+  },
+  {
+    "name": "WildWhisper",
+    "score": 259
+  },
+  {
+    "name": "RadiantOverlord",
+    "score": 250
+  },
+  {
+    "name": "DivineMaster",
+    "score": 279
+  },
+  {
+    "name": "El Pálido Héroe",
+    "score": 187
+  },
+  {
+    "name": "灭世圣主",
+    "score": 228
+  },
+  {
+    "name": "CrystalKing",
+    "score": 235
+  },
+  {
+    "name": "El Rugiente Estrella",
+    "score": 242
+  },
+  {
+    "name": "WildSpear",
+    "score": 213
+  },
+  {
+    "name": "ArcaneKing",
+    "score": 216
+  },
+  {
+    "name": "PhantomGuardian",
+    "score": 184
+  },
+  {
+    "name": "La Vasto Tigre",
+    "score": 224
+  },
+  {
+    "name": "霸氣雷帝",
+    "score": 324
+  },
+  {
+    "name": "InfernalInvoker",
+    "score": 86
+  },
+  {
+    "name": "DarkHammer",
+    "score": 226
+  },
+  {
+    "name": "DawnHowl",
+    "score": 247
+  },
+  {
+    "name": "El Feroz Monstruo",
+    "score": 188
+  },
+  {
+    "name": "魔炎之刃",
+    "score": 180
+  },
+  {
+    "name": "蒼穹之光",
+    "score": 336
+  },
+  {
+    "name": "LoneMonk",
+    "score": 251
+  },
+  {
+    "name": "WhiteMonk",
+    "score": 306
+  },
+  {
+    "name": "ObsidianWarden",
+    "score": 183
+  },
+  {
+    "name": "赤焰雷帝",
+    "score": 193
+  },
+  {
+    "name": "DemonShield",
+    "score": 234
+  },
+  {
+    "name": "La Noble Corazón",
+    "score": 220
+  },
+  {
+    "name": "DemonReaper",
+    "score": 186
+  },
+  {
+    "name": "StormAssassin",
+    "score": 259
+  },
+  {
+    "name": "La Rugiente Niño",
+    "score": 220
+  },
+  {
+    "name": "焰心弓圣",
+    "score": 266
+  },
+  {
+    "name": "EternalConqueror",
+    "score": 287
+  },
+  {
+    "name": "RadiantWalker",
+    "score": 217
+  },
+  {
+    "name": "FrozenInvoker",
+    "score": 233
+  },
+  {
+    "name": "BraveStrike",
+    "score": 185
+  },
+  {
+    "name": "DawnViking",
+    "score": 152
+  },
+  {
+    "name": "逐日刀尊",
+    "score": 202
+  },
+  {
+    "name": "La Sereno Revolución",
+    "score": 267
+  },
+  {
+    "name": "FrostBow",
+    "score": 328
+  },
+  {
+    "name": "SacredPrincess",
+    "score": 266
+  },
+  {
+    "name": "RoyalFlame",
+    "score": 323
+  },
+  {
+    "name": "絕影天尊",
+    "score": 204
+  },
+  {
+    "name": "SilentShield",
+    "score": 188
+  },
+  {
+    "name": "RadiantConqueror",
+    "score": 295
+  },
+  {
+    "name": "La Infinito Toro",
+    "score": 291
+  },
+  {
+    "name": "朱雀刀皇",
+    "score": 290
+  },
+  {
+    "name": "El Loco Lobo",
+    "score": 200
+  },
+  {
+    "name": "PhantomBlade",
+    "score": 105
+  },
+  {
+    "name": "SilverWalker",
+    "score": 200
+  },
+  {
+    "name": "NightCrusher",
+    "score": 182
+  },
+  {
+    "name": "El Viejo Revolución",
+    "score": 180
+  },
+  {
+    "name": "InfernalWhisper",
+    "score": 230
+  },
+  {
+    "name": "DragonKing",
+    "score": 191
+  },
+  {
+    "name": "NightFang",
+    "score": 129
+  },
+  {
+    "name": "La Tranquilo Príncipe",
+    "score": 309
+  },
+  {
+    "name": "La Tenebroso Lobo",
+    "score": 263
+  },
+  {
+    "name": "El Infinito Ola",
+    "score": 252
+  },
+  {
+    "name": "ScarletQueen",
+    "score": 182
+  },
+  {
+    "name": "MoonWatcher",
+    "score": 256
+  },
+  {
+    "name": "SilentConqueror",
+    "score": 187
+  },
+  {
+    "name": "GhostMaster",
+    "score": 192
+  },
+  {
+    "name": "El Turbio Alma",
+    "score": 211
+  },
+  {
+    "name": "FrozenKnight",
+    "score": 251
+  },
+  {
+    "name": "魔炎仙尊",
+    "score": 215
+  },
+  {
+    "name": "FallenSamurai",
+    "score": 238
+  },
+  {
+    "name": "StormSinger",
+    "score": 195
+  },
+  {
+    "name": "La Sabio Oráculo",
+    "score": 220
+  },
+  {
+    "name": "焰心之魂",
+    "score": 266
+  },
+  {
+    "name": "DuskSpear",
+    "score": 263
+  },
+  {
+    "name": "El Eterno Gigante",
+    "score": 317
+  },
+  {
+    "name": "EmeraldQueen",
+    "score": 221
+  },
+  {
+    "name": "WhiteSinger",
+    "score": 239
+  },
+  {
+    "name": "EmeraldPrincess",
+    "score": 232
+  },
+  {
+    "name": "EternalSentinel",
+    "score": 300
+  },
+  {
+    "name": "La Rugiente Estrella",
+    "score": 274
+  },
+  {
+    "name": "DivineQueen",
+    "score": 265
+  },
+  {
+    "name": "BurningFang",
+    "score": 243
+  },
+  {
+    "name": "PhantomRider",
+    "score": 254
+  },
+  {
+    "name": "SilverHowl",
+    "score": 207
+  },
+  {
+    "name": "銀月天帝",
+    "score": 206
+  },
+  {
+    "name": "RoyalRider",
+    "score": 289
+  },
+  {
+    "name": "GrimSamurai",
+    "score": 291
+  },
+  {
+    "name": "VenomGuardian",
+    "score": 319
+  },
+  {
+    "name": "AngelLord",
+    "score": 220
+  },
+  {
+    "name": "BurningQueen",
+    "score": 204
+  },
+  {
+    "name": "BraveKnight",
+    "score": 267
+  },
+  {
+    "name": "IronLord",
+    "score": 225
+  },
+  {
+    "name": "FrozenOverlord",
+    "score": 187
+  },
+  {
+    "name": "AzureSeeker",
+    "score": 158
+  },
+  {
+    "name": "至尊戰魂",
+    "score": 256
+  },
+  {
+    "name": "El Magnífico Espíritu",
+    "score": 200
+  },
+  {
+    "name": "ShadowSword",
+    "score": 260
+  },
+  {
+    "name": "VenomFlame",
+    "score": 186
+  },
+  {
+    "name": "ScarletSinger",
+    "score": 225
+  },
+  {
+    "name": "FrozenFang",
+    "score": 283
+  },
+  {
+    "name": "VenomWizard",
+    "score": 193
+  },
+  {
+    "name": "EternalPrince",
+    "score": 200
+  },
+  {
+    "name": "RagingConqueror",
+    "score": 184
+  },
+  {
+    "name": "無雙之魂",
+    "score": 248
+  },
+  {
+    "name": "ImmortalSpear",
+    "score": 233
+  },
+  {
+    "name": "ArcaneSamurai",
+    "score": 184
+  },
+  {
+    "name": "DragonQueen",
+    "score": 108
+  },
+  {
+    "name": "EmeraldPrince",
+    "score": 204
+  },
+  {
+    "name": "SacredReaper",
+    "score": 245
+  },
+  {
+    "name": "ArcaneWalker",
+    "score": 235
+  },
+  {
+    "name": "La Tenebroso Bestia",
+    "score": 204
+  },
+  {
+    "name": "IronFist",
+    "score": 225
+  },
+  {
+    "name": "BlackGuardian",
+    "score": 240
+  },
+  {
+    "name": "El Dulce Águila",
+    "score": 217
+  },
+  {
+    "name": "ShadowConqueror",
+    "score": 210
+  },
+  {
+    "name": "BraveSentinel",
+    "score": 273
+  },
+  {
+    "name": "天启雷帝",
+    "score": 282
+  },
+  {
+    "name": "CelestialAssassin",
+    "score": 200
+  },
+  {
+    "name": "CelestialSinger",
+    "score": 245
+  },
+  {
+    "name": "DarkWizard",
+    "score": 230
+  },
+  {
+    "name": "ImmortalKing",
+    "score": 126
+  },
+  {
+    "name": "El Viejo Guía",
+    "score": 181
+  },
+  {
+    "name": "DemonPrincess",
+    "score": 212
+  },
+  {
+    "name": "GrimInvoker",
+    "score": 185
+  },
+  {
+    "name": "InfernalHammer",
+    "score": 230
+  },
+  {
+    "name": "InfernalSlayer",
+    "score": 279
+  },
+  {
+    "name": "DemonWizard",
+    "score": 233
+  },
+  {
+    "name": "SilverSeeker",
+    "score": 314
+  },
+  {
+    "name": "白虎妖帝",
+    "score": 193
+  },
+  {
+    "name": "El Roto Toro",
+    "score": 230
+  },
+  {
+    "name": "MysticHunter",
+    "score": 259
+  },
+  {
+    "name": "LoneSpear",
+    "score": 264
+  },
+  {
+    "name": "FireGuardian",
+    "score": 295
+  },
+  {
+    "name": "SacredBreaker",
+    "score": 214
+  },
+  {
+    "name": "MysticMonk",
+    "score": 185
+  },
+  {
+    "name": "CursedMonk",
+    "score": 249
+  },
+  {
+    "name": "SteelWolf",
+    "score": 191
+  },
+  {
+    "name": "SteelBow",
+    "score": 228
+  },
+  {
+    "name": "GoldenWolf",
+    "score": 199
+  },
+  {
+    "name": "朱雀拳尊",
+    "score": 209
+  },
+  {
+    "name": "RagingWarden",
+    "score": 296
+  },
+  {
+    "name": "SacredSamurai",
+    "score": 256
+  },
+  {
+    "name": "EmeraldWolf",
+    "score": 230
+  },
+  {
+    "name": "碧海之心",
+    "score": 193
+  },
+  {
+    "name": "El Radiante Héroe",
+    "score": 197
+  },
+  {
+    "name": "SilentRider",
+    "score": 263
+  },
+  {
+    "name": "DivineGuardian",
+    "score": 199
+  },
+  {
+    "name": "ShadowWolf",
+    "score": 227
+  },
+  {
+    "name": "無雙劍仙",
+    "score": 237
+  },
+  {
+    "name": "SavageBlade",
+    "score": 206
+  },
+  {
+    "name": "EmeraldStalker",
+    "score": 243
+  },
+  {
+    "name": "BraveClaw",
+    "score": 202
+  },
+  {
+    "name": "ArcaneMage",
+    "score": 258
+  },
+  {
+    "name": "SilentSentinel",
+    "score": 306
+  },
+  {
+    "name": "NightStorm",
+    "score": 286
+  },
+  {
+    "name": "VenomPrincess",
+    "score": 212
+  },
+  {
+    "name": "FallenStalker",
+    "score": 113
+  },
+  {
+    "name": "RadiantInvoker",
+    "score": 255
+  },
+  {
+    "name": "LoneWatcher",
+    "score": 188
+  },
+  {
+    "name": "絕影魔王",
+    "score": 266
+  },
+  {
+    "name": "玄武火尊",
+    "score": 199
+  },
+  {
+    "name": "GrimOverlord",
+    "score": 231
+  },
+  {
+    "name": "焰心护法",
+    "score": 197
+  },
+  {
+    "name": "EternalStalker",
+    "score": 226
+  },
+  {
+    "name": "FireSword",
+    "score": 200
+  },
+  {
+    "name": "La Misterioso Ola",
+    "score": 196
+  },
+  {
+    "name": "怒濤魔君",
+    "score": 232
+  },
+  {
+    "name": "DarkKnight",
+    "score": 81
+  },
+  {
+    "name": "DemonWhisper",
+    "score": 231
+  },
+  {
+    "name": "烈風聖者",
+    "score": 124
+  },
+  {
+    "name": "ArcaneGuardian",
+    "score": 182
+  },
+  {
+    "name": "El Callado Corazón",
+    "score": 220
+  },
+  {
+    "name": "DarkOverlord",
+    "score": 243
+  },
+  {
+    "name": "El Tenebroso Llama",
+    "score": 214
+  },
+  {
+    "name": "El Viejo Fantasma",
+    "score": 205
+  },
+  {
+    "name": "SilverWhisper",
+    "score": 198
+  },
+  {
+    "name": "La Loco Príncipe",
+    "score": 257
+  },
+  {
+    "name": "逐月教主",
+    "score": 181
+  },
+  {
+    "name": "GhostShield",
+    "score": 187
+  },
+  {
+    "name": "裂地法王",
+    "score": 243
+  },
+  {
+    "name": "神威劍帝",
+    "score": 265
+  },
+  {
+    "name": "DivineMage",
+    "score": 284
+  },
+  {
+    "name": "El Roto Alma",
+    "score": 184
+  },
+  {
+    "name": "ImmortalWalker",
+    "score": 231
+  },
+  {
+    "name": "ThunderRider",
+    "score": 214
+  },
+  {
+    "name": "BlackRider",
+    "score": 184
+  },
+  {
+    "name": "La Terrible Sombra",
+    "score": 198
+  },
+  {
+    "name": "FrostSword",
+    "score": 191
+  },
+  {
+    "name": "GhostPrince",
+    "score": 189
+  },
+  {
+    "name": "皓日聖主",
+    "score": 128
+  },
+  {
+    "name": "CursedWalker",
+    "score": 190
+  },
+  {
+    "name": "聖光妖王",
+    "score": 195
+  },
+  {
+    "name": "La Pálido Fantasma",
+    "score": 231
+  },
+  {
+    "name": "烈風火尊",
+    "score": 270
+  },
+  {
+    "name": "寂滅仙尊",
+    "score": 296
+  },
+  {
+    "name": "CelestialHammer",
+    "score": 132
+  },
+  {
+    "name": "El Invisible Ola",
+    "score": 250
+  },
+  {
+    "name": "烈日神將",
+    "score": 181
+  },
+  {
+    "name": "BloodMaster",
+    "score": 225
+  },
+  {
+    "name": "青龍龍皇",
+    "score": 140
+  },
+  {
+    "name": "AzureHammer",
+    "score": 241
+  },
+  {
+    "name": "DemonClaw",
+    "score": 248
+  },
+  {
+    "name": "SilentWatcher",
+    "score": 199
+  },
+  {
+    "name": "魔炎之皇",
+    "score": 231
+  },
+  {
+    "name": "DarkReaper",
+    "score": 141
+  },
+  {
+    "name": "SilentFang",
+    "score": 235
+  },
+  {
+    "name": "FrostSentinel",
+    "score": 184
+  },
+  {
+    "name": "青龍之光",
+    "score": 195
+  },
+  {
+    "name": "戰狂刀尊",
+    "score": 251
+  },
+  {
+    "name": "IronGuardian",
+    "score": 202
+  },
+  {
+    "name": "MysticWing",
+    "score": 260
+  },
+  {
+    "name": "DawnFlame",
+    "score": 231
+  },
+  {
+    "name": "SacredPrince",
+    "score": 231
+  },
+  {
+    "name": "EmeraldStrike",
+    "score": 284
+  },
+  {
+    "name": "DragonInvoker",
+    "score": 269
+  },
+  {
+    "name": "灭世神将",
+    "score": 233
+  },
+  {
+    "name": "EternalWizard",
+    "score": 340
+  },
+  {
+    "name": "El Invencible Señor",
+    "score": 290
+  },
+  {
+    "name": "ArcaneSword",
+    "score": 247
+  },
+  {
+    "name": "光明火尊",
+    "score": 241
+  },
+  {
+    "name": "FrostKing",
+    "score": 184
+  },
+  {
+    "name": "InfernalFlame",
+    "score": 275
+  },
+  {
+    "name": "GrimStalker",
+    "score": 186
+  },
+  {
+    "name": "ThunderCrusher",
+    "score": 192
+  },
+  {
+    "name": "銀月聖主",
+    "score": 182
+  },
+  {
+    "name": "蒼龍天尊",
+    "score": 235
+  },
+  {
+    "name": "WildMaster",
+    "score": 292
+  },
+  {
+    "name": "LoneFlame",
+    "score": 222
+  },
+  {
+    "name": "ImmortalHammer",
+    "score": 211
+  },
+  {
+    "name": "FallenWolf",
+    "score": 209
+  },
+  {
+    "name": "絕影之魂",
+    "score": 268
+  },
+  {
+    "name": "InfernalStalker",
+    "score": 127
+  },
+  {
+    "name": "ImmortalQueen",
+    "score": 191
+  },
+  {
+    "name": "InfernalSentinel",
+    "score": 196
+  },
+  {
+    "name": "SavageGuardian",
+    "score": 189
+  },
+  {
+    "name": "LoneWizard",
+    "score": 180
+  },
+  {
+    "name": "El Dulce Corazón",
+    "score": 183
+  },
+  {
+    "name": "王者之怒",
+    "score": 209
+  },
+  {
+    "name": "FrostShield",
+    "score": 209
+  },
+  {
+    "name": "SacredKing",
+    "score": 287
+  },
+  {
+    "name": "DawnConqueror",
+    "score": 222
+  },
+  {
+    "name": "無雙守護",
+    "score": 211
+  },
+  {
+    "name": "SteelHowl",
+    "score": 238
+  },
+  {
+    "name": "蒼龍火尊",
+    "score": 259
+  },
+  {
+    "name": "苍狼战神",
+    "score": 246
+  },
+  {
+    "name": "絕影妖王",
+    "score": 211
+  },
+  {
+    "name": "DawnQueen",
+    "score": 198
+  },
+  {
+    "name": "DuskFist",
+    "score": 267
+  },
+  {
+    "name": "蒼月仙尊",
+    "score": 241
+  },
+  {
+    "name": "RadiantQueen",
+    "score": 202
+  },
+  {
+    "name": "紫电武神",
+    "score": 221
+  },
+  {
+    "name": "ShadowHowl",
+    "score": 256
+  },
+  {
+    "name": "紫电枪神",
+    "score": 210
+  },
+  {
+    "name": "CelestialSpear",
+    "score": 195
+  },
+  {
+    "name": "El Poderoso Señor",
+    "score": 335
+  },
+  {
+    "name": "SilverStrike",
+    "score": 192
+  },
+  {
+    "name": "蒼龍天帝",
+    "score": 233
+  },
+  {
+    "name": "DemonMonk",
+    "score": 266
+  },
+  {
+    "name": "ObsidianAssassin",
+    "score": 187
+  },
+  {
+    "name": "紫电法王",
+    "score": 249
+  },
+  {
+    "name": "ArcaneWarden",
+    "score": 206
+  },
+  {
+    "name": "AngelChampion",
+    "score": 188
+  },
+  {
+    "name": "StormWhisper",
+    "score": 221
+  },
+  {
+    "name": "SacredKnight",
+    "score": 202
+  },
+  {
+    "name": "PhantomMage",
+    "score": 207
+  },
+  {
+    "name": "StormKing",
+    "score": 181
+  },
+  {
+    "name": "無敵之光",
+    "score": 182
+  },
+  {
+    "name": "BloodSentinel",
+    "score": 203
+  },
+  {
+    "name": "RoyalAssassin",
+    "score": 264
+  },
+  {
+    "name": "ObsidianSpear",
+    "score": 203
+  },
+  {
+    "name": "La Invisible Toro",
+    "score": 229
+  },
+  {
+    "name": "FireClaw",
+    "score": 189
+  },
+  {
+    "name": "EmeraldSamurai",
+    "score": 296
+  },
+  {
+    "name": "赤血神將",
+    "score": 307
+  },
+  {
+    "name": "SilverWarden",
+    "score": 189
+  },
+  {
+    "name": "BloodSlayer",
+    "score": 208
+  },
+  {
+    "name": "El Amargo Trueno",
+    "score": 226
+  },
+  {
+    "name": "GhostSinger",
+    "score": 192
+  },
+  {
+    "name": "焰心影帝",
+    "score": 277
+  },
+  {
+    "name": "霸气鹰尊",
+    "score": 203
+  },
+  {
+    "name": "EternalBlade",
+    "score": 306
+  },
+  {
+    "name": "LoneHowl",
+    "score": 174
+  },
+  {
+    "name": "火鳳霸主",
+    "score": 257
+  },
+  {
+    "name": "光明教主",
+    "score": 254
+  },
+  {
+    "name": "PhantomWalker",
+    "score": 197
+  },
+  {
+    "name": "La Sagrado Villano",
+    "score": 199
+  },
+  {
+    "name": "NightClaw",
+    "score": 224
+  },
+  {
+    "name": "DivineSeeker",
+    "score": 292
+  },
+  {
+    "name": "ThunderSlayer",
+    "score": 220
+  },
+  {
+    "name": "碎星妖帝",
+    "score": 202
+  },
+  {
+    "name": "GoldenLord",
+    "score": 273
+  },
+  {
+    "name": "天穹修羅",
+    "score": 252
+  },
+  {
+    "name": "FrozenWalker",
+    "score": 227
+  },
+  {
+    "name": "La Terrible Ola",
+    "score": 228
+  },
+  {
+    "name": "BloodGuardian",
+    "score": 193
+  },
+  {
+    "name": "DivineReaper",
+    "score": 255
+  },
+  {
+    "name": "VenomStalker",
+    "score": 258
+  },
+  {
+    "name": "El Negro Tigre",
+    "score": 229
+  },
+  {
+    "name": "EmeraldBreaker",
+    "score": 307
+  },
+  {
+    "name": "霸氣戰神",
+    "score": 188
+  },
+  {
+    "name": "SteelRider",
+    "score": 232
+  },
+  {
+    "name": "天启之主",
+    "score": 243
+  },
+  {
+    "name": "無敵拳皇",
+    "score": 222
+  },
+  {
+    "name": "烈日拳尊",
+    "score": 198
+  },
+  {
+    "name": "La Callado Dragona",
+    "score": 222
+  },
+  {
+    "name": "SavageLord",
+    "score": 280
+  },
+  {
+    "name": "AzureFist",
+    "score": 239
+  },
+  {
+    "name": "CrystalCrusher",
+    "score": 233
+  },
+  {
+    "name": "CelestialKing",
+    "score": 218
+  },
+  {
+    "name": "FrozenChampion",
+    "score": 200
+  },
+  {
+    "name": "DemonHowl",
+    "score": 230
+  },
+  {
+    "name": "ArcaneMaster",
+    "score": 243
+  },
+  {
+    "name": "GrimMaster",
+    "score": 233
+  },
+  {
+    "name": "青龙枪神",
+    "score": 194
+  },
+  {
+    "name": "BloodSinger",
+    "score": 336
+  },
+  {
+    "name": "SilverBreaker",
+    "score": 182
+  },
+  {
+    "name": "El Poderoso Caballero",
+    "score": 189
+  },
+  {
+    "name": "寒霜帝君",
+    "score": 240
+  },
+  {
+    "name": "IronSword",
+    "score": 197
+  },
+  {
+    "name": "DragonFlame",
+    "score": 186
+  },
+  {
+    "name": "黑炎之皇",
+    "score": 230
+  },
+  {
+    "name": "BlackMaster",
+    "score": 279
+  },
+  {
+    "name": "SilentBow",
+    "score": 191
+  },
+  {
+    "name": "BurningSentinel",
+    "score": 258
+  },
+  {
+    "name": "El Infame Dragona",
+    "score": 189
+  },
+  {
+    "name": "FallenRogue",
+    "score": 234
+  },
+  {
+    "name": "GhostAssassin",
+    "score": 256
+  },
+  {
+    "name": "La Radiante Ola",
+    "score": 202
+  },
+  {
+    "name": "SacredAssassin",
+    "score": 196
+  },
+  {
+    "name": "LoneHammer",
+    "score": 200
+  },
+  {
+    "name": "DemonMaster",
+    "score": 186
+  },
+  {
+    "name": "VenomBreaker",
+    "score": 197
+  },
+  {
+    "name": "El Fugaz Lobo",
+    "score": 249
+  },
+  {
+    "name": "RadiantWizard",
+    "score": 192
+  },
+  {
+    "name": "DemonBow",
+    "score": 191
+  },
+  {
+    "name": "SilentReaper",
+    "score": 236
+  },
+  {
+    "name": "DivineStrike",
+    "score": 185
+  },
+  {
+    "name": "AngelKnight",
+    "score": 197
+  },
+  {
+    "name": "RadiantStrike",
+    "score": 252
+  },
+  {
+    "name": "La Veloz Guía",
+    "score": 253
+  },
+  {
+    "name": "冰凰水尊",
+    "score": 197
+  },
+  {
+    "name": "BurningAssassin",
+    "score": 250
+  },
+  {
+    "name": "El Rojo León",
+    "score": 140
+  },
+  {
+    "name": "BlackQueen",
+    "score": 231
+  },
+  {
+    "name": "ShadowHammer",
+    "score": 258
+  },
+  {
+    "name": "雷霆统领",
+    "score": 191
+  },
+  {
+    "name": "WhiteHowl",
+    "score": 210
+  },
+  {
+    "name": "La Tenebroso Ola",
+    "score": 195
+  },
+  {
+    "name": "La Supremo Tigre",
+    "score": 211
+  },
+  {
+    "name": "El Terrible Ola",
+    "score": 187
+  },
+  {
+    "name": "SilentQueen",
+    "score": 196
+  },
+  {
+    "name": "GrimSeeker",
+    "score": 254
+  },
+  {
+    "name": "El Eterno Villano",
+    "score": 246
+  },
+  {
+    "name": "FireCrusher",
+    "score": 115
+  },
+  {
+    "name": "GrimReaper",
+    "score": 205
+  },
+  {
+    "name": "RoyalMonk",
+    "score": 193
+  },
+  {
+    "name": "La Turbio Revolución",
+    "score": 185
+  },
+  {
+    "name": "PhantomSentinel",
+    "score": 200
+  },
+  {
+    "name": "SilentAssassin",
+    "score": 223
+  },
+  {
+    "name": "SavageCrusher",
+    "score": 254
+  },
+  {
+    "name": "FrozenBlade",
+    "score": 212
+  },
+  {
+    "name": "SteelOverlord",
+    "score": 248
+  },
+  {
+    "name": "ShadowWing",
+    "score": 182
+  },
+  {
+    "name": "La Rugiente Caballero",
+    "score": 204
+  },
+  {
+    "name": "InfernalSamurai",
+    "score": 200
+  },
+  {
+    "name": "InfernalWarden",
+    "score": 184
+  },
+  {
+    "name": "GhostBlade",
+    "score": 226
+  },
+  {
+    "name": "DawnShield",
+    "score": 221
+  },
+  {
+    "name": "焰心霸主",
+    "score": 211
+  },
+  {
+    "name": "CursedBlade",
+    "score": 108
+  },
+  {
+    "name": "怒濤刀尊",
+    "score": 190
+  },
+  {
+    "name": "ObsidianOverlord",
+    "score": 243
+  },
+  {
+    "name": "皓日火尊",
+    "score": 279
+  },
+  {
+    "name": "BraveInvoker",
+    "score": 191
+  },
+  {
+    "name": "La Blanco Guía",
+    "score": 190
+  },
+  {
+    "name": "AzureRider",
+    "score": 206
+  },
+  {
+    "name": "La Rugiente Lobo",
+    "score": 257
+  },
+  {
+    "name": "逐月皇帝",
+    "score": 258
+  },
+  {
+    "name": "SacredStorm",
+    "score": 207
+  },
+  {
+    "name": "NightRider",
+    "score": 202
+  },
+  {
+    "name": "ImmortalRider",
+    "score": 191
+  },
+  {
+    "name": "El Turbio Serpiente",
+    "score": 212
+  },
+  {
+    "name": "绝影圣主",
+    "score": 258
+  },
+  {
+    "name": "El Invencible Héroe",
+    "score": 297
+  },
+  {
+    "name": "DawnKnight",
+    "score": 199
+  },
+  {
+    "name": "VenomLord",
+    "score": 264
+  },
+  {
+    "name": "DuskInvoker",
+    "score": 278
+  },
+  {
+    "name": "SilverBlade",
+    "score": 294
+  },
+  {
+    "name": "AzureWarden",
+    "score": 237
+  },
+  {
+    "name": "ThunderClaw",
+    "score": 242
+  },
+  {
+    "name": "MoonAssassin",
+    "score": 226
+  },
+  {
+    "name": "ThunderWatcher",
+    "score": 190
+  },
+  {
+    "name": "烈風霸主",
+    "score": 226
+  },
+  {
+    "name": "MysticStorm",
+    "score": 245
+  },
+  {
+    "name": "FrozenCrusher",
+    "score": 250
+  },
+  {
+    "name": "炎龙刀皇",
+    "score": 233
+  },
+  {
+    "name": "赤血魔君",
+    "score": 281
+  },
+  {
+    "name": "RadiantMage",
+    "score": 215
+  },
+  {
+    "name": "神秘武尊",
+    "score": 222
+  },
+  {
+    "name": "SacredWarden",
+    "score": 205
+  },
+  {
+    "name": "CursedHunter",
+    "score": 211
+  },
+  {
+    "name": "MysticWolf",
+    "score": 257
+  },
+  {
+    "name": "BloodKnight",
+    "score": 198
+  },
+  {
+    "name": "CrystalRogue",
+    "score": 221
+  },
+  {
+    "name": "無雙刀尊",
+    "score": 137
+  },
+  {
+    "name": "DuskStorm",
+    "score": 191
+  },
+  {
+    "name": "寂灭帝君",
+    "score": 192
+  },
+  {
+    "name": "火鳳之光",
+    "score": 139
+  },
+  {
+    "name": "AzureFang",
+    "score": 252
+  },
+  {
+    "name": "MysticWizard",
+    "score": 225
+  },
+  {
+    "name": "ScarletInvoker",
+    "score": 184
+  },
+  {
+    "name": "SteelConqueror",
+    "score": 216
+  },
+  {
+    "name": "SacredSinger",
+    "score": 243
+  },
+  {
+    "name": "InfernalConqueror",
+    "score": 197
+  },
+  {
+    "name": "FireFist",
+    "score": 190
+  },
+  {
+    "name": "SteelShield",
+    "score": 168
+  },
+  {
+    "name": "ThunderKnight",
+    "score": 228
+  },
+  {
+    "name": "El Leal Fénix",
+    "score": 251
+  },
+  {
+    "name": "WildWizard",
+    "score": 258
+  },
+  {
+    "name": "EmeraldFist",
+    "score": 274
+  },
+  {
+    "name": "蒼月之心",
+    "score": 189
+  },
+  {
+    "name": "BlackWing",
+    "score": 290
+  },
+  {
+    "name": "霸氣聖皇",
+    "score": 196
+  },
+  {
+    "name": "SteelStrike",
+    "score": 219
+  },
+  {
+    "name": "MysticBow",
+    "score": 216
+  },
+  {
+    "name": "寂滅守護",
+    "score": 221
+  },
+  {
+    "name": "IronShield",
+    "score": 279
+  },
+  {
+    "name": "El Luminoso Sabio",
+    "score": 180
+  },
+  {
+    "name": "WhiteInvoker",
+    "score": 236
+  },
+  {
+    "name": "RagingOverlord",
+    "score": 230
+  },
+  {
+    "name": "黑夜刀尊",
+    "score": 190
+  },
+  {
+    "name": "赤焰狂徒",
+    "score": 209
+  },
+  {
+    "name": "傲世鹰尊",
+    "score": 213
+  },
+  {
+    "name": "SilentPrincess",
+    "score": 205
+  },
+  {
+    "name": "BlackHammer",
+    "score": 181
+  },
+  {
+    "name": "CelestialFang",
+    "score": 210
+  },
+  {
+    "name": "GhostWolf",
+    "score": 215
+  },
+  {
+    "name": "La Infinito Villano",
+    "score": 193
+  },
+  {
+    "name": "赤焰之魂",
+    "score": 203
+  },
+  {
+    "name": "BloodStorm",
+    "score": 227
+  },
+  {
+    "name": "蒼龍仙尊",
+    "score": 191
+  },
+  {
+    "name": "DawnPrince",
+    "score": 250
+  },
+  {
+    "name": "InfernalPrincess",
+    "score": 222
+  },
+  {
+    "name": "DarkGuardian",
+    "score": 196
+  },
+  {
+    "name": "FrostAssassin",
+    "score": 204
+  },
+  {
+    "name": "FrostSamurai",
+    "score": 184
+  },
+  {
+    "name": "ArcaneRogue",
+    "score": 239
+  },
+  {
+    "name": "El Sagrado Niña",
+    "score": 198
+  },
+  {
+    "name": "El Luminoso Estrella",
+    "score": 204
+  },
+  {
+    "name": "LoneGuardian",
+    "score": 214
+  },
+  {
+    "name": "DawnMage",
+    "score": 228
+  },
+  {
+    "name": "AngelSword",
+    "score": 316
+  },
+  {
+    "name": "WildSlayer",
+    "score": 181
+  },
+  {
+    "name": "La Supremo Viento",
+    "score": 288
+  },
+  {
+    "name": "La Viejo Niño",
+    "score": 239
+  },
+  {
+    "name": "PhantomSeeker",
+    "score": 263
+  },
+  {
+    "name": "RagingHunter",
+    "score": 236
+  },
+  {
+    "name": "絕影龍皇",
+    "score": 201
+  },
+  {
+    "name": "GrimAssassin",
+    "score": 196
+  },
+  {
+    "name": "BloodBow",
+    "score": 295
+  },
+  {
+    "name": "BloodFang",
+    "score": 250
+  },
+  {
+    "name": "SteelAssassin",
+    "score": 260
+  },
+  {
+    "name": "無雙刀皇",
+    "score": 229
+  },
+  {
+    "name": "DawnBow",
+    "score": 209
+  },
+  {
+    "name": "InfernalViking",
+    "score": 251
+  },
+  {
+    "name": "El Turbio Príncipe",
+    "score": 253
+  },
+  {
+    "name": "CursedInvoker",
+    "score": 205
+  },
+  {
+    "name": "La Supremo Villano",
+    "score": 193
+  },
+  {
+    "name": "DivineKnight",
+    "score": 271
+  },
+  {
+    "name": "DemonHunter",
+    "score": 193
+  },
+  {
+    "name": "La Oscuro León",
+    "score": 189
+  },
+  {
+    "name": "独尊法王",
+    "score": 196
+  },
+  {
+    "name": "El Blanco Corazón",
+    "score": 201
+  },
+  {
+    "name": "El Rojo Corazón",
+    "score": 250
+  },
+  {
+    "name": "ScarletOverlord",
+    "score": 227
+  },
+  {
+    "name": "雷霆聖君",
+    "score": 245
+  },
+  {
+    "name": "ScarletLord",
+    "score": 184
+  },
+  {
+    "name": "El Misterioso Águila",
+    "score": 262
+  },
+  {
+    "name": "El Luminoso Espíritu",
+    "score": 225
+  },
+  {
+    "name": "血色戰魂",
+    "score": 189
+  },
+  {
+    "name": "DivineLord",
+    "score": 230
+  },
+  {
+    "name": "寒霜拳皇",
+    "score": 233
+  },
+  {
+    "name": "FrostFang",
+    "score": 138
+  },
+  {
+    "name": "IronWing",
+    "score": 191
+  },
+  {
+    "name": "SteelCrusher",
+    "score": 200
+  },
+  {
+    "name": "神秘狂徒",
+    "score": 205
+  },
+  {
+    "name": "RoyalRogue",
+    "score": 217
+  },
+  {
+    "name": "CelestialBlade",
+    "score": 245
+  },
+  {
+    "name": "MysticGuardian",
+    "score": 241
+  },
+  {
+    "name": "逐月之王",
+    "score": 208
+  },
+  {
+    "name": "SacredSlayer",
+    "score": 194
+  },
+  {
+    "name": "破曉聖皇",
+    "score": 235
+  },
+  {
+    "name": "BlackStrike",
+    "score": 219
+  },
+  {
+    "name": "MoonBow",
+    "score": 181
+  },
+  {
+    "name": "烈日槍神",
+    "score": 187
+  },
+  {
+    "name": "SavageSlayer",
+    "score": 269
+  },
+  {
+    "name": "CursedSentinel",
+    "score": 182
+  },
+  {
+    "name": "SacredOverlord",
+    "score": 107
+  },
+  {
+    "name": "RadiantKing",
+    "score": 200
+  },
+  {
+    "name": "AngelSeeker",
+    "score": 288
+  },
+  {
+    "name": "SavageFist",
+    "score": 188
+  },
+  {
+    "name": "La Terrible Monstruo",
+    "score": 238
+  },
+  {
+    "name": "ObsidianWing",
+    "score": 183
+  },
+  {
+    "name": "ThunderKing",
+    "score": 243
+  },
+  {
+    "name": "El Supremo Estrella",
+    "score": 85
+  },
+  {
+    "name": "DivineClaw",
+    "score": 180
+  },
+  {
+    "name": "El Ágil Dragón",
+    "score": 242
+  },
+  {
+    "name": "NightChampion",
+    "score": 223
+  },
+  {
+    "name": "El Supremo Guerrera",
+    "score": 260
+  },
+  {
+    "name": "El Infame Gigante",
+    "score": 291
+  },
+  {
+    "name": "La Leal Niño",
+    "score": 257
+  },
+  {
+    "name": "NightRogue",
+    "score": 200
+  },
+  {
+    "name": "El Sombrío Rey",
+    "score": 193
+  },
+  {
+    "name": "烈風魔王",
+    "score": 221
+  },
+  {
+    "name": "ShadowFlame",
+    "score": 225
+  },
+  {
+    "name": "BurningWatcher",
+    "score": 286
+  },
+  {
+    "name": "El Dorado Toro",
+    "score": 211
+  },
+  {
+    "name": "La Viejo Fantasma",
+    "score": 196
+  },
+  {
+    "name": "RoyalSeeker",
+    "score": 195
+  },
+  {
+    "name": "聖光妖帝",
+    "score": 328
+  },
+  {
+    "name": "RoyalOverlord",
+    "score": 223
+  },
+  {
+    "name": "RadiantSword",
+    "score": 290
+  },
+  {
+    "name": "RagingKnight",
+    "score": 146
+  },
+  {
+    "name": "ObsidianInvoker",
+    "score": 284
+  },
+  {
+    "name": "DivineFlame",
+    "score": 296
+  },
+  {
+    "name": "星辰帝君",
+    "score": 194
+  },
+  {
+    "name": "StormMage",
+    "score": 212
+  },
+  {
+    "name": "SavageInvoker",
+    "score": 185
+  },
+  {
+    "name": "黃昏之怒",
+    "score": 257
+  },
+  {
+    "name": "La Sereno Viento",
+    "score": 257
+  },
+  {
+    "name": "DarkInvoker",
+    "score": 249
+  },
+  {
+    "name": "DragonMage",
+    "score": 251
+  },
+  {
+    "name": "MoonPrincess",
+    "score": 194
+  },
+  {
+    "name": "FrozenPrince",
+    "score": 191
+  },
+  {
+    "name": "MoonChampion",
+    "score": 293
+  },
+  {
+    "name": "CursedOverlord",
+    "score": 201
+  },
+  {
+    "name": "El Sereno Viento",
+    "score": 208
+  },
+  {
+    "name": "赤血天帝",
+    "score": 223
+  },
+  {
+    "name": "La Solitario Monstruo",
+    "score": 198
+  },
+  {
+    "name": "EternalCrusher",
+    "score": 229
+  },
+  {
+    "name": "RoyalStalker",
+    "score": 190
+  },
+  {
+    "name": "RoyalWalker",
+    "score": 192
+  },
+  {
+    "name": "La Dorado Brujo",
+    "score": 298
+  },
+  {
+    "name": "神秘神将",
+    "score": 254
+  },
+  {
+    "name": "玄光聖者",
+    "score": 205
+  },
+  {
+    "name": "La Feroz Señorita",
+    "score": 249
+  },
+  {
+    "name": "AzureShield",
+    "score": 213
+  },
+  {
+    "name": "幻影武尊",
+    "score": 196
+  },
+  {
+    "name": "NightWolf",
+    "score": 281
+  },
+  {
+    "name": "El Tranquilo Oráculo",
+    "score": 193
+  },
+  {
+    "name": "蒼狼戰魂",
+    "score": 198
+  },
+  {
+    "name": "無敵仙尊",
+    "score": 193
+  },
+  {
+    "name": "StormGuardian",
+    "score": 200
+  },
+  {
+    "name": "LoneMaster",
+    "score": 197
+  },
+  {
+    "name": "BurningViking",
+    "score": 197
+  },
+  {
+    "name": "SilverOverlord",
+    "score": 205
+  },
+  {
+    "name": "AzureSword",
+    "score": 272
+  },
+  {
+    "name": "EmeraldLord",
+    "score": 229
+  },
+  {
+    "name": "El Celestial Señora",
+    "score": 295
+  },
+  {
+    "name": "CrystalHowl",
+    "score": 216
+  },
+  {
+    "name": "星辰拳皇",
+    "score": 281
+  },
+  {
+    "name": "破曉之刃",
+    "score": 181
+  },
+  {
+    "name": "血色之刃",
+    "score": 221
+  },
+  {
+    "name": "ShadowKnight",
+    "score": 197
+  },
+  {
+    "name": "CursedSpear",
+    "score": 183
+  },
+  {
+    "name": "EmeraldKnight",
+    "score": 256
+  },
+  {
+    "name": "魔炎皇帝",
+    "score": 284
+  },
+  {
+    "name": "黄金凤皇",
+    "score": 197
+  },
+  {
+    "name": "BurningMaster",
+    "score": 216
+  },
+  {
+    "name": "MoonWizard",
+    "score": 260
+  },
+  {
+    "name": "烈焰魔尊",
+    "score": 280
+  },
+  {
+    "name": "MysticInvoker",
+    "score": 200
+  },
+  {
+    "name": "La Luminoso Niño",
+    "score": 193
+  },
+  {
+    "name": "ObsidianBow",
+    "score": 305
+  },
+  {
+    "name": "朱雀戰神",
+    "score": 193
+  },
+  {
+    "name": "DivineConqueror",
+    "score": 206
+  },
+  {
+    "name": "DemonQueen",
+    "score": 215
+  },
+  {
+    "name": "紫電之光",
+    "score": 203
+  },
+  {
+    "name": "El Joven Luz",
+    "score": 230
+  },
+  {
+    "name": "GhostWarden",
+    "score": 273
+  },
+  {
+    "name": "MysticPrincess",
+    "score": 247
+  },
+  {
+    "name": "DawnFist",
+    "score": 260
+  },
+  {
+    "name": "El Brillante León",
+    "score": 298
+  },
+  {
+    "name": "GoldenClaw",
+    "score": 228
+  },
+  {
+    "name": "CelestialWing",
+    "score": 209
+  },
+  {
+    "name": "PhantomRogue",
+    "score": 183
+  },
+  {
+    "name": "BraveWizard",
+    "score": 255
+  },
+  {
+    "name": "InfernalWizard",
+    "score": 123
+  },
+  {
+    "name": "PhantomWhisper",
+    "score": 203
+  },
+  {
+    "name": "IronKnight",
+    "score": 211
+  },
+  {
+    "name": "王者劍仙",
+    "score": 192
+  },
+  {
+    "name": "蒼狼劍仙",
+    "score": 258
+  },
+  {
+    "name": "CursedSlayer",
+    "score": 211
+  },
+  {
+    "name": "PhantomReaper",
+    "score": 196
+  },
+  {
+    "name": "RoyalWing",
+    "score": 253
+  },
+  {
+    "name": "FrozenViking",
+    "score": 221
+  },
+  {
+    "name": "无双神将",
+    "score": 325
+  },
+  {
+    "name": "ThunderPrince",
+    "score": 296
+  },
+  {
+    "name": "烈風劍聖",
+    "score": 190
+  },
+  {
+    "name": "GhostRogue",
+    "score": 186
+  },
+  {
+    "name": "FrostSeeker",
+    "score": 275
+  },
+  {
+    "name": "FrostPrince",
+    "score": 182
+  },
+  {
+    "name": "El Brillante Hechicera",
+    "score": 297
+  },
+  {
+    "name": "神秘之刃",
+    "score": 167
+  },
+  {
+    "name": "SacredWizard",
+    "score": 192
+  },
+  {
+    "name": "RagingAssassin",
+    "score": 285
+  },
+  {
+    "name": "EternalFang",
+    "score": 209
+  },
+  {
+    "name": "MysticWatcher",
+    "score": 251
+  },
+  {
+    "name": "寂滅之光",
+    "score": 198
+  },
+  {
+    "name": "驚雷弓聖",
+    "score": 312
+  },
+  {
+    "name": "冰霜尊王",
+    "score": 211
+  },
+  {
+    "name": "CelestialMaster",
+    "score": 228
+  },
+  {
+    "name": "AzureSentinel",
+    "score": 222
+  },
+  {
+    "name": "ArcaneStalker",
+    "score": 293
+  },
+  {
+    "name": "BloodWolf",
+    "score": 224
+  },
+  {
+    "name": "DivineRider",
+    "score": 206
+  },
+  {
+    "name": "青龍妖帝",
+    "score": 186
+  },
+  {
+    "name": "SavageKing",
+    "score": 236
+  },
+  {
+    "name": "BlackWalker",
+    "score": 199
+  },
+  {
+    "name": "BlackConqueror",
+    "score": 258
+  },
+  {
+    "name": "RoyalFist",
+    "score": 208
+  },
+  {
+    "name": "FallenRider",
+    "score": 215
+  },
+  {
+    "name": "ObsidianReaper",
+    "score": 197
+  },
+  {
+    "name": "RagingPrincess",
+    "score": 258
+  },
+  {
+    "name": "幽冥之刃",
+    "score": 290
+  },
+  {
+    "name": "LoneStrike",
+    "score": 188
+  },
+  {
+    "name": "PhantomPrince",
+    "score": 200
+  },
+  {
+    "name": "冰封之王",
+    "score": 204
+  },
+  {
+    "name": "BloodWhisper",
+    "score": 194
+  },
+  {
+    "name": "La Sagrado Ola",
+    "score": 226
+  },
+  {
+    "name": "VenomHowl",
+    "score": 296
+  },
+  {
+    "name": "霸氣神帝",
+    "score": 263
+  },
+  {
+    "name": "El Supremo Luz",
+    "score": 226
+  },
+  {
+    "name": "El Vasto Guía",
+    "score": 188
+  },
+  {
+    "name": "CelestialGuardian",
+    "score": 285
+  },
+  {
+    "name": "StormInvoker",
+    "score": 239
+  },
+  {
+    "name": "焰心之眼",
+    "score": 207
+  },
+  {
+    "name": "GoldenPrince",
+    "score": 195
+  },
+  {
+    "name": "SavageShield",
+    "score": 194
+  },
+  {
+    "name": "ScarletFist",
+    "score": 327
+  },
+  {
+    "name": "SilentViking",
+    "score": 241
+  },
+  {
+    "name": "El Magnífico Niño",
+    "score": 226
+  },
+  {
+    "name": "SilverWing",
+    "score": 222
+  },
+  {
+    "name": "La Fugaz Bestia",
+    "score": 200
+  },
+  {
+    "name": "El Dorado Caballero",
+    "score": 207
+  },
+  {
+    "name": "LoneRogue",
+    "score": 213
+  },
+  {
+    "name": "RagingHammer",
+    "score": 216
+  },
+  {
+    "name": "DarkFlame",
+    "score": 219
+  },
+  {
+    "name": "至尊槍神",
+    "score": 245
+  },
+  {
+    "name": "無敵魔王",
+    "score": 225
+  },
+  {
+    "name": "La Leal Villano",
+    "score": 189
+  },
+  {
+    "name": "El Noble León",
+    "score": 337
+  },
+  {
+    "name": "La Blanco Reina",
+    "score": 302
+  },
+  {
+    "name": "GrimWolf",
+    "score": 191
+  },
+  {
+    "name": "DivineViking",
+    "score": 260
+  },
+  {
+    "name": "La Blanco Corazón",
+    "score": 232
+  },
+  {
+    "name": "El Fuerte Corazón",
+    "score": 225
+  },
+  {
+    "name": "La Radiante Lobo",
+    "score": 276
+  },
+  {
+    "name": "La Turbio Guerrero",
+    "score": 193
+  },
+  {
+    "name": "DawnSentinel",
+    "score": 211
+  },
+  {
+    "name": "VenomConqueror",
+    "score": 205
+  },
+  {
+    "name": "血色骑士",
+    "score": 189
+  },
+  {
+    "name": "El Sombrío Alma",
+    "score": 267
+  },
+  {
+    "name": "DarkPrincess",
+    "score": 202
+  },
+  {
+    "name": "SacredBow",
+    "score": 269
+  },
+  {
+    "name": "DawnCrusher",
+    "score": 179
+  },
+  {
+    "name": "InfernalHunter",
+    "score": 232
+  },
+  {
+    "name": "破天魔尊",
+    "score": 241
+  },
+  {
+    "name": "青龍之刃",
+    "score": 257
+  },
+  {
+    "name": "IronPrince",
+    "score": 238
+  },
+  {
+    "name": "SilverFist",
+    "score": 225
+  },
+  {
+    "name": "ShadowHunter",
+    "score": 292
+  },
+  {
+    "name": "DarkRogue",
+    "score": 184
+  },
+  {
+    "name": "BloodLord",
+    "score": 219
+  },
+  {
+    "name": "La Leal Guerrero",
+    "score": 182
+  },
+  {
+    "name": "ArcaneHammer",
+    "score": 222
+  },
+  {
+    "name": "MoonStalker",
+    "score": 230
+  },
+  {
+    "name": "VenomHammer",
+    "score": 199
+  },
+  {
+    "name": "WhiteSword",
+    "score": 259
+  },
+  {
+    "name": "蒼狼神帝",
+    "score": 328
+  },
+  {
+    "name": "幽冥之魂",
+    "score": 235
+  },
+  {
+    "name": "El Fuerte Princesa",
+    "score": 204
+  },
+  {
+    "name": "黎明之影",
+    "score": 220
+  },
+  {
+    "name": "DuskWhisper",
+    "score": 248
+  },
+  {
+    "name": "El Brillante Héroe",
+    "score": 180
+  },
+  {
+    "name": "傲世枪神",
+    "score": 126
+  },
+  {
+    "name": "EternalMaster",
+    "score": 293
+  },
+  {
+    "name": "霸氣之怒",
+    "score": 237
+  },
+  {
+    "name": "ArcaneCrusher",
+    "score": 178
+  },
+  {
+    "name": "StormHammer",
+    "score": 193
+  },
+  {
+    "name": "La Amargo Sombra",
+    "score": 180
+  },
+  {
+    "name": "ThunderSeeker",
+    "score": 250
+  },
+  {
+    "name": "BurningHunter",
+    "score": 324
+  },
+  {
+    "name": "ObsidianShield",
+    "score": 238
+  },
+  {
+    "name": "蒼龍之魂",
+    "score": 218
+  },
+  {
+    "name": "王者領主",
+    "score": 258
+  },
+  {
+    "name": "FrostWalker",
+    "score": 267
+  },
+  {
+    "name": "CelestialShield",
+    "score": 216
+  },
+  {
+    "name": "La Sombrío Guerrero",
+    "score": 210
+  },
+  {
+    "name": "ArcaneRider",
+    "score": 253
+  },
+  {
+    "name": "FrozenConqueror",
+    "score": 187
+  },
+  {
+    "name": "DuskShield",
+    "score": 200
+  },
+  {
+    "name": "La Amargo Señor",
+    "score": 233
+  },
+  {
+    "name": "La Tenebroso Espíritu",
+    "score": 201
+  },
+  {
+    "name": "IronSlayer",
+    "score": 255
+  },
+  {
+    "name": "龍吟天尊",
+    "score": 189
+  },
+  {
+    "name": "ImmortalClaw",
+    "score": 190
+  },
+  {
+    "name": "SacredWalker",
+    "score": 185
+  },
+  {
+    "name": "La Veloz Reina",
+    "score": 260
+  },
+  {
+    "name": "VenomStorm",
+    "score": 282
+  },
+  {
+    "name": "GhostFang",
+    "score": 119
+  },
+  {
+    "name": "戰狂之王",
+    "score": 229
+  },
+  {
+    "name": "藍影影帝",
+    "score": 193
+  },
+  {
+    "name": "InfernalCrusher",
+    "score": 193
+  },
+  {
+    "name": "烈日聖主",
+    "score": 238
+  },
+  {
+    "name": "SavageStorm",
+    "score": 234
+  },
+  {
+    "name": "焰心水尊",
+    "score": 248
+  },
+  {
+    "name": "ImmortalWatcher",
+    "score": 181
+  },
+  {
+    "name": "DemonWarden",
+    "score": 201
+  },
+  {
+    "name": "朱雀之刃",
+    "score": 232
+  },
+  {
+    "name": "La Feroz Señora",
+    "score": 194
+  },
+  {
+    "name": "ArcaneOverlord",
+    "score": 284
+  },
+  {
+    "name": "MoonFlame",
+    "score": 252
+  },
+  {
+    "name": "焰心武尊",
+    "score": 180
+  },
+  {
+    "name": "La Dorado Toro",
+    "score": 277
+  },
+  {
+    "name": "血色影帝",
+    "score": 189
+  },
+  {
+    "name": "FallenFist",
+    "score": 199
+  },
+  {
+    "name": "AzureKing",
+    "score": 200
+  },
+  {
+    "name": "ThunderSinger",
+    "score": 89
+  },
+  {
+    "name": "狂砂王座",
+    "score": 206
+  },
+  {
+    "name": "赤血之影",
+    "score": 183
+  },
+  {
+    "name": "MysticFist",
+    "score": 267
+  },
+  {
+    "name": "El Radiante Señor",
+    "score": 213
+  },
+  {
+    "name": "El Sagrado Alma",
+    "score": 183
+  },
+  {
+    "name": "RagingStorm",
+    "score": 200
+  },
+  {
+    "name": "DragonStorm",
+    "score": 244
+  },
+  {
+    "name": "ThunderStorm",
+    "score": 291
+  },
+  {
+    "name": "AzureViking",
+    "score": 110
+  },
+  {
+    "name": "GhostInvoker",
+    "score": 203
+  },
+  {
+    "name": "La Luminoso Príncipe",
+    "score": 235
+  },
+  {
+    "name": "MysticSinger",
+    "score": 226
+  },
+  {
+    "name": "WhiteChampion",
+    "score": 236
+  },
+  {
+    "name": "NightMaster",
+    "score": 199
+  },
+  {
+    "name": "ScarletCrusher",
+    "score": 241
+  },
+  {
+    "name": "雷霆至尊",
+    "score": 200
+  },
+  {
+    "name": "CrystalHunter",
+    "score": 191
+  },
+  {
+    "name": "DivinePrince",
+    "score": 243
+  },
+  {
+    "name": "RagingSpear",
+    "score": 188
+  },
+  {
+    "name": "BlackViking",
+    "score": 243
+  },
+  {
+    "name": "烈日聖君",
+    "score": 193
+  },
+  {
+    "name": "DuskMaster",
+    "score": 92
+  },
+  {
+    "name": "FallenLord",
+    "score": 238
+  },
+  {
+    "name": "ShadowViking",
+    "score": 269
+  },
+  {
+    "name": "ImmortalFlame",
+    "score": 256
+  },
+  {
+    "name": "赤血之魂",
+    "score": 204
+  },
+  {
+    "name": "怒濤戰神",
+    "score": 199
+  },
+  {
+    "name": "El Dulce Héroe",
+    "score": 195
+  },
+  {
+    "name": "DemonFlame",
+    "score": 199
+  },
+  {
+    "name": "El Poderoso Revolución",
+    "score": 197
+  },
+  {
+    "name": "朱雀帝君",
+    "score": 218
+  },
+  {
+    "name": "PhantomKnight",
+    "score": 279
+  },
+  {
+    "name": "DemonWatcher",
+    "score": 198
+  },
+  {
+    "name": "FireSpear",
+    "score": 207
+  },
+  {
+    "name": "MysticBlade",
+    "score": 192
+  },
+  {
+    "name": "神秘之心",
+    "score": 223
+  },
+  {
+    "name": "El Amargo Monstruo",
+    "score": 251
+  },
+  {
+    "name": "冰凰劍仙",
+    "score": 254
+  },
+  {
+    "name": "La Glorioso Serpiente",
+    "score": 181
+  },
+  {
+    "name": "BurningRider",
+    "score": 212
+  },
+  {
+    "name": "FireSeeker",
+    "score": 235
+  },
+  {
+    "name": "El Magnífico Sombra",
+    "score": 204
+  },
+  {
+    "name": "RagingFlame",
+    "score": 252
+  },
+  {
+    "name": "IronQueen",
+    "score": 249
+  },
+  {
+    "name": "LoneFang",
+    "score": 162
+  },
+  {
+    "name": "赤焰神帝",
+    "score": 186
+  },
+  {
+    "name": "ScarletAssassin",
+    "score": 246
+  },
+  {
+    "name": "La Pálido Guerrero",
+    "score": 198
+  },
+  {
+    "name": "DragonSinger",
+    "score": 184
+  },
+  {
+    "name": "BloodBreaker",
+    "score": 256
+  },
+  {
+    "name": "玄光影帝",
+    "score": 247
+  },
+  {
+    "name": "ScarletWizard",
+    "score": 208
+  },
+  {
+    "name": "WildWarden",
+    "score": 218
+  },
+  {
+    "name": "WhiteOverlord",
+    "score": 217
+  },
+  {
+    "name": "烈風之心",
+    "score": 238
+  },
+  {
+    "name": "WildWatcher",
+    "score": 197
+  },
+  {
+    "name": "龍吟霸主",
+    "score": 221
+  },
+  {
+    "name": "朱雀領主",
+    "score": 283
+  },
+  {
+    "name": "RoyalBreaker",
+    "score": 328
+  },
+  {
+    "name": "DragonMaster",
+    "score": 203
+  },
+  {
+    "name": "BloodMonk",
+    "score": 251
+  },
+  {
+    "name": "霸气弓圣",
+    "score": 288
+  },
+  {
+    "name": "BloodRider",
+    "score": 249
+  },
+  {
+    "name": "El Tranquilo Guerrera",
+    "score": 245
+  },
+  {
+    "name": "CrystalClaw",
+    "score": 199
+  },
+  {
+    "name": "CursedMage",
+    "score": 126
+  },
+  {
+    "name": "FireKing",
+    "score": 250
+  },
+  {
+    "name": "CursedShield",
+    "score": 205
+  },
+  {
+    "name": "逐月神将",
+    "score": 230
+  },
+  {
+    "name": "SteelFlame",
+    "score": 238
+  },
+  {
+    "name": "ShadowRogue",
+    "score": 270
+  },
+  {
+    "name": "CursedRogue",
+    "score": 186
+  },
+  {
+    "name": "MysticHowl",
+    "score": 192
+  },
+  {
+    "name": "SacredHammer",
+    "score": 234
+  },
+  {
+    "name": "BloodReaper",
+    "score": 204
+  },
+  {
+    "name": "GrimFist",
+    "score": 226
+  },
+  {
+    "name": "冰凰武尊",
+    "score": 201
+  }
+]
