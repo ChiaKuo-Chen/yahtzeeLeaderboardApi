@@ -1,4002 +1,5002 @@
 [
-  {
-    "name": "G.O.D.",
-    "score": 340
-  },
-  {
-    "name": "這遊戲怎麼玩",
-    "score": 336
-  },
-  {
-    "name": "D.O.G.",
-    "score": 332
-  },
-  {
-    "name": "EternalWhisper",
-    "score": 214
-  },
-  {
-    "name": "天穹劍聖",
-    "score": 191
-  },
-  {
-    "name": "幽冥刀尊",
-    "score": 226
-  },
-  {
-    "name": "InfernalLord",
-    "score": 120
-  },
-  {
-    "name": "El Terrible Monstruo",
-    "score": 248
-  },
-  {
-    "name": "CursedSinger",
-    "score": 275
-  },
-  {
-    "name": "SilentWing",
-    "score": 287
-  },
-  {
-    "name": "SilentFlame",
-    "score": 286
-  },
-  {
-    "name": "ThunderViking",
-    "score": 191
-  },
-  {
-    "name": "SavagePrince",
-    "score": 230
-  },
-  {
-    "name": "SilentWhisper",
-    "score": 193
-  },
-  {
-    "name": "StormKnight",
-    "score": 178
-  },
-  {
-    "name": "BurningMage",
-    "score": 204
-  },
-  {
-    "name": "DarkLord",
-    "score": 200
-  },
-  {
-    "name": "La Sagrado Águila",
-    "score": 250
-  },
-  {
-    "name": "GrimPrince",
-    "score": 191
-  },
-  {
-    "name": "AzureAssassin",
-    "score": 193
-  },
-  {
-    "name": "StormRogue",
-    "score": 181
-  },
-  {
-    "name": "La Leal Cazador",
-    "score": 190
-  },
-  {
-    "name": "SteelClaw",
-    "score": 213
-  },
-  {
-    "name": "蒼穹帝君",
-    "score": 173
-  },
-  {
-    "name": "EternalKing",
-    "score": 284
-  },
-  {
-    "name": "ScarletHowl",
-    "score": 262
-  },
-  {
-    "name": "GhostHammer",
-    "score": 315
-  },
-  {
-    "name": "BurningFist",
-    "score": 260
-  },
-  {
-    "name": "La Vasto Maestro",
-    "score": 235
-  },
-  {
-    "name": "El Salvaje Guerrero",
-    "score": 242
-  },
-  {
-    "name": "青龍霸主",
-    "score": 247
-  },
-  {
-    "name": "GrimQueen",
-    "score": 256
-  },
-  {
-    "name": "WildAssassin",
-    "score": 318
-  },
-  {
-    "name": "蒼龍妖王",
-    "score": 204
-  },
-  {
-    "name": "SavageSamurai",
-    "score": 305
-  },
-  {
-    "name": "La Dorado Corazón",
-    "score": 228
-  },
-  {
-    "name": "IronPrincess",
-    "score": 220
-  },
-  {
-    "name": "DarkWhisper",
-    "score": 218
-  },
-  {
-    "name": "BurningSamurai",
-    "score": 336
-  },
-  {
-    "name": "DuskBow",
-    "score": 255
-  },
-  {
-    "name": "CrystalSlayer",
-    "score": 230
-  },
-  {
-    "name": "DawnClaw",
-    "score": 189
-  },
-  {
-    "name": "DawnAssassin",
-    "score": 260
-  },
-  {
-    "name": "FrostMonk",
-    "score": 273
-  },
-  {
-    "name": "ThunderQueen",
-    "score": 102
-  },
-  {
-    "name": "PhantomQueen",
-    "score": 217
-  },
-  {
-    "name": "BloodOverlord",
-    "score": 192
-  },
-  {
-    "name": "RagingWatcher",
-    "score": 233
-  },
-  {
-    "name": "FallenFlame",
-    "score": 189
-  },
-  {
-    "name": "SacredClaw",
-    "score": 198
-  },
-  {
-    "name": "ImmortalMage",
-    "score": 292
-  },
-  {
-    "name": "霸氣火尊",
-    "score": 216
-  },
-  {
-    "name": "雷霆仙尊",
-    "score": 204
-  },
-  {
-    "name": "NightStrike",
-    "score": 180
-  },
-  {
-    "name": "DemonFang",
-    "score": 161
-  },
-  {
-    "name": "EternalFlame",
-    "score": 211
-  },
-  {
-    "name": "DarkHunter",
-    "score": 234
-  },
-  {
-    "name": "焰心妖帝",
-    "score": 187
-  },
-  {
-    "name": "赤焰神將",
-    "score": 307
-  },
-  {
-    "name": "FallenHammer",
-    "score": 221
-  },
-  {
-    "name": "GrimMage",
-    "score": 250
-  },
-  {
-    "name": "GhostWizard",
-    "score": 197
-  },
-  {
-    "name": "La Veloz Corazón",
-    "score": 298
-  },
-  {
-    "name": "EternalWarden",
-    "score": 194
-  },
-  {
-    "name": "El Amargo Cazador",
-    "score": 202
-  },
-  {
-    "name": "神秘之眼",
-    "score": 234
-  },
-  {
-    "name": "ThunderMage",
-    "score": 280
-  },
-  {
-    "name": "DuskAssassin",
-    "score": 290
-  },
-  {
-    "name": "ScarletGuardian",
-    "score": 210
-  },
-  {
-    "name": "El Radiante Dragona",
-    "score": 217
-  },
-  {
-    "name": "ShadowStalker",
-    "score": 210
-  },
-  {
-    "name": "LoneChampion",
-    "score": 222
-  },
-  {
-    "name": "NightBreaker",
-    "score": 255
-  },
-  {
-    "name": "DuskHowl",
-    "score": 200
-  },
-  {
-    "name": "InfernalQueen",
-    "score": 234
-  },
-  {
-    "name": "DuskSentinel",
-    "score": 212
-  },
-  {
-    "name": "DuskKnight",
-    "score": 208
-  },
-  {
-    "name": "ObsidianFist",
-    "score": 190
-  },
-  {
-    "name": "SilverPrince",
-    "score": 90
-  },
-  {
-    "name": "La Pálido Villano",
-    "score": 225
-  },
-  {
-    "name": "SacredWing",
-    "score": 234
-  },
-  {
-    "name": "DarkStorm",
-    "score": 253
-  },
-  {
-    "name": "La Veloz Príncipe",
-    "score": 287
-  },
-  {
-    "name": "ObsidianWatcher",
-    "score": 259
-  },
-  {
-    "name": "NightWizard",
-    "score": 234
-  },
-  {
-    "name": "El Infame Guerrera",
-    "score": 231
-  },
-  {
-    "name": "黑炎劍帝",
-    "score": 228
-  },
-  {
-    "name": "La Luminoso Guerrera",
-    "score": 191
-  },
-  {
-    "name": "CelestialFist",
-    "score": 196
-  },
-  {
-    "name": "DemonBlade",
-    "score": 224
-  },
-  {
-    "name": "IronSamurai",
-    "score": 234
-  },
-  {
-    "name": "WhiteWarden",
-    "score": 181
-  },
-  {
-    "name": "ArcaneHowl",
-    "score": 98
-  },
-  {
-    "name": "ObsidianSamurai",
-    "score": 280
-  },
-  {
-    "name": "El Joven Gigante",
-    "score": 245
-  },
-  {
-    "name": "ArcaneFang",
-    "score": 313
-  },
-  {
-    "name": "MysticPrince",
-    "score": 218
-  },
-  {
-    "name": "StormWing",
-    "score": 285
-  },
-  {
-    "name": "怒濤聖主",
-    "score": 203
-  },
-  {
-    "name": "ShadowBreaker",
-    "score": 250
-  },
-  {
-    "name": "MysticWarden",
-    "score": 240
-  },
-  {
-    "name": "StormStorm",
-    "score": 245
-  },
-  {
-    "name": "BlackBreaker",
-    "score": 279
-  },
-  {
-    "name": "NightSinger",
-    "score": 288
-  },
-  {
-    "name": "寒霜聖君",
-    "score": 219
-  },
-  {
-    "name": "LoneSentinel",
-    "score": 192
-  },
-  {
-    "name": "MysticKnight",
-    "score": 197
-  },
-  {
-    "name": "El Silencioso Trueno",
-    "score": 228
-  },
-  {
-    "name": "El Sereno León",
-    "score": 223
-  },
-  {
-    "name": "MysticReaper",
-    "score": 248
-  },
-  {
-    "name": "RoyalSinger",
-    "score": 229
-  },
-  {
-    "name": "朱雀圣皇",
-    "score": 184
-  },
-  {
-    "name": "IronBreaker",
-    "score": 230
-  },
-  {
-    "name": "La Silencioso Señora",
-    "score": 99
-  },
-  {
-    "name": "IronCrusher",
-    "score": 203
-  },
-  {
-    "name": "炎龙天尊",
-    "score": 235
-  },
-  {
-    "name": "DarkBow",
-    "score": 144
-  },
-  {
-    "name": "El Invisible Mago",
-    "score": 233
-  },
-  {
-    "name": "神秘弓聖",
-    "score": 199
-  },
-  {
-    "name": "AngelReaper",
-    "score": 226
-  },
-  {
-    "name": "DivineWizard",
-    "score": 80
-  },
-  {
-    "name": "WildPrince",
-    "score": 230
-  },
-  {
-    "name": "WhiteSpear",
-    "score": 198
-  },
-  {
-    "name": "GhostSpear",
-    "score": 215
-  },
-  {
-    "name": "El Fugaz Luz",
-    "score": 200
-  },
-  {
-    "name": "NightHunter",
-    "score": 229
-  },
-  {
-    "name": "El Dorado Águila",
-    "score": 232
-  },
-  {
-    "name": "SavageBreaker",
-    "score": 153
-  },
-  {
-    "name": "EternalSword",
-    "score": 237
-  },
-  {
-    "name": "雷霆神帝",
-    "score": 197
-  },
-  {
-    "name": "FrostHowl",
-    "score": 247
-  },
-  {
-    "name": "WildSeeker",
-    "score": 212
-  },
-  {
-    "name": "WhitePrincess",
-    "score": 204
-  },
-  {
-    "name": "黑夜霸主",
-    "score": 142
-  },
-  {
-    "name": "DragonSeeker",
-    "score": 216
-  },
-  {
-    "name": "BraveHammer",
-    "score": 311
-  },
-  {
-    "name": "RagingShield",
-    "score": 228
-  },
-  {
-    "name": "AzureStalker",
-    "score": 187
-  },
-  {
-    "name": "破曉修羅",
-    "score": 191
-  },
-  {
-    "name": "赤焰戰神",
-    "score": 231
-  },
-  {
-    "name": "凌霄修罗",
-    "score": 297
-  },
-  {
-    "name": "BlackLord",
-    "score": 198
-  },
-  {
-    "name": "El Infame León",
-    "score": 249
-  },
-  {
-    "name": "ThunderConqueror",
-    "score": 303
-  },
-  {
-    "name": "幻影劍仙",
-    "score": 207
-  },
-  {
-    "name": "FrostWatcher",
-    "score": 184
-  },
-  {
-    "name": "ScarletHunter",
-    "score": 201
-  },
-  {
-    "name": "ScarletMage",
-    "score": 289
-  },
-  {
-    "name": "ScarletSpear",
-    "score": 235
-  },
-  {
-    "name": "黑炎之怒",
-    "score": 230
-  },
-  {
-    "name": "PhantomStrike",
-    "score": 298
-  },
-  {
-    "name": "El Joven Fantasma",
-    "score": 266
-  },
-  {
-    "name": "InfernalBreaker",
-    "score": 270
-  },
-  {
-    "name": "絕影戰魂",
-    "score": 193
-  },
-  {
-    "name": "VenomHunter",
-    "score": 180
-  },
-  {
-    "name": "黃昏聖皇",
-    "score": 230
-  },
-  {
-    "name": "DarkMonk",
-    "score": 210
-  },
-  {
-    "name": "FallenSentinel",
-    "score": 221
-  },
-  {
-    "name": "BloodPrince",
-    "score": 242
-  },
-  {
-    "name": "ObsidianWolf",
-    "score": 212
-  },
-  {
-    "name": "ShadowMonk",
-    "score": 258
-  },
-  {
-    "name": "BloodMage",
-    "score": 293
-  },
-  {
-    "name": "InfernalSpear",
-    "score": 195
-  },
-  {
-    "name": "EmeraldSlayer",
-    "score": 284
-  },
-  {
-    "name": "DragonWatcher",
-    "score": 222
-  },
-  {
-    "name": "银月修罗",
-    "score": 200
-  },
-  {
-    "name": "無雙聖者",
-    "score": 180
-  },
-  {
-    "name": "ArcanePrince",
-    "score": 227
-  },
-  {
-    "name": "DawnWhisper",
-    "score": 216
-  },
-  {
-    "name": "烈日皇帝",
-    "score": 196
-  },
-  {
-    "name": "DuskOverlord",
-    "score": 214
-  },
-  {
-    "name": "WildLord",
-    "score": 195
-  },
-  {
-    "name": "DemonSlayer",
-    "score": 296
-  },
-  {
-    "name": "BraveWing",
-    "score": 262
-  },
-  {
-    "name": "CelestialWizard",
-    "score": 182
-  },
-  {
-    "name": "StormQueen",
-    "score": 135
-  },
-  {
-    "name": "藍影之怒",
-    "score": 236
-  },
-  {
-    "name": "DragonWizard",
-    "score": 180
-  },
-  {
-    "name": "La Noble Maestro",
-    "score": 264
-  },
-  {
-    "name": "火鳳刀尊",
-    "score": 225
-  },
-  {
-    "name": "怒濤之魂",
-    "score": 236
-  },
-  {
-    "name": "MoonViking",
-    "score": 246
-  },
-  {
-    "name": "CursedBow",
-    "score": 209
-  },
-  {
-    "name": "InfernalMage",
-    "score": 245
-  },
-  {
-    "name": "RoyalSamurai",
-    "score": 210
-  },
-  {
-    "name": "ShadowFist",
-    "score": 278
-  },
-  {
-    "name": "La Invisible Príncipe",
-    "score": 212
-  },
-  {
-    "name": "玄武之眼",
-    "score": 294
-  },
-  {
-    "name": "NightWhisper",
-    "score": 241
-  },
-  {
-    "name": "DragonPrincess",
-    "score": 236
-  },
-  {
-    "name": "GrimSword",
-    "score": 249
-  },
-  {
-    "name": "La Misterioso Revolución",
-    "score": 181
-  },
-  {
-    "name": "NightQueen",
-    "score": 185
-  },
-  {
-    "name": "BlackMage",
-    "score": 204
-  },
-  {
-    "name": "EternalSlayer",
-    "score": 191
-  },
-  {
-    "name": "MoonInvoker",
-    "score": 237
-  },
-  {
-    "name": "MoonSlayer",
-    "score": 210
-  },
-  {
-    "name": "ShadowInvoker",
-    "score": 255
-  },
-  {
-    "name": "白虎聖主",
-    "score": 260
-  },
-  {
-    "name": "MoonBreaker",
-    "score": 253
-  },
-  {
-    "name": "EmeraldConqueror",
-    "score": 197
-  },
-  {
-    "name": "AzureMaster",
-    "score": 239
-  },
-  {
-    "name": "WildWhisper",
-    "score": 259
-  },
-  {
-    "name": "RadiantOverlord",
-    "score": 250
-  },
-  {
-    "name": "DivineMaster",
-    "score": 279
-  },
-  {
-    "name": "El Pálido Héroe",
-    "score": 187
-  },
-  {
-    "name": "灭世圣主",
-    "score": 228
-  },
-  {
-    "name": "CrystalKing",
-    "score": 235
-  },
-  {
-    "name": "El Rugiente Estrella",
-    "score": 242
-  },
-  {
-    "name": "WildSpear",
-    "score": 213
-  },
-  {
-    "name": "ArcaneKing",
-    "score": 216
-  },
-  {
-    "name": "PhantomGuardian",
-    "score": 184
-  },
-  {
-    "name": "La Vasto Tigre",
-    "score": 224
-  },
-  {
-    "name": "霸氣雷帝",
-    "score": 324
-  },
-  {
-    "name": "InfernalInvoker",
-    "score": 86
-  },
-  {
-    "name": "DarkHammer",
-    "score": 226
-  },
-  {
-    "name": "DawnHowl",
-    "score": 247
-  },
-  {
-    "name": "El Feroz Monstruo",
-    "score": 188
-  },
-  {
-    "name": "魔炎之刃",
-    "score": 180
-  },
-  {
-    "name": "蒼穹之光",
-    "score": 336
-  },
-  {
-    "name": "LoneMonk",
-    "score": 251
-  },
-  {
-    "name": "WhiteMonk",
-    "score": 306
-  },
-  {
-    "name": "ObsidianWarden",
-    "score": 183
-  },
-  {
-    "name": "赤焰雷帝",
-    "score": 193
-  },
-  {
-    "name": "DemonShield",
-    "score": 234
-  },
-  {
-    "name": "La Noble Corazón",
-    "score": 220
-  },
-  {
-    "name": "DemonReaper",
-    "score": 186
-  },
-  {
-    "name": "StormAssassin",
-    "score": 259
-  },
-  {
-    "name": "La Rugiente Niño",
-    "score": 220
-  },
-  {
-    "name": "焰心弓圣",
-    "score": 266
-  },
-  {
-    "name": "EternalConqueror",
-    "score": 287
-  },
-  {
-    "name": "RadiantWalker",
-    "score": 217
-  },
-  {
-    "name": "FrozenInvoker",
-    "score": 233
-  },
-  {
-    "name": "BraveStrike",
-    "score": 185
-  },
-  {
-    "name": "DawnViking",
-    "score": 152
-  },
-  {
-    "name": "逐日刀尊",
-    "score": 202
-  },
-  {
-    "name": "La Sereno Revolución",
-    "score": 267
-  },
-  {
-    "name": "FrostBow",
-    "score": 328
-  },
-  {
-    "name": "SacredPrincess",
-    "score": 266
-  },
-  {
-    "name": "RoyalFlame",
-    "score": 323
-  },
-  {
-    "name": "絕影天尊",
-    "score": 204
-  },
-  {
-    "name": "SilentShield",
-    "score": 188
-  },
-  {
-    "name": "RadiantConqueror",
-    "score": 295
-  },
-  {
-    "name": "La Infinito Toro",
-    "score": 291
-  },
-  {
-    "name": "朱雀刀皇",
-    "score": 290
-  },
-  {
-    "name": "El Loco Lobo",
-    "score": 200
-  },
-  {
-    "name": "PhantomBlade",
-    "score": 105
-  },
-  {
-    "name": "SilverWalker",
-    "score": 200
-  },
-  {
-    "name": "NightCrusher",
-    "score": 182
-  },
-  {
-    "name": "El Viejo Revolución",
-    "score": 180
-  },
-  {
-    "name": "InfernalWhisper",
-    "score": 230
-  },
-  {
-    "name": "DragonKing",
-    "score": 191
-  },
-  {
-    "name": "NightFang",
-    "score": 129
-  },
-  {
-    "name": "La Tranquilo Príncipe",
-    "score": 309
-  },
-  {
-    "name": "La Tenebroso Lobo",
-    "score": 263
-  },
-  {
-    "name": "El Infinito Ola",
-    "score": 252
-  },
-  {
-    "name": "ScarletQueen",
-    "score": 182
-  },
-  {
-    "name": "MoonWatcher",
-    "score": 256
-  },
-  {
-    "name": "SilentConqueror",
-    "score": 187
-  },
-  {
-    "name": "GhostMaster",
-    "score": 192
-  },
-  {
-    "name": "El Turbio Alma",
-    "score": 211
-  },
-  {
-    "name": "FrozenKnight",
-    "score": 251
-  },
-  {
-    "name": "魔炎仙尊",
-    "score": 215
-  },
-  {
-    "name": "FallenSamurai",
-    "score": 238
-  },
-  {
-    "name": "StormSinger",
-    "score": 195
-  },
-  {
-    "name": "La Sabio Oráculo",
-    "score": 220
-  },
-  {
-    "name": "焰心之魂",
-    "score": 266
-  },
-  {
-    "name": "DuskSpear",
-    "score": 263
-  },
-  {
-    "name": "El Eterno Gigante",
-    "score": 317
-  },
-  {
-    "name": "EmeraldQueen",
-    "score": 221
-  },
-  {
-    "name": "WhiteSinger",
-    "score": 239
-  },
-  {
-    "name": "EmeraldPrincess",
-    "score": 232
-  },
-  {
-    "name": "EternalSentinel",
-    "score": 300
-  },
-  {
-    "name": "La Rugiente Estrella",
-    "score": 274
-  },
-  {
-    "name": "DivineQueen",
-    "score": 265
-  },
-  {
-    "name": "BurningFang",
-    "score": 243
-  },
-  {
-    "name": "PhantomRider",
-    "score": 254
-  },
-  {
-    "name": "SilverHowl",
-    "score": 207
-  },
-  {
-    "name": "銀月天帝",
-    "score": 206
-  },
-  {
-    "name": "RoyalRider",
-    "score": 289
-  },
-  {
-    "name": "GrimSamurai",
-    "score": 291
-  },
-  {
-    "name": "VenomGuardian",
-    "score": 319
-  },
-  {
-    "name": "AngelLord",
-    "score": 220
-  },
-  {
-    "name": "BurningQueen",
-    "score": 204
-  },
-  {
-    "name": "BraveKnight",
-    "score": 267
-  },
-  {
-    "name": "IronLord",
-    "score": 225
-  },
-  {
-    "name": "FrozenOverlord",
-    "score": 187
-  },
-  {
-    "name": "AzureSeeker",
-    "score": 158
-  },
-  {
-    "name": "至尊戰魂",
-    "score": 256
-  },
-  {
-    "name": "El Magnífico Espíritu",
-    "score": 200
-  },
-  {
-    "name": "ShadowSword",
-    "score": 260
-  },
-  {
-    "name": "VenomFlame",
-    "score": 186
-  },
-  {
-    "name": "ScarletSinger",
-    "score": 225
-  },
-  {
-    "name": "FrozenFang",
-    "score": 283
-  },
-  {
-    "name": "VenomWizard",
-    "score": 193
-  },
-  {
-    "name": "EternalPrince",
-    "score": 200
-  },
-  {
-    "name": "RagingConqueror",
-    "score": 184
-  },
-  {
-    "name": "無雙之魂",
-    "score": 248
-  },
-  {
-    "name": "ImmortalSpear",
-    "score": 233
-  },
-  {
-    "name": "ArcaneSamurai",
-    "score": 184
-  },
-  {
-    "name": "DragonQueen",
-    "score": 108
-  },
-  {
-    "name": "EmeraldPrince",
-    "score": 204
-  },
-  {
-    "name": "SacredReaper",
-    "score": 245
-  },
-  {
-    "name": "ArcaneWalker",
-    "score": 235
-  },
-  {
-    "name": "La Tenebroso Bestia",
-    "score": 204
-  },
-  {
-    "name": "IronFist",
-    "score": 225
-  },
-  {
-    "name": "BlackGuardian",
-    "score": 240
-  },
-  {
-    "name": "El Dulce Águila",
-    "score": 217
-  },
-  {
-    "name": "ShadowConqueror",
-    "score": 210
-  },
-  {
-    "name": "BraveSentinel",
-    "score": 273
-  },
-  {
-    "name": "天启雷帝",
-    "score": 282
-  },
-  {
-    "name": "CelestialAssassin",
-    "score": 200
-  },
-  {
-    "name": "CelestialSinger",
-    "score": 245
-  },
-  {
-    "name": "DarkWizard",
-    "score": 230
-  },
-  {
-    "name": "ImmortalKing",
-    "score": 126
-  },
-  {
-    "name": "El Viejo Guía",
-    "score": 181
-  },
-  {
-    "name": "DemonPrincess",
-    "score": 212
-  },
-  {
-    "name": "GrimInvoker",
-    "score": 185
-  },
-  {
-    "name": "InfernalHammer",
-    "score": 230
-  },
-  {
-    "name": "InfernalSlayer",
-    "score": 279
-  },
-  {
-    "name": "DemonWizard",
-    "score": 233
-  },
-  {
-    "name": "SilverSeeker",
-    "score": 314
-  },
-  {
-    "name": "白虎妖帝",
-    "score": 193
-  },
-  {
-    "name": "El Roto Toro",
-    "score": 230
-  },
-  {
-    "name": "MysticHunter",
-    "score": 259
-  },
-  {
-    "name": "LoneSpear",
-    "score": 264
-  },
-  {
-    "name": "FireGuardian",
-    "score": 295
-  },
-  {
-    "name": "SacredBreaker",
-    "score": 214
-  },
-  {
-    "name": "MysticMonk",
-    "score": 185
-  },
-  {
-    "name": "CursedMonk",
-    "score": 249
-  },
-  {
-    "name": "SteelWolf",
-    "score": 191
-  },
-  {
-    "name": "SteelBow",
-    "score": 228
-  },
-  {
-    "name": "GoldenWolf",
-    "score": 199
-  },
-  {
-    "name": "朱雀拳尊",
-    "score": 209
-  },
-  {
-    "name": "RagingWarden",
-    "score": 296
-  },
-  {
-    "name": "SacredSamurai",
-    "score": 256
-  },
-  {
-    "name": "EmeraldWolf",
-    "score": 230
-  },
-  {
-    "name": "碧海之心",
-    "score": 193
-  },
-  {
-    "name": "El Radiante Héroe",
-    "score": 197
-  },
-  {
-    "name": "SilentRider",
-    "score": 263
-  },
-  {
-    "name": "DivineGuardian",
-    "score": 199
-  },
-  {
-    "name": "ShadowWolf",
-    "score": 227
-  },
-  {
-    "name": "無雙劍仙",
-    "score": 237
-  },
-  {
-    "name": "SavageBlade",
-    "score": 206
-  },
-  {
-    "name": "EmeraldStalker",
-    "score": 243
-  },
-  {
-    "name": "BraveClaw",
-    "score": 202
-  },
-  {
-    "name": "ArcaneMage",
-    "score": 258
-  },
-  {
-    "name": "SilentSentinel",
-    "score": 306
-  },
-  {
-    "name": "NightStorm",
-    "score": 286
-  },
-  {
-    "name": "VenomPrincess",
-    "score": 212
-  },
-  {
-    "name": "FallenStalker",
-    "score": 113
-  },
-  {
-    "name": "RadiantInvoker",
-    "score": 255
-  },
-  {
-    "name": "LoneWatcher",
-    "score": 188
-  },
-  {
-    "name": "絕影魔王",
-    "score": 266
-  },
-  {
-    "name": "玄武火尊",
-    "score": 199
-  },
-  {
-    "name": "GrimOverlord",
-    "score": 231
-  },
-  {
-    "name": "焰心护法",
-    "score": 197
-  },
-  {
-    "name": "EternalStalker",
-    "score": 226
-  },
-  {
-    "name": "FireSword",
-    "score": 200
-  },
-  {
-    "name": "La Misterioso Ola",
-    "score": 196
-  },
-  {
-    "name": "怒濤魔君",
-    "score": 232
-  },
-  {
-    "name": "DarkKnight",
-    "score": 81
-  },
-  {
-    "name": "DemonWhisper",
-    "score": 231
-  },
-  {
-    "name": "烈風聖者",
-    "score": 124
-  },
-  {
-    "name": "ArcaneGuardian",
-    "score": 182
-  },
-  {
-    "name": "El Callado Corazón",
-    "score": 220
-  },
-  {
-    "name": "DarkOverlord",
-    "score": 243
-  },
-  {
-    "name": "El Tenebroso Llama",
-    "score": 214
-  },
-  {
-    "name": "El Viejo Fantasma",
-    "score": 205
-  },
-  {
-    "name": "SilverWhisper",
-    "score": 198
-  },
-  {
-    "name": "La Loco Príncipe",
-    "score": 257
-  },
-  {
-    "name": "逐月教主",
-    "score": 181
-  },
-  {
-    "name": "GhostShield",
-    "score": 187
-  },
-  {
-    "name": "裂地法王",
-    "score": 243
-  },
-  {
-    "name": "神威劍帝",
-    "score": 265
-  },
-  {
-    "name": "DivineMage",
-    "score": 284
-  },
-  {
-    "name": "El Roto Alma",
-    "score": 184
-  },
-  {
-    "name": "ImmortalWalker",
-    "score": 231
-  },
-  {
-    "name": "ThunderRider",
-    "score": 214
-  },
-  {
-    "name": "BlackRider",
-    "score": 184
-  },
-  {
-    "name": "La Terrible Sombra",
-    "score": 198
-  },
-  {
-    "name": "FrostSword",
-    "score": 191
-  },
-  {
-    "name": "GhostPrince",
-    "score": 189
-  },
-  {
-    "name": "皓日聖主",
-    "score": 128
-  },
-  {
-    "name": "CursedWalker",
-    "score": 190
-  },
-  {
-    "name": "聖光妖王",
-    "score": 195
-  },
-  {
-    "name": "La Pálido Fantasma",
-    "score": 231
-  },
-  {
-    "name": "烈風火尊",
-    "score": 270
-  },
-  {
-    "name": "寂滅仙尊",
-    "score": 296
-  },
-  {
-    "name": "CelestialHammer",
-    "score": 132
-  },
-  {
-    "name": "El Invisible Ola",
-    "score": 250
-  },
-  {
-    "name": "烈日神將",
-    "score": 181
-  },
-  {
-    "name": "BloodMaster",
-    "score": 225
-  },
-  {
-    "name": "青龍龍皇",
-    "score": 140
-  },
-  {
-    "name": "AzureHammer",
-    "score": 241
-  },
-  {
-    "name": "DemonClaw",
-    "score": 248
-  },
-  {
-    "name": "SilentWatcher",
-    "score": 199
-  },
-  {
-    "name": "魔炎之皇",
-    "score": 231
-  },
-  {
-    "name": "DarkReaper",
-    "score": 141
-  },
-  {
-    "name": "SilentFang",
-    "score": 235
-  },
-  {
-    "name": "FrostSentinel",
-    "score": 184
-  },
-  {
-    "name": "青龍之光",
-    "score": 195
-  },
-  {
-    "name": "戰狂刀尊",
-    "score": 251
-  },
-  {
-    "name": "IronGuardian",
-    "score": 202
-  },
-  {
-    "name": "MysticWing",
-    "score": 260
-  },
-  {
-    "name": "DawnFlame",
-    "score": 231
-  },
-  {
-    "name": "SacredPrince",
-    "score": 231
-  },
-  {
-    "name": "EmeraldStrike",
-    "score": 284
-  },
-  {
-    "name": "DragonInvoker",
-    "score": 269
-  },
-  {
-    "name": "灭世神将",
-    "score": 233
-  },
-  {
-    "name": "EternalWizard",
-    "score": 340
-  },
-  {
-    "name": "El Invencible Señor",
-    "score": 290
-  },
-  {
-    "name": "ArcaneSword",
-    "score": 247
-  },
-  {
-    "name": "光明火尊",
-    "score": 241
-  },
-  {
-    "name": "FrostKing",
-    "score": 184
-  },
-  {
-    "name": "InfernalFlame",
-    "score": 275
-  },
-  {
-    "name": "GrimStalker",
-    "score": 186
-  },
-  {
-    "name": "ThunderCrusher",
-    "score": 192
-  },
-  {
-    "name": "銀月聖主",
-    "score": 182
-  },
-  {
-    "name": "蒼龍天尊",
-    "score": 235
-  },
-  {
-    "name": "WildMaster",
-    "score": 292
-  },
-  {
-    "name": "LoneFlame",
-    "score": 222
-  },
-  {
-    "name": "ImmortalHammer",
-    "score": 211
-  },
-  {
-    "name": "FallenWolf",
-    "score": 209
-  },
-  {
-    "name": "絕影之魂",
-    "score": 268
-  },
-  {
-    "name": "InfernalStalker",
-    "score": 127
-  },
-  {
-    "name": "ImmortalQueen",
-    "score": 191
-  },
-  {
-    "name": "InfernalSentinel",
-    "score": 196
-  },
-  {
-    "name": "SavageGuardian",
-    "score": 189
-  },
-  {
-    "name": "LoneWizard",
-    "score": 180
-  },
-  {
-    "name": "El Dulce Corazón",
-    "score": 183
-  },
-  {
-    "name": "王者之怒",
-    "score": 209
-  },
-  {
-    "name": "FrostShield",
-    "score": 209
-  },
-  {
-    "name": "SacredKing",
-    "score": 287
-  },
-  {
-    "name": "DawnConqueror",
-    "score": 222
-  },
-  {
-    "name": "無雙守護",
-    "score": 211
-  },
-  {
-    "name": "SteelHowl",
-    "score": 238
-  },
-  {
-    "name": "蒼龍火尊",
-    "score": 259
-  },
-  {
-    "name": "苍狼战神",
-    "score": 246
-  },
-  {
-    "name": "絕影妖王",
-    "score": 211
-  },
-  {
-    "name": "DawnQueen",
-    "score": 198
-  },
-  {
-    "name": "DuskFist",
-    "score": 267
-  },
-  {
-    "name": "蒼月仙尊",
-    "score": 241
-  },
-  {
-    "name": "RadiantQueen",
-    "score": 202
-  },
-  {
-    "name": "紫电武神",
-    "score": 221
-  },
-  {
-    "name": "ShadowHowl",
-    "score": 256
-  },
-  {
-    "name": "紫电枪神",
-    "score": 210
-  },
-  {
-    "name": "CelestialSpear",
-    "score": 195
-  },
-  {
-    "name": "El Poderoso Señor",
-    "score": 335
-  },
-  {
-    "name": "SilverStrike",
-    "score": 192
-  },
-  {
-    "name": "蒼龍天帝",
-    "score": 233
-  },
-  {
-    "name": "DemonMonk",
-    "score": 266
-  },
-  {
-    "name": "ObsidianAssassin",
-    "score": 187
-  },
-  {
-    "name": "紫电法王",
-    "score": 249
-  },
-  {
-    "name": "ArcaneWarden",
-    "score": 206
-  },
-  {
-    "name": "AngelChampion",
-    "score": 188
-  },
-  {
-    "name": "StormWhisper",
-    "score": 221
-  },
-  {
-    "name": "SacredKnight",
-    "score": 202
-  },
-  {
-    "name": "PhantomMage",
-    "score": 207
-  },
-  {
-    "name": "StormKing",
-    "score": 181
-  },
-  {
-    "name": "無敵之光",
-    "score": 182
-  },
-  {
-    "name": "BloodSentinel",
-    "score": 203
-  },
-  {
-    "name": "RoyalAssassin",
-    "score": 264
-  },
-  {
-    "name": "ObsidianSpear",
-    "score": 203
-  },
-  {
-    "name": "La Invisible Toro",
-    "score": 229
-  },
-  {
-    "name": "FireClaw",
-    "score": 189
-  },
-  {
-    "name": "EmeraldSamurai",
-    "score": 296
-  },
-  {
-    "name": "赤血神將",
-    "score": 307
-  },
-  {
-    "name": "SilverWarden",
-    "score": 189
-  },
-  {
-    "name": "BloodSlayer",
-    "score": 208
-  },
-  {
-    "name": "El Amargo Trueno",
-    "score": 226
-  },
-  {
-    "name": "GhostSinger",
-    "score": 192
-  },
-  {
-    "name": "焰心影帝",
-    "score": 277
-  },
-  {
-    "name": "霸气鹰尊",
-    "score": 203
-  },
-  {
-    "name": "EternalBlade",
-    "score": 306
-  },
-  {
-    "name": "LoneHowl",
-    "score": 174
-  },
-  {
-    "name": "火鳳霸主",
-    "score": 257
-  },
-  {
-    "name": "光明教主",
-    "score": 254
-  },
-  {
-    "name": "PhantomWalker",
-    "score": 197
-  },
-  {
-    "name": "La Sagrado Villano",
-    "score": 199
-  },
-  {
-    "name": "NightClaw",
-    "score": 224
-  },
-  {
-    "name": "DivineSeeker",
-    "score": 292
-  },
-  {
-    "name": "ThunderSlayer",
-    "score": 220
-  },
-  {
-    "name": "碎星妖帝",
-    "score": 202
-  },
-  {
-    "name": "GoldenLord",
-    "score": 273
-  },
-  {
-    "name": "天穹修羅",
-    "score": 252
-  },
-  {
-    "name": "FrozenWalker",
-    "score": 227
-  },
-  {
-    "name": "La Terrible Ola",
-    "score": 228
-  },
-  {
-    "name": "BloodGuardian",
-    "score": 193
-  },
-  {
-    "name": "DivineReaper",
-    "score": 255
-  },
-  {
-    "name": "VenomStalker",
-    "score": 258
-  },
-  {
-    "name": "El Negro Tigre",
-    "score": 229
-  },
-  {
-    "name": "EmeraldBreaker",
-    "score": 307
-  },
-  {
-    "name": "霸氣戰神",
-    "score": 188
-  },
-  {
-    "name": "SteelRider",
-    "score": 232
-  },
-  {
-    "name": "天启之主",
-    "score": 243
-  },
-  {
-    "name": "無敵拳皇",
-    "score": 222
-  },
-  {
-    "name": "烈日拳尊",
-    "score": 198
-  },
-  {
-    "name": "La Callado Dragona",
-    "score": 222
-  },
-  {
-    "name": "SavageLord",
-    "score": 280
-  },
-  {
-    "name": "AzureFist",
-    "score": 239
-  },
-  {
-    "name": "CrystalCrusher",
-    "score": 233
-  },
-  {
-    "name": "CelestialKing",
-    "score": 218
-  },
-  {
-    "name": "FrozenChampion",
-    "score": 200
-  },
-  {
-    "name": "DemonHowl",
-    "score": 230
-  },
-  {
-    "name": "ArcaneMaster",
-    "score": 243
-  },
-  {
-    "name": "GrimMaster",
-    "score": 233
-  },
-  {
-    "name": "青龙枪神",
-    "score": 194
-  },
-  {
-    "name": "BloodSinger",
-    "score": 336
-  },
-  {
-    "name": "SilverBreaker",
-    "score": 182
-  },
-  {
-    "name": "El Poderoso Caballero",
-    "score": 189
-  },
-  {
-    "name": "寒霜帝君",
-    "score": 240
-  },
-  {
-    "name": "IronSword",
-    "score": 197
-  },
-  {
-    "name": "DragonFlame",
-    "score": 186
-  },
-  {
-    "name": "黑炎之皇",
-    "score": 230
-  },
-  {
-    "name": "BlackMaster",
-    "score": 279
-  },
-  {
-    "name": "SilentBow",
-    "score": 191
-  },
-  {
-    "name": "BurningSentinel",
-    "score": 258
-  },
-  {
-    "name": "El Infame Dragona",
-    "score": 189
-  },
-  {
-    "name": "FallenRogue",
-    "score": 234
-  },
-  {
-    "name": "GhostAssassin",
-    "score": 256
-  },
-  {
-    "name": "La Radiante Ola",
-    "score": 202
-  },
-  {
-    "name": "SacredAssassin",
-    "score": 196
-  },
-  {
-    "name": "LoneHammer",
-    "score": 200
-  },
-  {
-    "name": "DemonMaster",
-    "score": 186
-  },
-  {
-    "name": "VenomBreaker",
-    "score": 197
-  },
-  {
-    "name": "El Fugaz Lobo",
-    "score": 249
-  },
-  {
-    "name": "RadiantWizard",
-    "score": 192
-  },
-  {
-    "name": "DemonBow",
-    "score": 191
-  },
-  {
-    "name": "SilentReaper",
-    "score": 236
-  },
-  {
-    "name": "DivineStrike",
-    "score": 185
-  },
-  {
-    "name": "AngelKnight",
-    "score": 197
-  },
-  {
-    "name": "RadiantStrike",
-    "score": 252
-  },
-  {
-    "name": "La Veloz Guía",
-    "score": 253
-  },
-  {
-    "name": "冰凰水尊",
-    "score": 197
-  },
-  {
-    "name": "BurningAssassin",
-    "score": 250
-  },
-  {
-    "name": "El Rojo León",
-    "score": 140
-  },
-  {
-    "name": "BlackQueen",
-    "score": 231
-  },
-  {
-    "name": "ShadowHammer",
-    "score": 258
-  },
-  {
-    "name": "雷霆统领",
-    "score": 191
-  },
-  {
-    "name": "WhiteHowl",
-    "score": 210
-  },
-  {
-    "name": "La Tenebroso Ola",
-    "score": 195
-  },
-  {
-    "name": "La Supremo Tigre",
-    "score": 211
-  },
-  {
-    "name": "El Terrible Ola",
-    "score": 187
-  },
-  {
-    "name": "SilentQueen",
-    "score": 196
-  },
-  {
-    "name": "GrimSeeker",
-    "score": 254
-  },
-  {
-    "name": "El Eterno Villano",
-    "score": 246
-  },
-  {
-    "name": "FireCrusher",
-    "score": 115
-  },
-  {
-    "name": "GrimReaper",
-    "score": 205
-  },
-  {
-    "name": "RoyalMonk",
-    "score": 193
-  },
-  {
-    "name": "La Turbio Revolución",
-    "score": 185
-  },
-  {
-    "name": "PhantomSentinel",
-    "score": 200
-  },
-  {
-    "name": "SilentAssassin",
-    "score": 223
-  },
-  {
-    "name": "SavageCrusher",
-    "score": 254
-  },
-  {
-    "name": "FrozenBlade",
-    "score": 212
-  },
-  {
-    "name": "SteelOverlord",
-    "score": 248
-  },
-  {
-    "name": "ShadowWing",
-    "score": 182
-  },
-  {
-    "name": "La Rugiente Caballero",
-    "score": 204
-  },
-  {
-    "name": "InfernalSamurai",
-    "score": 200
-  },
-  {
-    "name": "InfernalWarden",
-    "score": 184
-  },
-  {
-    "name": "GhostBlade",
-    "score": 226
-  },
-  {
-    "name": "DawnShield",
-    "score": 221
-  },
-  {
-    "name": "焰心霸主",
-    "score": 211
-  },
-  {
-    "name": "CursedBlade",
-    "score": 108
-  },
-  {
-    "name": "怒濤刀尊",
-    "score": 190
-  },
-  {
-    "name": "ObsidianOverlord",
-    "score": 243
-  },
-  {
-    "name": "皓日火尊",
-    "score": 279
-  },
-  {
-    "name": "BraveInvoker",
-    "score": 191
-  },
-  {
-    "name": "La Blanco Guía",
-    "score": 190
-  },
-  {
-    "name": "AzureRider",
-    "score": 206
-  },
-  {
-    "name": "La Rugiente Lobo",
-    "score": 257
-  },
-  {
-    "name": "逐月皇帝",
-    "score": 258
-  },
-  {
-    "name": "SacredStorm",
-    "score": 207
-  },
-  {
-    "name": "NightRider",
-    "score": 202
-  },
-  {
-    "name": "ImmortalRider",
-    "score": 191
-  },
-  {
-    "name": "El Turbio Serpiente",
-    "score": 212
-  },
-  {
-    "name": "绝影圣主",
-    "score": 258
-  },
-  {
-    "name": "El Invencible Héroe",
-    "score": 297
-  },
-  {
-    "name": "DawnKnight",
-    "score": 199
-  },
-  {
-    "name": "VenomLord",
-    "score": 264
-  },
-  {
-    "name": "DuskInvoker",
-    "score": 278
-  },
-  {
-    "name": "SilverBlade",
-    "score": 294
-  },
-  {
-    "name": "AzureWarden",
-    "score": 237
-  },
-  {
-    "name": "ThunderClaw",
-    "score": 242
-  },
-  {
-    "name": "MoonAssassin",
-    "score": 226
-  },
-  {
-    "name": "ThunderWatcher",
-    "score": 190
-  },
-  {
-    "name": "烈風霸主",
-    "score": 226
-  },
-  {
-    "name": "MysticStorm",
-    "score": 245
-  },
-  {
-    "name": "FrozenCrusher",
-    "score": 250
-  },
-  {
-    "name": "炎龙刀皇",
-    "score": 233
-  },
-  {
-    "name": "赤血魔君",
-    "score": 281
-  },
-  {
-    "name": "RadiantMage",
-    "score": 215
-  },
-  {
-    "name": "神秘武尊",
-    "score": 222
-  },
-  {
-    "name": "SacredWarden",
-    "score": 205
-  },
-  {
-    "name": "CursedHunter",
-    "score": 211
-  },
-  {
-    "name": "MysticWolf",
-    "score": 257
-  },
-  {
-    "name": "BloodKnight",
-    "score": 198
-  },
-  {
-    "name": "CrystalRogue",
-    "score": 221
-  },
-  {
-    "name": "無雙刀尊",
-    "score": 137
-  },
-  {
-    "name": "DuskStorm",
-    "score": 191
-  },
-  {
-    "name": "寂灭帝君",
-    "score": 192
-  },
-  {
-    "name": "火鳳之光",
-    "score": 139
-  },
-  {
-    "name": "AzureFang",
-    "score": 252
-  },
-  {
-    "name": "MysticWizard",
-    "score": 225
-  },
-  {
-    "name": "ScarletInvoker",
-    "score": 184
-  },
-  {
-    "name": "SteelConqueror",
-    "score": 216
-  },
-  {
-    "name": "SacredSinger",
-    "score": 243
-  },
-  {
-    "name": "InfernalConqueror",
-    "score": 197
-  },
-  {
-    "name": "FireFist",
-    "score": 190
-  },
-  {
-    "name": "SteelShield",
-    "score": 168
-  },
-  {
-    "name": "ThunderKnight",
-    "score": 228
-  },
-  {
-    "name": "El Leal Fénix",
-    "score": 251
-  },
-  {
-    "name": "WildWizard",
-    "score": 258
-  },
-  {
-    "name": "EmeraldFist",
-    "score": 274
-  },
-  {
-    "name": "蒼月之心",
-    "score": 189
-  },
-  {
-    "name": "BlackWing",
-    "score": 290
-  },
-  {
-    "name": "霸氣聖皇",
-    "score": 196
-  },
-  {
-    "name": "SteelStrike",
-    "score": 219
-  },
-  {
-    "name": "MysticBow",
-    "score": 216
-  },
-  {
-    "name": "寂滅守護",
-    "score": 221
-  },
-  {
-    "name": "IronShield",
-    "score": 279
-  },
-  {
-    "name": "El Luminoso Sabio",
-    "score": 180
-  },
-  {
-    "name": "WhiteInvoker",
-    "score": 236
-  },
-  {
-    "name": "RagingOverlord",
-    "score": 230
-  },
-  {
-    "name": "黑夜刀尊",
-    "score": 190
-  },
-  {
-    "name": "赤焰狂徒",
-    "score": 209
-  },
-  {
-    "name": "傲世鹰尊",
-    "score": 213
-  },
-  {
-    "name": "SilentPrincess",
-    "score": 205
-  },
-  {
-    "name": "BlackHammer",
-    "score": 181
-  },
-  {
-    "name": "CelestialFang",
-    "score": 210
-  },
-  {
-    "name": "GhostWolf",
-    "score": 215
-  },
-  {
-    "name": "La Infinito Villano",
-    "score": 193
-  },
-  {
-    "name": "赤焰之魂",
-    "score": 203
-  },
-  {
-    "name": "BloodStorm",
-    "score": 227
-  },
-  {
-    "name": "蒼龍仙尊",
-    "score": 191
-  },
-  {
-    "name": "DawnPrince",
-    "score": 250
-  },
-  {
-    "name": "InfernalPrincess",
-    "score": 222
-  },
-  {
-    "name": "DarkGuardian",
-    "score": 196
-  },
-  {
-    "name": "FrostAssassin",
-    "score": 204
-  },
-  {
-    "name": "FrostSamurai",
-    "score": 184
-  },
-  {
-    "name": "ArcaneRogue",
-    "score": 239
-  },
-  {
-    "name": "El Sagrado Niña",
-    "score": 198
-  },
-  {
-    "name": "El Luminoso Estrella",
-    "score": 204
-  },
-  {
-    "name": "LoneGuardian",
-    "score": 214
-  },
-  {
-    "name": "DawnMage",
-    "score": 228
-  },
-  {
-    "name": "AngelSword",
-    "score": 316
-  },
-  {
-    "name": "WildSlayer",
-    "score": 181
-  },
-  {
-    "name": "La Supremo Viento",
-    "score": 288
-  },
-  {
-    "name": "La Viejo Niño",
-    "score": 239
-  },
-  {
-    "name": "PhantomSeeker",
-    "score": 263
-  },
-  {
-    "name": "RagingHunter",
-    "score": 236
-  },
-  {
-    "name": "絕影龍皇",
-    "score": 201
-  },
-  {
-    "name": "GrimAssassin",
-    "score": 196
-  },
-  {
-    "name": "BloodBow",
-    "score": 295
-  },
-  {
-    "name": "BloodFang",
-    "score": 250
-  },
-  {
-    "name": "SteelAssassin",
-    "score": 260
-  },
-  {
-    "name": "無雙刀皇",
-    "score": 229
-  },
-  {
-    "name": "DawnBow",
-    "score": 209
-  },
-  {
-    "name": "InfernalViking",
-    "score": 251
-  },
-  {
-    "name": "El Turbio Príncipe",
-    "score": 253
-  },
-  {
-    "name": "CursedInvoker",
-    "score": 205
-  },
-  {
-    "name": "La Supremo Villano",
-    "score": 193
-  },
-  {
-    "name": "DivineKnight",
-    "score": 271
-  },
-  {
-    "name": "DemonHunter",
-    "score": 193
-  },
-  {
-    "name": "La Oscuro León",
-    "score": 189
-  },
-  {
-    "name": "独尊法王",
-    "score": 196
-  },
-  {
-    "name": "El Blanco Corazón",
-    "score": 201
-  },
-  {
-    "name": "El Rojo Corazón",
-    "score": 250
-  },
-  {
-    "name": "ScarletOverlord",
-    "score": 227
-  },
-  {
-    "name": "雷霆聖君",
-    "score": 245
-  },
-  {
-    "name": "ScarletLord",
-    "score": 184
-  },
-  {
-    "name": "El Misterioso Águila",
-    "score": 262
-  },
-  {
-    "name": "El Luminoso Espíritu",
-    "score": 225
-  },
-  {
-    "name": "血色戰魂",
-    "score": 189
-  },
-  {
-    "name": "DivineLord",
-    "score": 230
-  },
-  {
-    "name": "寒霜拳皇",
-    "score": 233
-  },
-  {
-    "name": "FrostFang",
-    "score": 138
-  },
-  {
-    "name": "IronWing",
-    "score": 191
-  },
-  {
-    "name": "SteelCrusher",
-    "score": 200
-  },
-  {
-    "name": "神秘狂徒",
-    "score": 205
-  },
-  {
-    "name": "RoyalRogue",
-    "score": 217
-  },
-  {
-    "name": "CelestialBlade",
-    "score": 245
-  },
-  {
-    "name": "MysticGuardian",
-    "score": 241
-  },
-  {
-    "name": "逐月之王",
-    "score": 208
-  },
-  {
-    "name": "SacredSlayer",
-    "score": 194
-  },
-  {
-    "name": "破曉聖皇",
-    "score": 235
-  },
-  {
-    "name": "BlackStrike",
-    "score": 219
-  },
-  {
-    "name": "MoonBow",
-    "score": 181
-  },
-  {
-    "name": "烈日槍神",
-    "score": 187
-  },
-  {
-    "name": "SavageSlayer",
-    "score": 269
-  },
-  {
-    "name": "CursedSentinel",
-    "score": 182
-  },
-  {
-    "name": "SacredOverlord",
-    "score": 107
-  },
-  {
-    "name": "RadiantKing",
-    "score": 200
-  },
-  {
-    "name": "AngelSeeker",
-    "score": 288
-  },
-  {
-    "name": "SavageFist",
-    "score": 188
-  },
-  {
-    "name": "La Terrible Monstruo",
-    "score": 238
-  },
-  {
-    "name": "ObsidianWing",
-    "score": 183
-  },
-  {
-    "name": "ThunderKing",
-    "score": 243
-  },
-  {
-    "name": "El Supremo Estrella",
-    "score": 85
-  },
-  {
-    "name": "DivineClaw",
-    "score": 180
-  },
-  {
-    "name": "El Ágil Dragón",
-    "score": 242
-  },
-  {
-    "name": "NightChampion",
-    "score": 223
-  },
-  {
-    "name": "El Supremo Guerrera",
-    "score": 260
-  },
-  {
-    "name": "El Infame Gigante",
-    "score": 291
-  },
-  {
-    "name": "La Leal Niño",
-    "score": 257
-  },
-  {
-    "name": "NightRogue",
-    "score": 200
-  },
-  {
-    "name": "El Sombrío Rey",
-    "score": 193
-  },
-  {
-    "name": "烈風魔王",
-    "score": 221
-  },
-  {
-    "name": "ShadowFlame",
-    "score": 225
-  },
-  {
-    "name": "BurningWatcher",
-    "score": 286
-  },
-  {
-    "name": "El Dorado Toro",
-    "score": 211
-  },
-  {
-    "name": "La Viejo Fantasma",
-    "score": 196
-  },
-  {
-    "name": "RoyalSeeker",
-    "score": 195
-  },
-  {
-    "name": "聖光妖帝",
-    "score": 328
-  },
-  {
-    "name": "RoyalOverlord",
-    "score": 223
-  },
-  {
-    "name": "RadiantSword",
-    "score": 290
-  },
-  {
-    "name": "RagingKnight",
-    "score": 146
-  },
-  {
-    "name": "ObsidianInvoker",
-    "score": 284
-  },
-  {
-    "name": "DivineFlame",
-    "score": 296
-  },
-  {
-    "name": "星辰帝君",
-    "score": 194
-  },
-  {
-    "name": "StormMage",
-    "score": 212
-  },
-  {
-    "name": "SavageInvoker",
-    "score": 185
-  },
-  {
-    "name": "黃昏之怒",
-    "score": 257
-  },
-  {
-    "name": "La Sereno Viento",
-    "score": 257
-  },
-  {
-    "name": "DarkInvoker",
-    "score": 249
-  },
-  {
-    "name": "DragonMage",
-    "score": 251
-  },
-  {
-    "name": "MoonPrincess",
-    "score": 194
-  },
-  {
-    "name": "FrozenPrince",
-    "score": 191
-  },
-  {
-    "name": "MoonChampion",
-    "score": 293
-  },
-  {
-    "name": "CursedOverlord",
-    "score": 201
-  },
-  {
-    "name": "El Sereno Viento",
-    "score": 208
-  },
-  {
-    "name": "赤血天帝",
-    "score": 223
-  },
-  {
-    "name": "La Solitario Monstruo",
-    "score": 198
-  },
-  {
-    "name": "EternalCrusher",
-    "score": 229
-  },
-  {
-    "name": "RoyalStalker",
-    "score": 190
-  },
-  {
-    "name": "RoyalWalker",
-    "score": 192
-  },
-  {
-    "name": "La Dorado Brujo",
-    "score": 298
-  },
-  {
-    "name": "神秘神将",
-    "score": 254
-  },
-  {
-    "name": "玄光聖者",
-    "score": 205
-  },
-  {
-    "name": "La Feroz Señorita",
-    "score": 249
-  },
-  {
-    "name": "AzureShield",
-    "score": 213
-  },
-  {
-    "name": "幻影武尊",
-    "score": 196
-  },
-  {
-    "name": "NightWolf",
-    "score": 281
-  },
-  {
-    "name": "El Tranquilo Oráculo",
-    "score": 193
-  },
-  {
-    "name": "蒼狼戰魂",
-    "score": 198
-  },
-  {
-    "name": "無敵仙尊",
-    "score": 193
-  },
-  {
-    "name": "StormGuardian",
-    "score": 200
-  },
-  {
-    "name": "LoneMaster",
-    "score": 197
-  },
-  {
-    "name": "BurningViking",
-    "score": 197
-  },
-  {
-    "name": "SilverOverlord",
-    "score": 205
-  },
-  {
-    "name": "AzureSword",
-    "score": 272
-  },
-  {
-    "name": "EmeraldLord",
-    "score": 229
-  },
-  {
-    "name": "El Celestial Señora",
-    "score": 295
-  },
-  {
-    "name": "CrystalHowl",
-    "score": 216
-  },
-  {
-    "name": "星辰拳皇",
-    "score": 281
-  },
-  {
-    "name": "破曉之刃",
-    "score": 181
-  },
-  {
-    "name": "血色之刃",
-    "score": 221
-  },
-  {
-    "name": "ShadowKnight",
-    "score": 197
-  },
-  {
-    "name": "CursedSpear",
-    "score": 183
-  },
-  {
-    "name": "EmeraldKnight",
-    "score": 256
-  },
-  {
-    "name": "魔炎皇帝",
-    "score": 284
-  },
-  {
-    "name": "黄金凤皇",
-    "score": 197
-  },
-  {
-    "name": "BurningMaster",
-    "score": 216
-  },
-  {
-    "name": "MoonWizard",
-    "score": 260
-  },
-  {
-    "name": "烈焰魔尊",
-    "score": 280
-  },
-  {
-    "name": "MysticInvoker",
-    "score": 200
-  },
-  {
-    "name": "La Luminoso Niño",
-    "score": 193
-  },
-  {
-    "name": "ObsidianBow",
-    "score": 305
-  },
-  {
-    "name": "朱雀戰神",
-    "score": 193
-  },
-  {
-    "name": "DivineConqueror",
-    "score": 206
-  },
-  {
-    "name": "DemonQueen",
-    "score": 215
-  },
-  {
-    "name": "紫電之光",
-    "score": 203
-  },
-  {
-    "name": "El Joven Luz",
-    "score": 230
-  },
-  {
-    "name": "GhostWarden",
-    "score": 273
-  },
-  {
-    "name": "MysticPrincess",
-    "score": 247
-  },
-  {
-    "name": "DawnFist",
-    "score": 260
-  },
-  {
-    "name": "El Brillante León",
-    "score": 298
-  },
-  {
-    "name": "GoldenClaw",
-    "score": 228
-  },
-  {
-    "name": "CelestialWing",
-    "score": 209
-  },
-  {
-    "name": "PhantomRogue",
-    "score": 183
-  },
-  {
-    "name": "BraveWizard",
-    "score": 255
-  },
-  {
-    "name": "InfernalWizard",
-    "score": 123
-  },
-  {
-    "name": "PhantomWhisper",
-    "score": 203
-  },
-  {
-    "name": "IronKnight",
-    "score": 211
-  },
-  {
-    "name": "王者劍仙",
-    "score": 192
-  },
-  {
-    "name": "蒼狼劍仙",
-    "score": 258
-  },
-  {
-    "name": "CursedSlayer",
-    "score": 211
-  },
-  {
-    "name": "PhantomReaper",
-    "score": 196
-  },
-  {
-    "name": "RoyalWing",
-    "score": 253
-  },
-  {
-    "name": "FrozenViking",
-    "score": 221
-  },
-  {
-    "name": "无双神将",
-    "score": 325
-  },
-  {
-    "name": "ThunderPrince",
-    "score": 296
-  },
-  {
-    "name": "烈風劍聖",
-    "score": 190
-  },
-  {
-    "name": "GhostRogue",
-    "score": 186
-  },
-  {
-    "name": "FrostSeeker",
-    "score": 275
-  },
-  {
-    "name": "FrostPrince",
-    "score": 182
-  },
-  {
-    "name": "El Brillante Hechicera",
-    "score": 297
-  },
-  {
-    "name": "神秘之刃",
-    "score": 167
-  },
-  {
-    "name": "SacredWizard",
-    "score": 192
-  },
-  {
-    "name": "RagingAssassin",
-    "score": 285
-  },
-  {
-    "name": "EternalFang",
-    "score": 209
-  },
-  {
-    "name": "MysticWatcher",
-    "score": 251
-  },
-  {
-    "name": "寂滅之光",
-    "score": 198
-  },
-  {
-    "name": "驚雷弓聖",
-    "score": 312
-  },
-  {
-    "name": "冰霜尊王",
-    "score": 211
-  },
-  {
-    "name": "CelestialMaster",
-    "score": 228
-  },
-  {
-    "name": "AzureSentinel",
-    "score": 222
-  },
-  {
-    "name": "ArcaneStalker",
-    "score": 293
-  },
-  {
-    "name": "BloodWolf",
-    "score": 224
-  },
-  {
-    "name": "DivineRider",
-    "score": 206
-  },
-  {
-    "name": "青龍妖帝",
-    "score": 186
-  },
-  {
-    "name": "SavageKing",
-    "score": 236
-  },
-  {
-    "name": "BlackWalker",
-    "score": 199
-  },
-  {
-    "name": "BlackConqueror",
-    "score": 258
-  },
-  {
-    "name": "RoyalFist",
-    "score": 208
-  },
-  {
-    "name": "FallenRider",
-    "score": 215
-  },
-  {
-    "name": "ObsidianReaper",
-    "score": 197
-  },
-  {
-    "name": "RagingPrincess",
-    "score": 258
-  },
-  {
-    "name": "幽冥之刃",
-    "score": 290
-  },
-  {
-    "name": "LoneStrike",
-    "score": 188
-  },
-  {
-    "name": "PhantomPrince",
-    "score": 200
-  },
-  {
-    "name": "冰封之王",
-    "score": 204
-  },
-  {
-    "name": "BloodWhisper",
-    "score": 194
-  },
-  {
-    "name": "La Sagrado Ola",
-    "score": 226
-  },
-  {
-    "name": "VenomHowl",
-    "score": 296
-  },
-  {
-    "name": "霸氣神帝",
-    "score": 263
-  },
-  {
-    "name": "El Supremo Luz",
-    "score": 226
-  },
-  {
-    "name": "El Vasto Guía",
-    "score": 188
-  },
-  {
-    "name": "CelestialGuardian",
-    "score": 285
-  },
-  {
-    "name": "StormInvoker",
-    "score": 239
-  },
-  {
-    "name": "焰心之眼",
-    "score": 207
-  },
-  {
-    "name": "GoldenPrince",
-    "score": 195
-  },
-  {
-    "name": "SavageShield",
-    "score": 194
-  },
-  {
-    "name": "ScarletFist",
-    "score": 327
-  },
-  {
-    "name": "SilentViking",
-    "score": 241
-  },
-  {
-    "name": "El Magnífico Niño",
-    "score": 226
-  },
-  {
-    "name": "SilverWing",
-    "score": 222
-  },
-  {
-    "name": "La Fugaz Bestia",
-    "score": 200
-  },
-  {
-    "name": "El Dorado Caballero",
-    "score": 207
-  },
-  {
-    "name": "LoneRogue",
-    "score": 213
-  },
-  {
-    "name": "RagingHammer",
-    "score": 216
-  },
-  {
-    "name": "DarkFlame",
-    "score": 219
-  },
-  {
-    "name": "至尊槍神",
-    "score": 245
-  },
-  {
-    "name": "無敵魔王",
-    "score": 225
-  },
-  {
-    "name": "La Leal Villano",
-    "score": 189
-  },
-  {
-    "name": "El Noble León",
-    "score": 337
-  },
-  {
-    "name": "La Blanco Reina",
-    "score": 302
-  },
-  {
-    "name": "GrimWolf",
-    "score": 191
-  },
-  {
-    "name": "DivineViking",
-    "score": 260
-  },
-  {
-    "name": "La Blanco Corazón",
-    "score": 232
-  },
-  {
-    "name": "El Fuerte Corazón",
-    "score": 225
-  },
-  {
-    "name": "La Radiante Lobo",
-    "score": 276
-  },
-  {
-    "name": "La Turbio Guerrero",
-    "score": 193
-  },
-  {
-    "name": "DawnSentinel",
-    "score": 211
-  },
-  {
-    "name": "VenomConqueror",
-    "score": 205
-  },
-  {
-    "name": "血色骑士",
-    "score": 189
-  },
-  {
-    "name": "El Sombrío Alma",
-    "score": 267
-  },
-  {
-    "name": "DarkPrincess",
-    "score": 202
-  },
-  {
-    "name": "SacredBow",
-    "score": 269
-  },
-  {
-    "name": "DawnCrusher",
-    "score": 179
-  },
-  {
-    "name": "InfernalHunter",
-    "score": 232
-  },
-  {
-    "name": "破天魔尊",
-    "score": 241
-  },
-  {
-    "name": "青龍之刃",
-    "score": 257
-  },
-  {
-    "name": "IronPrince",
-    "score": 238
-  },
-  {
-    "name": "SilverFist",
-    "score": 225
-  },
-  {
-    "name": "ShadowHunter",
-    "score": 292
-  },
-  {
-    "name": "DarkRogue",
-    "score": 184
-  },
-  {
-    "name": "BloodLord",
-    "score": 219
-  },
-  {
-    "name": "La Leal Guerrero",
-    "score": 182
-  },
-  {
-    "name": "ArcaneHammer",
-    "score": 222
-  },
-  {
-    "name": "MoonStalker",
-    "score": 230
-  },
-  {
-    "name": "VenomHammer",
-    "score": 199
-  },
-  {
-    "name": "WhiteSword",
-    "score": 259
-  },
-  {
-    "name": "蒼狼神帝",
-    "score": 328
-  },
-  {
-    "name": "幽冥之魂",
-    "score": 235
-  },
-  {
-    "name": "El Fuerte Princesa",
-    "score": 204
-  },
-  {
-    "name": "黎明之影",
-    "score": 220
-  },
-  {
-    "name": "DuskWhisper",
-    "score": 248
-  },
-  {
-    "name": "El Brillante Héroe",
-    "score": 180
-  },
-  {
-    "name": "傲世枪神",
-    "score": 126
-  },
-  {
-    "name": "EternalMaster",
-    "score": 293
-  },
-  {
-    "name": "霸氣之怒",
-    "score": 237
-  },
-  {
-    "name": "ArcaneCrusher",
-    "score": 178
-  },
-  {
-    "name": "StormHammer",
-    "score": 193
-  },
-  {
-    "name": "La Amargo Sombra",
-    "score": 180
-  },
-  {
-    "name": "ThunderSeeker",
-    "score": 250
-  },
-  {
-    "name": "BurningHunter",
-    "score": 324
-  },
-  {
-    "name": "ObsidianShield",
-    "score": 238
-  },
-  {
-    "name": "蒼龍之魂",
-    "score": 218
-  },
-  {
-    "name": "王者領主",
-    "score": 258
-  },
-  {
-    "name": "FrostWalker",
-    "score": 267
-  },
-  {
-    "name": "CelestialShield",
-    "score": 216
-  },
-  {
-    "name": "La Sombrío Guerrero",
-    "score": 210
-  },
-  {
-    "name": "ArcaneRider",
-    "score": 253
-  },
-  {
-    "name": "FrozenConqueror",
-    "score": 187
-  },
-  {
-    "name": "DuskShield",
-    "score": 200
-  },
-  {
-    "name": "La Amargo Señor",
-    "score": 233
-  },
-  {
-    "name": "La Tenebroso Espíritu",
-    "score": 201
-  },
-  {
-    "name": "IronSlayer",
-    "score": 255
-  },
-  {
-    "name": "龍吟天尊",
-    "score": 189
-  },
-  {
-    "name": "ImmortalClaw",
-    "score": 190
-  },
-  {
-    "name": "SacredWalker",
-    "score": 185
-  },
-  {
-    "name": "La Veloz Reina",
-    "score": 260
-  },
-  {
-    "name": "VenomStorm",
-    "score": 282
-  },
-  {
-    "name": "GhostFang",
-    "score": 119
-  },
-  {
-    "name": "戰狂之王",
-    "score": 229
-  },
-  {
-    "name": "藍影影帝",
-    "score": 193
-  },
-  {
-    "name": "InfernalCrusher",
-    "score": 193
-  },
-  {
-    "name": "烈日聖主",
-    "score": 238
-  },
-  {
-    "name": "SavageStorm",
-    "score": 234
-  },
-  {
-    "name": "焰心水尊",
-    "score": 248
-  },
-  {
-    "name": "ImmortalWatcher",
-    "score": 181
-  },
-  {
-    "name": "DemonWarden",
-    "score": 201
-  },
-  {
-    "name": "朱雀之刃",
-    "score": 232
-  },
-  {
-    "name": "La Feroz Señora",
-    "score": 194
-  },
-  {
-    "name": "ArcaneOverlord",
-    "score": 284
-  },
-  {
-    "name": "MoonFlame",
-    "score": 252
-  },
-  {
-    "name": "焰心武尊",
-    "score": 180
-  },
-  {
-    "name": "La Dorado Toro",
-    "score": 277
-  },
-  {
-    "name": "血色影帝",
-    "score": 189
-  },
-  {
-    "name": "FallenFist",
-    "score": 199
-  },
-  {
-    "name": "AzureKing",
-    "score": 200
-  },
-  {
-    "name": "ThunderSinger",
-    "score": 89
-  },
-  {
-    "name": "狂砂王座",
-    "score": 206
-  },
-  {
-    "name": "赤血之影",
-    "score": 183
-  },
-  {
-    "name": "MysticFist",
-    "score": 267
-  },
-  {
-    "name": "El Radiante Señor",
-    "score": 213
-  },
-  {
-    "name": "El Sagrado Alma",
-    "score": 183
-  },
-  {
-    "name": "RagingStorm",
-    "score": 200
-  },
-  {
-    "name": "DragonStorm",
-    "score": 244
-  },
-  {
-    "name": "ThunderStorm",
-    "score": 291
-  },
-  {
-    "name": "AzureViking",
-    "score": 110
-  },
-  {
-    "name": "GhostInvoker",
-    "score": 203
-  },
-  {
-    "name": "La Luminoso Príncipe",
-    "score": 235
-  },
-  {
-    "name": "MysticSinger",
-    "score": 226
-  },
-  {
-    "name": "WhiteChampion",
-    "score": 236
-  },
-  {
-    "name": "NightMaster",
-    "score": 199
-  },
-  {
-    "name": "ScarletCrusher",
-    "score": 241
-  },
-  {
-    "name": "雷霆至尊",
-    "score": 200
-  },
-  {
-    "name": "CrystalHunter",
-    "score": 191
-  },
-  {
-    "name": "DivinePrince",
-    "score": 243
-  },
-  {
-    "name": "RagingSpear",
-    "score": 188
-  },
-  {
-    "name": "BlackViking",
-    "score": 243
-  },
-  {
-    "name": "烈日聖君",
-    "score": 193
-  },
-  {
-    "name": "DuskMaster",
-    "score": 92
-  },
-  {
-    "name": "FallenLord",
-    "score": 238
-  },
-  {
-    "name": "ShadowViking",
-    "score": 269
-  },
-  {
-    "name": "ImmortalFlame",
-    "score": 256
-  },
-  {
-    "name": "赤血之魂",
-    "score": 204
-  },
-  {
-    "name": "怒濤戰神",
-    "score": 199
-  },
-  {
-    "name": "El Dulce Héroe",
-    "score": 195
-  },
-  {
-    "name": "DemonFlame",
-    "score": 199
-  },
-  {
-    "name": "El Poderoso Revolución",
-    "score": 197
-  },
-  {
-    "name": "朱雀帝君",
-    "score": 218
-  },
-  {
-    "name": "PhantomKnight",
-    "score": 279
-  },
-  {
-    "name": "DemonWatcher",
-    "score": 198
-  },
-  {
-    "name": "FireSpear",
-    "score": 207
-  },
-  {
-    "name": "MysticBlade",
-    "score": 192
-  },
-  {
-    "name": "神秘之心",
-    "score": 223
-  },
-  {
-    "name": "El Amargo Monstruo",
-    "score": 251
-  },
-  {
-    "name": "冰凰劍仙",
-    "score": 254
-  },
-  {
-    "name": "La Glorioso Serpiente",
-    "score": 181
-  },
-  {
-    "name": "BurningRider",
-    "score": 212
-  },
-  {
-    "name": "FireSeeker",
-    "score": 235
-  },
-  {
-    "name": "El Magnífico Sombra",
-    "score": 204
-  },
-  {
-    "name": "RagingFlame",
-    "score": 252
-  },
-  {
-    "name": "IronQueen",
-    "score": 249
-  },
-  {
-    "name": "LoneFang",
-    "score": 162
-  },
-  {
-    "name": "赤焰神帝",
-    "score": 186
-  },
-  {
-    "name": "ScarletAssassin",
-    "score": 246
-  },
-  {
-    "name": "La Pálido Guerrero",
-    "score": 198
-  },
-  {
-    "name": "DragonSinger",
-    "score": 184
-  },
-  {
-    "name": "BloodBreaker",
-    "score": 256
-  },
-  {
-    "name": "玄光影帝",
-    "score": 247
-  },
-  {
-    "name": "ScarletWizard",
-    "score": 208
-  },
-  {
-    "name": "WildWarden",
-    "score": 218
-  },
-  {
-    "name": "WhiteOverlord",
-    "score": 217
-  },
-  {
-    "name": "烈風之心",
-    "score": 238
-  },
-  {
-    "name": "WildWatcher",
-    "score": 197
-  },
-  {
-    "name": "龍吟霸主",
-    "score": 221
-  },
-  {
-    "name": "朱雀領主",
-    "score": 283
-  },
-  {
-    "name": "RoyalBreaker",
-    "score": 328
-  },
-  {
-    "name": "DragonMaster",
-    "score": 203
-  },
-  {
-    "name": "BloodMonk",
-    "score": 251
-  },
-  {
-    "name": "霸气弓圣",
-    "score": 288
-  },
-  {
-    "name": "BloodRider",
-    "score": 249
-  },
-  {
-    "name": "El Tranquilo Guerrera",
-    "score": 245
-  },
-  {
-    "name": "CrystalClaw",
-    "score": 199
-  },
-  {
-    "name": "CursedMage",
-    "score": 126
-  },
-  {
-    "name": "FireKing",
-    "score": 250
-  },
-  {
-    "name": "CursedShield",
-    "score": 205
-  },
-  {
-    "name": "逐月神将",
-    "score": 230
-  },
-  {
-    "name": "SteelFlame",
-    "score": 238
-  },
-  {
-    "name": "ShadowRogue",
-    "score": 270
-  },
-  {
-    "name": "CursedRogue",
-    "score": 186
-  },
-  {
-    "name": "MysticHowl",
-    "score": 192
-  },
-  {
-    "name": "SacredHammer",
-    "score": 234
-  },
-  {
-    "name": "BloodReaper",
-    "score": 204
-  },
-  {
-    "name": "GrimFist",
-    "score": 226
-  },
-  {
-    "name": "冰凰武尊",
-    "score": 201
-  }
+    {
+        "id": "e87d9000-a433-49d4-9b29-56c938d0b2b3",
+        "name": "D.O.G.",
+        "score": 340
+    },
+    {
+        "id": "46c083b2-0157-4075-9340-a1ba63989ec9",
+        "name": "這遊戲我不會玩",
+        "score": 339
+    },
+    {
+        "id": "a1f49ccc-4db7-461a-aaa2-480c6795fab0",
+        "name": "老闆我的麵要加蛋",
+        "score": 338
+    },
+    {
+        "id": "8c3bd4ab-e2bf-4b3e-ace3-5342701301b9",
+        "name": "NightDragon",
+        "score": 338
+    },
+    {
+        "id": "fd9b7714-e866-4106-a5a1-485df04de206",
+        "name": "StarRider",
+        "score": 328
+    },
+    {
+        "id": "94866549-1659-4010-a15f-97d4ddaf62a7",
+        "name": "行者星際",
+        "score": 324
+    },
+    {
+        "id": "13b731ef-d283-4d09-8ad8-52dab1c5cf77",
+        "name": "DarkKnight",
+        "score": 324
+    },
+    {
+        "id": "62ded181-96be-4582-b672-eb17b95626d4",
+        "name": "VortexDragon",
+        "score": 323
+    },
+    {
+        "id": "50dc44ee-1621-4983-a0ad-a582010674c4",
+        "name": "StormHawk",
+        "score": 319
+    },
+    {
+        "id": "bc4a0ea5-c227-481c-a414-e6b21e858c00",
+        "name": "FireKnight",
+        "score": 317
+    },
+    {
+        "id": "7ea9ce2a-229d-4d44-b8b9-edbb7acf7bab",
+        "name": "IceStorm",
+        "score": 317
+    },
+    {
+        "id": "7f9fcf0a-2f0e-4162-9e64-fbad98293434",
+        "name": "WolfHunter",
+        "score": 316
+    },
+    {
+        "id": "0a79ca17-69a7-49d3-a578-e3f85a13770d",
+        "name": "SkyStar",
+        "score": 316
+    },
+    {
+        "id": "555f633b-8a26-4796-be22-0238a95aa503",
+        "name": "風暴夜之",
+        "score": 315
+    },
+    {
+        "id": "350e01cf-b7b5-4c31-ad62-fa461d1b05c3",
+        "name": "星辰天际",
+        "score": 312
+    },
+    {
+        "id": "8d158347-d8aa-4833-a7ec-b81d0c5e4902",
+        "name": "KnightShadow_IH",
+        "score": 311
+    },
+    {
+        "id": "b84276e0-2e80-4b5d-8dc3-63943dad4d65",
+        "name": "忍者幻影",
+        "score": 311
+    },
+    {
+        "id": "f59b43c9-604a-48fc-8e9b-c81686103e8f",
+        "name": "風暴戰士",
+        "score": 308
+    },
+    {
+        "id": "74531307-41ca-417f-87b7-215b5a01df0e",
+        "name": "GalaxyIce",
+        "score": 307
+    },
+    {
+        "id": "b75e70bf-d51e-466a-887c-01e8864e2f76",
+        "name": "PhantomSky",
+        "score": 306
+    },
+    {
+        "id": "b391d011-aff8-45f7-8079-bfe8c058c9bf",
+        "name": "WolfRider",
+        "score": 306
+    },
+    {
+        "id": "0ef9b22b-79f1-4707-8614-d679e1cc5934",
+        "name": "LightBlade",
+        "score": 304
+    },
+    {
+        "id": "e578b28b-c009-43f3-b622-55aa757bce80",
+        "name": "SkyLight",
+        "score": 304
+    },
+    {
+        "id": "b900239c-1f91-4329-b045-7ce85a888b59",
+        "name": "殺手龍魂",
+        "score": 304
+    },
+    {
+        "id": "b7ce1ea5-f63d-4200-a0ec-5d468e3d00a9",
+        "name": "GhostKnight",
+        "score": 302
+    },
+    {
+        "id": "d7e55aaf-f7fb-472e-b644-a48acb41e214",
+        "name": "HawkGalaxy",
+        "score": 299
+    },
+    {
+        "id": "8da00518-01ff-4f4c-8447-3b21a18f2b93",
+        "name": "RiderGalaxy",
+        "score": 297
+    },
+    {
+        "id": "35d6f334-59d9-41bd-a5c4-9d358a48b650",
+        "name": "RogueGhost",
+        "score": 295
+    },
+    {
+        "id": "7c2440be-7c8f-42fe-b931-bf8366c83989",
+        "name": "SkyGhost",
+        "score": 295
+    },
+    {
+        "id": "20601d15-150b-49ee-8ffc-24402e0dffcc",
+        "name": "勇士猎手",
+        "score": 294
+    },
+    {
+        "id": "f16e861c-2e73-446c-842c-f3512b10a958",
+        "name": "BladeDark",
+        "score": 292
+    },
+    {
+        "id": "52712d37-592e-4547-a90e-e02747d3d714",
+        "name": "WolfNova_LT",
+        "score": 292
+    },
+    {
+        "id": "0f26d057-808c-4ad2-8ecf-2f72067ce0ab",
+        "name": "LuzMar",
+        "score": 290
+    },
+    {
+        "id": "5abca0cf-81d5-4142-a7f7-ffd77ab50369",
+        "name": "WolfRogue",
+        "score": 290
+    },
+    {
+        "id": "f2fc4983-fe6c-4351-87e7-c5fbf552f251",
+        "name": "FireFlame",
+        "score": 288
+    },
+    {
+        "id": "5db28669-2a5e-4f2b-9002-832b8d7f78fd",
+        "name": "StormIce",
+        "score": 288
+    },
+    {
+        "id": "947e57da-10a1-4dfb-85a4-b475615cb1c7",
+        "name": "行者勇者",
+        "score": 288
+    },
+    {
+        "id": "7b175dc7-046c-4b47-a762-762e4fc79298",
+        "name": "RoguePhantom_31",
+        "score": 288
+    },
+    {
+        "id": "5f082367-d927-4495-a8d3-ecf4ceb87129",
+        "name": "HawkSky",
+        "score": 287
+    },
+    {
+        "id": "4727920e-60a4-4489-918b-62d28cb12759",
+        "name": "BladeNova",
+        "score": 287
+    },
+    {
+        "id": "6d8a6179-f49e-44f0-b18c-f8e896a767ec",
+        "name": "VientoSol",
+        "score": 286
+    },
+    {
+        "id": "c1275fcd-a045-428c-a2ec-aca8a342dc56",
+        "name": "IceShadow",
+        "score": 285
+    },
+    {
+        "id": "34780d25-6c4f-4e20-9a96-98b1a15de603",
+        "name": "CieloSombras",
+        "score": 284
+    },
+    {
+        "id": "5d32a758-c675-499a-b30d-4870d39f7601",
+        "name": "RosaDragon",
+        "score": 284
+    },
+    {
+        "id": "c6a21ea5-4e9c-4eb6-b32a-3722d9f8cf91",
+        "name": "RayoRojo",
+        "score": 283
+    },
+    {
+        "id": "8b17fb41-bcee-4d49-bd11-2a3ad83a520c",
+        "name": "銀翼風暴",
+        "score": 283
+    },
+    {
+        "id": "09e236f3-a1c0-4e21-bb67-58fc62bb0ddb",
+        "name": "WolfStrike",
+        "score": 283
+    },
+    {
+        "id": "c6f56408-a6be-44cf-804a-d2b317c18951",
+        "name": "FireStorm",
+        "score": 283
+    },
+    {
+        "id": "3707cd8c-47fe-4c1e-8d9b-c56016437e11",
+        "name": "火影夜之",
+        "score": 283
+    },
+    {
+        "id": "3490c21a-b61d-4666-8faf-cc5a8fb87924",
+        "name": "天际黑夜",
+        "score": 282
+    },
+    {
+        "id": "108098d7-483f-427b-b4d5-d056d7ea82f3",
+        "name": "LuzRojo",
+        "score": 281
+    },
+    {
+        "id": "bd882b31-b5ea-4646-855d-75fe3e336e98",
+        "name": "WolfBlade",
+        "score": 281
+    },
+    {
+        "id": "1783b892-245d-4055-a2f0-880586ae5b07",
+        "name": "NightFlame_CZ",
+        "score": 281
+    },
+    {
+        "id": "ce4fa3de-01b8-4a62-8c88-eaf580e46c77",
+        "name": "RayoRosa",
+        "score": 281
+    },
+    {
+        "id": "f6bf8d91-0079-493f-ad33-ba92715b3cb0",
+        "name": "HawkFlame",
+        "score": 280
+    },
+    {
+        "id": "55367e6f-95e3-4b4d-9c95-df186fb17a09",
+        "name": "SkyRider",
+        "score": 280
+    },
+    {
+        "id": "e3a46c00-8bb5-4e4c-b2c0-0491481792a2",
+        "name": "DarkBlade",
+        "score": 280
+    },
+    {
+        "id": "6484d644-cbac-441c-8ea1-99d94098adf8",
+        "name": "FireDark",
+        "score": 279
+    },
+    {
+        "id": "8820580f-59f2-4f77-8c6c-2e7b4ed871d4",
+        "name": "烈风武士",
+        "score": 279
+    },
+    {
+        "id": "772123cf-1fcc-4da0-b750-81962c00a832",
+        "name": "CazadorRojo",
+        "score": 278
+    },
+    {
+        "id": "7a9f4bd7-d628-49b2-a624-b91a00666be3",
+        "name": "GalaxyWolf",
+        "score": 278
+    },
+    {
+        "id": "9a0d1a0f-e7b2-4aa3-ad5b-aeb11d5eae41",
+        "name": "VortexFlame",
+        "score": 278
+    },
+    {
+        "id": "f3695afc-2e58-47be-9358-6cb99c56ebe3",
+        "name": "DragonKnight",
+        "score": 278
+    },
+    {
+        "id": "9ab386d3-db76-47d0-a317-8fed3edb958e",
+        "name": "RiderGhost",
+        "score": 278
+    },
+    {
+        "id": "bf367ab9-4de1-4662-a05b-bfe56f969bce",
+        "name": "FlameRider",
+        "score": 277
+    },
+    {
+        "id": "8b706876-f8bc-4bf7-b690-60a5e3cc2e86",
+        "name": "NovaFlame",
+        "score": 277
+    },
+    {
+        "id": "6747145e-5176-4854-a157-2db595c2b28e",
+        "name": "NocheEstrella",
+        "score": 276
+    },
+    {
+        "id": "ca91dc0f-e4af-43c2-b968-e78b0fc55afe",
+        "name": "StrikeGalaxy",
+        "score": 276
+    },
+    {
+        "id": "db9efa3b-42d5-4caa-bf86-18a00f6b3597",
+        "name": "GhostNight",
+        "score": 276
+    },
+    {
+        "id": "7de42703-cf2f-4803-b051-e1e4cab16e56",
+        "name": "GalaxyNight_XP",
+        "score": 276
+    },
+    {
+        "id": "505e76a4-2cb1-48ae-bc0b-126e2f672b28",
+        "name": "FireNight",
+        "score": 276
+    },
+    {
+        "id": "a6b75a71-6a22-414c-b0f3-17d59c4a8426",
+        "name": "SkyRogue",
+        "score": 275
+    },
+    {
+        "id": "1e620808-3910-496d-b04c-6fa3c82180cc",
+        "name": "DragonStar",
+        "score": 275
+    },
+    {
+        "id": "03ffe2ed-5ca9-4565-a09a-a1bb03fb93d3",
+        "name": "狂刃殺手",
+        "score": 275
+    },
+    {
+        "id": "cccd465f-1874-44ac-a4a6-127abb2ff022",
+        "name": "HunterIce",
+        "score": 275
+    },
+    {
+        "id": "2bd035d4-bc0b-4ba9-90fe-ea6e43f5d17e",
+        "name": "勇者忍者",
+        "score": 275
+    },
+    {
+        "id": "5361b771-e08b-42a7-8a93-0fb2b0bfafce",
+        "name": "RayoCielo",
+        "score": 275
+    },
+    {
+        "id": "ad5d17b6-e86f-4eb0-b551-58b83cdf8691",
+        "name": "忍者勇者",
+        "score": 275
+    },
+    {
+        "id": "5519e133-3088-469d-b181-6e0f5434310a",
+        "name": "CazadorFuego",
+        "score": 274
+    },
+    {
+        "id": "68ffeb85-03f5-4db5-a17f-a32b8f4e8120",
+        "name": "EstrellaOscuro",
+        "score": 274
+    },
+    {
+        "id": "f2a63af5-0a36-411a-8407-3230099c904b",
+        "name": "NightStar",
+        "score": 274
+    },
+    {
+        "id": "ef69ec90-6ce6-466d-901a-f4db3ab5577c",
+        "name": "FlameHunter",
+        "score": 273
+    },
+    {
+        "id": "c6d3b79e-cafb-420e-8e6b-2b6d8472e7df",
+        "name": "GalaxySky",
+        "score": 273
+    },
+    {
+        "id": "67e8cd67-8b50-446d-ba01-c49c73435e22",
+        "name": "BladeStorm",
+        "score": 273
+    },
+    {
+        "id": "756c37c2-67d3-4fad-b04f-99cd4bc3bdac",
+        "name": "StarStar_3A",
+        "score": 273
+    },
+    {
+        "id": "0dae62d3-1c5d-475c-9989-a6de3175bbc8",
+        "name": "NightKnight",
+        "score": 273
+    },
+    {
+        "id": "8d2aff8d-8da0-43f2-a418-e354de1fc716",
+        "name": "GhostStar",
+        "score": 272
+    },
+    {
+        "id": "5a333e36-ff64-4773-a500-e62aa5794a67",
+        "name": "NovaBlade",
+        "score": 272
+    },
+    {
+        "id": "a31122d5-ac74-41ad-a92c-be64fdd34514",
+        "name": "RosaSombras",
+        "score": 272
+    },
+    {
+        "id": "4986118a-d1b7-498d-933a-76d31d9dbd73",
+        "name": "VortexRider",
+        "score": 271
+    },
+    {
+        "id": "75584bc5-530b-46fd-bb2e-52d5be6ee40c",
+        "name": "FuegoEstrella",
+        "score": 271
+    },
+    {
+        "id": "09d71bc5-5b1c-492d-b0cb-3094cdd48b08",
+        "name": "銀翼聖光",
+        "score": 271
+    },
+    {
+        "id": "3b9d91f4-86ac-4a09-8be0-08e8cac7528f",
+        "name": "LightRogue",
+        "score": 271
+    },
+    {
+        "id": "7290dd60-d778-4370-90a1-bbfac5397ae4",
+        "name": "战神行者",
+        "score": 270
+    },
+    {
+        "id": "3751e7bc-b551-4ea7-8312-afde48464b2b",
+        "name": "VortexStar",
+        "score": 270
+    },
+    {
+        "id": "424cbc0b-fe27-4280-aa4a-9fee7b90d92f",
+        "name": "StarRogue",
+        "score": 269
+    },
+    {
+        "id": "1aa16f5e-30d1-450f-b51f-8996500b3d38",
+        "name": "StrikeWolf",
+        "score": 269
+    },
+    {
+        "id": "02d0971f-709a-48fa-a1cc-ef62eb51aa72",
+        "name": "RogueNight",
+        "score": 269
+    },
+    {
+        "id": "c5ad381f-5a6c-45c2-9c9a-34205475bc9c",
+        "name": "火影影",
+        "score": 269
+    },
+    {
+        "id": "cbf28560-1d2b-4840-80da-576d8f42a16e",
+        "name": "IceKnight",
+        "score": 268
+    },
+    {
+        "id": "df20fb93-42a6-4f54-aa21-773169793266",
+        "name": "StormStorm",
+        "score": 268
+    },
+    {
+        "id": "5f473aa4-8085-4b90-8741-0287017afbe9",
+        "name": "LightNight_TO",
+        "score": 268
+    },
+    {
+        "id": "d05a63dc-a26f-48ec-ae86-075aca9d9dca",
+        "name": "夜之戰士",
+        "score": 267
+    },
+    {
+        "id": "4dcc8e25-f87f-444c-8ebf-c847554ebfed",
+        "name": "IceStrike",
+        "score": 267
+    },
+    {
+        "id": "c401259a-33cc-4f73-93da-9c53e558ce1b",
+        "name": "PhantomLight_19",
+        "score": 266
+    },
+    {
+        "id": "9fb49ed0-d2d1-4871-8f04-1672c16f2aa8",
+        "name": "狂刃銀翼",
+        "score": 266
+    },
+    {
+        "id": "f2d13210-7fc9-49b1-8212-e0a6f593e357",
+        "name": "StormGalaxy",
+        "score": 266
+    },
+    {
+        "id": "403a7ebf-2af5-459c-b9bf-7467c088e6bb",
+        "name": "LuzViento",
+        "score": 265
+    },
+    {
+        "id": "929fe7aa-9029-4124-8e1a-6ad0a34b5bae",
+        "name": "風暴勇者",
+        "score": 265
+    },
+    {
+        "id": "cd3290a1-3199-4030-9ccb-7b1651e5d819",
+        "name": "RogueHawk",
+        "score": 265
+    },
+    {
+        "id": "ec9efc43-9ff9-433d-8d9e-8b3a439bdcf7",
+        "name": "FireFire",
+        "score": 265
+    },
+    {
+        "id": "3b170b6a-9c10-493d-81d4-c631a82de7bc",
+        "name": "LightNight_2V",
+        "score": 265
+    },
+    {
+        "id": "6057dc78-d91f-49f7-914d-effe4f05e34f",
+        "name": "幻影勇者",
+        "score": 265
+    },
+    {
+        "id": "23b94497-d7a4-4bde-b2bc-404595dd1109",
+        "name": "HawkGhost",
+        "score": 264
+    },
+    {
+        "id": "763d9223-7636-4812-8ec4-5f97b839d4b5",
+        "name": "StrikeDark",
+        "score": 264
+    },
+    {
+        "id": "47bcb6dc-b74a-492a-88f2-44b8a4a2d7f3",
+        "name": "星際無敵",
+        "score": 264
+    },
+    {
+        "id": "cb3080c9-8dc7-49f3-a9c6-c66d1b13f600",
+        "name": "星辰狂刃",
+        "score": 263
+    },
+    {
+        "id": "9f21094d-541d-4565-b3a1-43d8e25603c8",
+        "name": "GhostBlade",
+        "score": 263
+    },
+    {
+        "id": "c1b4b0a8-7214-4cd6-8841-1fe74495736d",
+        "name": "VortexPhantom",
+        "score": 263
+    },
+    {
+        "id": "d20546e5-9e21-4e7c-8a2e-772842a15ce6",
+        "name": "StormDark",
+        "score": 263
+    },
+    {
+        "id": "f59ad8c2-d19b-47d1-bd67-1a8a331aa4e5",
+        "name": "龍魂暗黑",
+        "score": 263
+    },
+    {
+        "id": "c1639a13-e3ed-49c2-bcc2-fe21d3f2707e",
+        "name": "SkyDragon",
+        "score": 262
+    },
+    {
+        "id": "e030490e-05fd-4221-accd-463fac6cdc08",
+        "name": "EspadaCielo",
+        "score": 262
+    },
+    {
+        "id": "d2636635-29a1-4698-b8ac-40328fe51e52",
+        "name": "風暴烈火",
+        "score": 262
+    },
+    {
+        "id": "38d7cdf9-7b8d-469f-9f3d-51192050c34d",
+        "name": "SkyDark",
+        "score": 262
+    },
+    {
+        "id": "d5942003-9a0c-498e-9b00-3cb5f05bb3e1",
+        "name": "RogueKnight",
+        "score": 261
+    },
+    {
+        "id": "f2c87206-4a5f-4054-aa9f-ca7d8cd43808",
+        "name": "RayoSombras",
+        "score": 261
+    },
+    {
+        "id": "a06760df-2d02-4b16-917c-6fa1f95f5db3",
+        "name": "PhantomLight",
+        "score": 261
+    },
+    {
+        "id": "68ae6a09-9d6d-43c9-b5f6-028762314507",
+        "name": "IceGhost",
+        "score": 261
+    },
+    {
+        "id": "bba5ed3d-d8bc-4b24-aaa8-f3e9a6469e25",
+        "name": "TruenoDragon",
+        "score": 261
+    },
+    {
+        "id": "52e740ce-2e55-4872-a59c-590235273755",
+        "name": "烈火狂刃",
+        "score": 260
+    },
+    {
+        "id": "5321c59f-651a-4e05-9e65-e9bb7cffe2ce",
+        "name": "LightStrike",
+        "score": 260
+    },
+    {
+        "id": "74b7f63a-f068-4dfd-bb17-b9a135538de9",
+        "name": "TruenoEstrella",
+        "score": 260
+    },
+    {
+        "id": "be98b60c-bebf-4308-9af6-0eb3371dc615",
+        "name": "烈火战神",
+        "score": 260
+    },
+    {
+        "id": "2d1c0bbd-83cf-4814-a439-18f2859bfa4d",
+        "name": "WolfIce",
+        "score": 260
+    },
+    {
+        "id": "8ee2d794-fb33-4412-ab86-236b8f623349",
+        "name": "KnightFlame",
+        "score": 260
+    },
+    {
+        "id": "e1001f5d-9760-498c-b0c2-500ce2a89a5d",
+        "name": "DragonRider_Y1",
+        "score": 260
+    },
+    {
+        "id": "2b1ea24b-9666-4b4f-904d-efd5323d438a",
+        "name": "FireRogue",
+        "score": 259
+    },
+    {
+        "id": "501bba8b-1771-4fcc-b248-bd6453223fcb",
+        "name": "DarkDragon",
+        "score": 259
+    },
+    {
+        "id": "1bc51e91-3495-422e-8360-02fcdc97ffa1",
+        "name": "銀翼幻影",
+        "score": 259
+    },
+    {
+        "id": "297c60d5-3e0c-4288-a91c-6471ecc7eb32",
+        "name": "星辰烈风",
+        "score": 259
+    },
+    {
+        "id": "251d0ab7-e9f6-43f5-b8f8-26a16a42bd0d",
+        "name": "PhantomHunter_TW",
+        "score": 259
+    },
+    {
+        "id": "b6402e0d-234e-4aff-ae94-92cadc072ce7",
+        "name": "SombrasFuego",
+        "score": 259
+    },
+    {
+        "id": "43849ae3-0820-4c9f-98fe-3fc0908ed4d4",
+        "name": "VortexPhantom_TU",
+        "score": 258
+    },
+    {
+        "id": "94984cbb-ede4-4cfa-9f6e-3e3230d13556",
+        "name": "WolfStar",
+        "score": 257
+    },
+    {
+        "id": "51f0fca3-a76e-47e5-845c-6ede975a6ddd",
+        "name": "烈火行者",
+        "score": 257
+    },
+    {
+        "id": "95a92bd9-066c-4556-aa76-c5b6c45f9a30",
+        "name": "VientoEstrella",
+        "score": 257
+    },
+    {
+        "id": "9c476b0e-9a24-4e7d-8a5f-20025a67469e",
+        "name": "火影龍魂",
+        "score": 257
+    },
+    {
+        "id": "cca8d277-9282-486d-ae70-e6887850b6ea",
+        "name": "StrikeStrike",
+        "score": 257
+    },
+    {
+        "id": "1e920e9e-72d9-4300-b0bc-b59313dc40c1",
+        "name": "戰士影",
+        "score": 257
+    },
+    {
+        "id": "cabdd019-772b-413e-bc9d-aff461f68419",
+        "name": "ShadowStorm",
+        "score": 257
+    },
+    {
+        "id": "01a42b7a-8a18-41f3-a997-723e746d71fe",
+        "name": "星際幻影",
+        "score": 257
+    },
+    {
+        "id": "06a41d0f-be22-40d3-a612-35f83c464ed2",
+        "name": "SkyFlame",
+        "score": 257
+    },
+    {
+        "id": "d1d5fd6b-8d42-4688-a2c7-5f24dcb79fd0",
+        "name": "FireWolf_WS",
+        "score": 257
+    },
+    {
+        "id": "5100d127-6b77-474f-901d-1eb65ccc09fa",
+        "name": "黑夜战神",
+        "score": 257
+    },
+    {
+        "id": "223bfd67-a6e6-429a-b1e1-982ba5712835",
+        "name": "EstrellaEstrella",
+        "score": 257
+    },
+    {
+        "id": "2b238115-cdac-4c21-a191-e1adced3c985",
+        "name": "LightIce",
+        "score": 257
+    },
+    {
+        "id": "97d5b6fc-c9b7-4969-b375-1d221ea09cfc",
+        "name": "BladeGalaxy",
+        "score": 256
+    },
+    {
+        "id": "b8a190bc-c850-446a-bb82-609c6b05dc3e",
+        "name": "IceNight",
+        "score": 256
+    },
+    {
+        "id": "d6398d05-faaa-4c34-b1c3-3c3989a5e3f8",
+        "name": "IceVortex",
+        "score": 256
+    },
+    {
+        "id": "d5c7d4cf-12e0-4f6f-8e50-13b21e30ab4e",
+        "name": "RiderFlame",
+        "score": 256
+    },
+    {
+        "id": "455552e2-83fb-4f91-aa89-3e1ff3f00001",
+        "name": "KnightDragon",
+        "score": 256
+    },
+    {
+        "id": "822f1fe2-acf3-4947-a413-d0d54e5e1716",
+        "name": "烈火龍魂",
+        "score": 255
+    },
+    {
+        "id": "772b42aa-d849-4f5e-b06c-ab679b4365d6",
+        "name": "DragonNight",
+        "score": 255
+    },
+    {
+        "id": "d1e7b7b3-366f-4b1d-9574-a124118fe716",
+        "name": "NightStrike_W9",
+        "score": 255
+    },
+    {
+        "id": "7182a107-89f8-4925-bb46-00486ad8c11f",
+        "name": "影勇者",
+        "score": 255
+    },
+    {
+        "id": "5181955c-fbe8-458b-bcd1-03037f801439",
+        "name": "烈火聖光",
+        "score": 255
+    },
+    {
+        "id": "d4e76e9c-f0e2-42e3-b342-ea38fe951f9e",
+        "name": "GuerreroFuego",
+        "score": 254
+    },
+    {
+        "id": "f0e9dd24-3e74-429f-921d-7339a47151df",
+        "name": "OscuroFuego",
+        "score": 254
+    },
+    {
+        "id": "6d681ba2-ea52-4c98-be25-9d1e8042be26",
+        "name": "LightPhantom",
+        "score": 254
+    },
+    {
+        "id": "f0dd3a23-eec6-40e2-9d23-b79f01d7cb03",
+        "name": "HawkShadow",
+        "score": 254
+    },
+    {
+        "id": "f65e733e-a553-42ff-aab7-87b845ede56d",
+        "name": "暗黑戰士",
+        "score": 254
+    },
+    {
+        "id": "a5b7bdfe-3015-4122-8bb8-47d4ccb484fa",
+        "name": "DragonFuego",
+        "score": 254
+    },
+    {
+        "id": "834fc5b6-118f-4613-8679-70f596804502",
+        "name": "StrikeNight",
+        "score": 254
+    },
+    {
+        "id": "555e3e12-f253-445c-bbd2-424de3112a7c",
+        "name": "VortexKnight_VD",
+        "score": 254
+    },
+    {
+        "id": "ce795ee5-deff-42b6-bc8c-bc8f693c6c88",
+        "name": "StormFire",
+        "score": 253
+    },
+    {
+        "id": "20dcc942-b75e-43b7-9bc0-109d1a056f4e",
+        "name": "BladeGhost",
+        "score": 253
+    },
+    {
+        "id": "c3875082-bc5a-46b9-bfa2-22073c067c60",
+        "name": "FuegoAzul",
+        "score": 253
+    },
+    {
+        "id": "aa264ed1-4c29-4e80-b775-fe4e6d6a7bc9",
+        "name": "战神烈火",
+        "score": 253
+    },
+    {
+        "id": "1243edcb-514d-49a9-a0e0-442fb3e77aa6",
+        "name": "StormStar",
+        "score": 253
+    },
+    {
+        "id": "b064900e-a9dd-4aeb-8dfa-39e8f87aa6ce",
+        "name": "RogueDragon",
+        "score": 253
+    },
+    {
+        "id": "bd87d3e9-dd88-4cd1-b2a8-42b7fddf48e6",
+        "name": "夜之影",
+        "score": 252
+    },
+    {
+        "id": "49b40606-b4ba-4996-8401-9c8a1df9220c",
+        "name": "NovaVortex",
+        "score": 252
+    },
+    {
+        "id": "05cdf97b-63d4-4c82-850f-9cb38480cd87",
+        "name": "LightShadow",
+        "score": 252
+    },
+    {
+        "id": "3b280947-296c-4d7f-94e2-9e44da3e5f27",
+        "name": "NocheCazador",
+        "score": 252
+    },
+    {
+        "id": "e69ea20a-e56a-48d7-9105-a6ebe498a4f0",
+        "name": "FuegoDragon",
+        "score": 252
+    },
+    {
+        "id": "5ef7150b-33b4-44b4-9c2a-fd3d56522201",
+        "name": "NovaGhost",
+        "score": 251
+    },
+    {
+        "id": "b139e604-28cc-4780-a775-279a3890671f",
+        "name": "夜之殺手",
+        "score": 251
+    },
+    {
+        "id": "c2e18cb6-b475-4472-9731-2c63e948fcc7",
+        "name": "IceSky",
+        "score": 251
+    },
+    {
+        "id": "67169f2e-e230-4db3-a410-fafb4b24276d",
+        "name": "BladeBlade",
+        "score": 251
+    },
+    {
+        "id": "4d23a8c1-5669-480b-9e57-89fdcaf89459",
+        "name": "RogueFlame",
+        "score": 251
+    },
+    {
+        "id": "3766c094-7517-464d-8eb9-732d98c2e84e",
+        "name": "暗黑行者",
+        "score": 251
+    },
+    {
+        "id": "15d3e5b6-9ff9-4178-928e-181bb9fe218e",
+        "name": "CazadorNoche",
+        "score": 251
+    },
+    {
+        "id": "1f8de645-4960-4fd6-9f8b-7a1034bf3ab4",
+        "name": "GalaxyHunter",
+        "score": 251
+    },
+    {
+        "id": "b7dbeda7-1ac0-43b1-83c8-aa86fc1012e9",
+        "name": "GuerreroRayo",
+        "score": 251
+    },
+    {
+        "id": "9e40d09b-33f4-4eaa-b908-aec63c9841f7",
+        "name": "SombrasMar",
+        "score": 251
+    },
+    {
+        "id": "f1fa6f48-96fb-44b4-98d3-3f6f3f3ce816",
+        "name": "HawkHawk_DJ",
+        "score": 251
+    },
+    {
+        "id": "809d51d0-8cd7-4290-946a-4b890ba90d47",
+        "name": "MarFuego",
+        "score": 250
+    },
+    {
+        "id": "4916d906-13df-4d27-a0a2-c47c6812e981",
+        "name": "NightRogue",
+        "score": 250
+    },
+    {
+        "id": "fbd8033a-61e1-4d7d-a06a-2162328ea91a",
+        "name": "RogueSky",
+        "score": 250
+    },
+    {
+        "id": "882d47d9-506e-4ddf-be90-c8742a0d10fc",
+        "name": "RayoEstrella",
+        "score": 250
+    },
+    {
+        "id": "5dd0edad-604d-4485-814a-5f5d94774f8c",
+        "name": "EspadaSol",
+        "score": 249
+    },
+    {
+        "id": "7202b713-6c95-402a-8c77-808c3b1112be",
+        "name": "RiderShadow",
+        "score": 249
+    },
+    {
+        "id": "1ee9c109-c8a2-4b2d-8feb-ca73d3e85d8d",
+        "name": "RiderStrike",
+        "score": 249
+    },
+    {
+        "id": "b81a2f90-d24c-4606-8abd-facda414e66e",
+        "name": "ShadowDark",
+        "score": 249
+    },
+    {
+        "id": "6c9b83b5-c416-4e8f-9f29-c47b01115010",
+        "name": "IceRogue_0P",
+        "score": 249
+    },
+    {
+        "id": "f9ca6f44-354a-48f1-9d3f-89cf56b5bc8c",
+        "name": "HunterSky",
+        "score": 249
+    },
+    {
+        "id": "4e364b98-b11f-4bdd-9641-f9ad02534c3a",
+        "name": "破晓黑夜",
+        "score": 248
+    },
+    {
+        "id": "ab079ba5-8550-49e5-87ec-065729fb01b3",
+        "name": "LightFlame",
+        "score": 248
+    },
+    {
+        "id": "4a9d46f6-d7bc-4a10-aef4-9980390f313e",
+        "name": "OscuroSol",
+        "score": 248
+    },
+    {
+        "id": "99db1638-867f-431c-8742-f925513e16c7",
+        "name": "RosaFuego",
+        "score": 248
+    },
+    {
+        "id": "eee44384-0f34-491b-a7a8-d983f4648ca4",
+        "name": "ShadowDragon",
+        "score": 248
+    },
+    {
+        "id": "8e6da0d9-6e76-40e5-849d-f026c097b37e",
+        "name": "StarHawk",
+        "score": 248
+    },
+    {
+        "id": "48d15908-36d7-4933-8ca6-76cef0c81be2",
+        "name": "SkySky",
+        "score": 247
+    },
+    {
+        "id": "8e72cac9-5b7e-48eb-90ea-df88b2e5b4ce",
+        "name": "HawkHunter",
+        "score": 247
+    },
+    {
+        "id": "6586492e-c3a6-489c-8dfc-51f4792ec5af",
+        "name": "幻影影",
+        "score": 247
+    },
+    {
+        "id": "ee7b681c-cb4d-432f-8a98-5e2c3fb99706",
+        "name": "AzulOscuro",
+        "score": 247
+    },
+    {
+        "id": "004f9262-52d8-4e9c-a685-297555ce9210",
+        "name": "VortexVortex_K9",
+        "score": 247
+    },
+    {
+        "id": "b611e46c-ddc1-4ac6-9041-3246f66df0cf",
+        "name": "AzulCazador",
+        "score": 247
+    },
+    {
+        "id": "9a551a86-e02d-487f-991e-f0fb5eb97f1c",
+        "name": "NightBlade_Y0",
+        "score": 247
+    },
+    {
+        "id": "14f5b13d-5937-40f5-affb-bd458f97211f",
+        "name": "烈火暗黑",
+        "score": 247
+    },
+    {
+        "id": "8ef11e06-0732-454d-8144-d07a0280bf9b",
+        "name": "RogueLight",
+        "score": 246
+    },
+    {
+        "id": "23eac0c1-207b-4801-ba90-1cdef0fc6507",
+        "name": "ShadowFlame",
+        "score": 246
+    },
+    {
+        "id": "8de19aef-3288-4f25-8b55-72682f6774a6",
+        "name": "GalaxyStar",
+        "score": 246
+    },
+    {
+        "id": "fa69a760-52e3-4d4f-bac1-fd79c29167b8",
+        "name": "NightIce",
+        "score": 246
+    },
+    {
+        "id": "0e7f2a7b-5125-4812-9ece-76063dbf7c81",
+        "name": "幻影烈风",
+        "score": 246
+    },
+    {
+        "id": "95d5e0d4-06b1-4156-ab3d-4b892c8be37e",
+        "name": "CazadorViento",
+        "score": 246
+    },
+    {
+        "id": "c8095bc0-7fa2-4b80-a2b2-ede8391cfd4e",
+        "name": "MarNoche",
+        "score": 246
+    },
+    {
+        "id": "b275c3c6-08ca-438e-9cb6-5a460764d192",
+        "name": "DragonPhantom_JY",
+        "score": 246
+    },
+    {
+        "id": "1880a78d-48a9-4ee1-8e33-fb8bd92934d6",
+        "name": "KnightPhantom",
+        "score": 245
+    },
+    {
+        "id": "516c30d6-feb6-44f3-b09f-5a376d8c77c5",
+        "name": "LightVortex",
+        "score": 245
+    },
+    {
+        "id": "57888cbe-25cb-41d9-9bd2-0355c40b68ad",
+        "name": "SolRayo",
+        "score": 245
+    },
+    {
+        "id": "b47da3f5-fd91-4bba-ac0d-b344db484fc8",
+        "name": "RosaCazador",
+        "score": 244
+    },
+    {
+        "id": "29e3bb12-4573-486c-a1a3-c4e8683b4e2e",
+        "name": "戰士殺手",
+        "score": 244
+    },
+    {
+        "id": "90d67982-7474-42cf-9c2a-38d9e1b79e99",
+        "name": "DragonDragon",
+        "score": 244
+    },
+    {
+        "id": "c769cfab-ae58-4f14-8085-d48a3bf53cad",
+        "name": "破晓无敌",
+        "score": 244
+    },
+    {
+        "id": "d6bd4421-7323-422e-96b1-6a973f80e18e",
+        "name": "PhantomNight",
+        "score": 244
+    },
+    {
+        "id": "9acb360b-873e-44a3-9eb7-629740506da3",
+        "name": "StrikeBlade",
+        "score": 244
+    },
+    {
+        "id": "36dce3d5-4b7d-448c-be86-7c8294e79c54",
+        "name": "GuerreroDragon",
+        "score": 243
+    },
+    {
+        "id": "9fd169c7-c910-41e6-9130-3f669d63149b",
+        "name": "WolfVortex",
+        "score": 243
+    },
+    {
+        "id": "9dfe65da-cb8c-4256-9e6b-df91d5e24a85",
+        "name": "黑夜天际",
+        "score": 243
+    },
+    {
+        "id": "051af05b-eb44-43ce-be75-22185b3ed80e",
+        "name": "FlameDragon",
+        "score": 243
+    },
+    {
+        "id": "4509208b-ee1e-44e7-919e-725217e6dada",
+        "name": "烈火夜之",
+        "score": 243
+    },
+    {
+        "id": "8370fc38-de8f-43f7-9992-5cabcd920e5e",
+        "name": "HawkVortex",
+        "score": 243
+    },
+    {
+        "id": "ea5e8464-8e82-4833-8f64-69b1a4a2ab2e",
+        "name": "RosaMar",
+        "score": 243
+    },
+    {
+        "id": "b390c3c3-71e7-418a-9efe-b65c12b09c9c",
+        "name": "HawkStorm",
+        "score": 243
+    },
+    {
+        "id": "198a4ed7-c19e-45ff-8c19-dd3d8bcf5afa",
+        "name": "GuerreroSombras",
+        "score": 243
+    },
+    {
+        "id": "53c65553-0948-4089-957b-35c847b0608d",
+        "name": "RosaRayo",
+        "score": 243
+    },
+    {
+        "id": "56ef5484-3f22-4a05-ba58-a94dd47add4a",
+        "name": "CazadorRayo",
+        "score": 242
+    },
+    {
+        "id": "772f7b64-12f4-4434-ae91-b98222bdde69",
+        "name": "行者黑夜",
+        "score": 242
+    },
+    {
+        "id": "daf90430-9985-4528-9473-321414590414",
+        "name": "烈火破晓",
+        "score": 242
+    },
+    {
+        "id": "ca6643fc-93f4-452c-9726-339ef82c0d0e",
+        "name": "影行者",
+        "score": 242
+    },
+    {
+        "id": "97a5259a-3769-4e42-ad33-b3105e695e46",
+        "name": "OscuroGuerrero",
+        "score": 242
+    },
+    {
+        "id": "1291a45c-344e-4ac0-a474-a9b52bae5a1f",
+        "name": "PhantomStorm",
+        "score": 242
+    },
+    {
+        "id": "8eaebd55-7b39-494c-bfde-e6a0ee09a3a3",
+        "name": "勇者聖光",
+        "score": 242
+    },
+    {
+        "id": "56559f7a-1f90-4850-924f-8889a191e149",
+        "name": "LightDragon",
+        "score": 241
+    },
+    {
+        "id": "7e1830ce-50cd-4bec-8858-f36ddd133fed",
+        "name": "破晓天际",
+        "score": 241
+    },
+    {
+        "id": "81f63910-8220-43d3-aba6-075dd5efd4b1",
+        "name": "SolRojo",
+        "score": 240
+    },
+    {
+        "id": "2a484064-2983-44fa-8a18-4e368ef31935",
+        "name": "SkyVortex",
+        "score": 239
+    },
+    {
+        "id": "23a9eb5a-c2be-4c91-b26b-64eda3206c67",
+        "name": "RosaRosa",
+        "score": 239
+    },
+    {
+        "id": "56022ee2-0d6e-4cec-b0a3-e3cb1c9d5d1f",
+        "name": "SolEspada",
+        "score": 239
+    },
+    {
+        "id": "7c54eed0-3db8-42fe-80a4-189fccb923d4",
+        "name": "TruenoNoche",
+        "score": 239
+    },
+    {
+        "id": "c25d991e-989d-422b-9a2b-cd2a3b5920c5",
+        "name": "PhantomFlame",
+        "score": 239
+    },
+    {
+        "id": "0c33fd02-3275-4e4e-aed3-f0724cfd6774",
+        "name": "AzulRosa",
+        "score": 239
+    },
+    {
+        "id": "e520eb91-0137-46b6-9ba6-9c13455f9eb9",
+        "name": "ShadowBlade",
+        "score": 239
+    },
+    {
+        "id": "fc2324e0-ec35-4d0e-bfcb-f541dad9d7a6",
+        "name": "AzulNoche",
+        "score": 239
+    },
+    {
+        "id": "a9ef00c6-3926-496d-a741-3b04afba6af4",
+        "name": "HunterStrike",
+        "score": 239
+    },
+    {
+        "id": "5cc323ed-408e-4c54-aae4-78ab15d11f2e",
+        "name": "RogueStorm",
+        "score": 239
+    },
+    {
+        "id": "e6c8fbbd-e1df-40ca-bb61-59208eedbd9b",
+        "name": "RiderRider",
+        "score": 238
+    },
+    {
+        "id": "721badea-c7f9-4cf8-ac28-0a07742b449b",
+        "name": "暗影战神",
+        "score": 238
+    },
+    {
+        "id": "71b2d5ba-039a-4267-a7e6-a91ba42b74c4",
+        "name": "AzulRayo",
+        "score": 238
+    },
+    {
+        "id": "d92c068e-fd2c-4e28-b46e-082052e4f2cd",
+        "name": "RoguePhantom",
+        "score": 238
+    },
+    {
+        "id": "f0cafc5b-69f0-4e35-a2e7-99434e2b04e2",
+        "name": "GuerreroLobo",
+        "score": 238
+    },
+    {
+        "id": "c5906985-cc86-4c8f-83e7-765469c76238",
+        "name": "HunterVortex",
+        "score": 237
+    },
+    {
+        "id": "7163bcad-b179-4f4b-b7c7-afc77e2d9773",
+        "name": "NightWolf",
+        "score": 237
+    },
+    {
+        "id": "6a3b22e8-982d-415d-93e6-38926bf83a60",
+        "name": "KnightIce",
+        "score": 237
+    },
+    {
+        "id": "a080f18c-163f-4c7d-8643-7ea55d895349",
+        "name": "CazadorAzul",
+        "score": 237
+    },
+    {
+        "id": "204b2cb1-0f44-4d6e-8d3f-f7061ce55e41",
+        "name": "PhantomGalaxy",
+        "score": 237
+    },
+    {
+        "id": "02e728d5-9bb7-4a01-8fd8-c000f6aef473",
+        "name": "DragonHawk_9N",
+        "score": 237
+    },
+    {
+        "id": "21f19490-7c6c-457c-a7cf-80bf5446a475",
+        "name": "EstrellaLobo",
+        "score": 237
+    },
+    {
+        "id": "fbb56933-88b1-43cf-a27a-3341018b5f82",
+        "name": "StarGhost",
+        "score": 237
+    },
+    {
+        "id": "29f1332b-00c0-49bc-91ce-1e821b67e279",
+        "name": "星際狂刃",
+        "score": 237
+    },
+    {
+        "id": "e91650bf-7d44-4b81-864d-9eb14b7a0d58",
+        "name": "影天際",
+        "score": 237
+    },
+    {
+        "id": "1c084a16-b85b-478a-98f4-ce1c811bcc0d",
+        "name": "IceFire",
+        "score": 236
+    },
+    {
+        "id": "65f34b08-c828-47c6-88ab-dd67532a68e7",
+        "name": "RosaTrueno",
+        "score": 236
+    },
+    {
+        "id": "a6ab1660-f34d-4ddb-b784-993aabfefd49",
+        "name": "ShadowSky",
+        "score": 236
+    },
+    {
+        "id": "313d4846-3cb9-42e3-9114-7d67d2bae347",
+        "name": "HawkStrike",
+        "score": 236
+    },
+    {
+        "id": "0dfbde0b-502a-4579-9694-175a7d8b1280",
+        "name": "StormLight_U0",
+        "score": 236
+    },
+    {
+        "id": "3a4625fd-234d-4d3e-bde9-9b1baedc9aee",
+        "name": "HunterNova",
+        "score": 236
+    },
+    {
+        "id": "62974d4d-69ca-4a64-ae93-1ce9a476bedc",
+        "name": "FuegoOscuro",
+        "score": 236
+    },
+    {
+        "id": "0fa248a2-871d-4e96-a47f-00cd253cac0a",
+        "name": "DarkGhost",
+        "score": 236
+    },
+    {
+        "id": "500d1021-06bd-4d97-979d-0358334c7921",
+        "name": "LightKnight_T5",
+        "score": 236
+    },
+    {
+        "id": "53bc4cdc-a1dd-413b-985b-f51a4b3de655",
+        "name": "天際銀翼",
+        "score": 236
+    },
+    {
+        "id": "4f4088f0-483a-4b57-9199-fa0d9c30c584",
+        "name": "暗黑龍魂",
+        "score": 235
+    },
+    {
+        "id": "76ee1f30-5f8b-4484-8b06-075c5954962c",
+        "name": "BladeLight",
+        "score": 235
+    },
+    {
+        "id": "6e00d108-cda0-4ed8-bc7c-2e112179cacf",
+        "name": "StarPhantom",
+        "score": 235
+    },
+    {
+        "id": "170375e4-19ed-4e50-ae2a-313014485e03",
+        "name": "風暴忍者",
+        "score": 235
+    },
+    {
+        "id": "1f47cc72-ec93-4f2d-a853-bc2bb7982887",
+        "name": "GalaxyFire",
+        "score": 235
+    },
+    {
+        "id": "411a5733-ee2e-4ade-9a26-e9a4009ef636",
+        "name": "WolfFlame",
+        "score": 235
+    },
+    {
+        "id": "0f2e82f8-b16a-4cd4-a110-a14cf4dff596",
+        "name": "天际无敌",
+        "score": 235
+    },
+    {
+        "id": "9201cc09-7734-4b88-a60d-54dca07f2086",
+        "name": "DragonDark",
+        "score": 234
+    },
+    {
+        "id": "8d9ffd64-bcf8-4c0f-a157-43f675402b36",
+        "name": "HunterHunter",
+        "score": 234
+    },
+    {
+        "id": "cf76c35b-d523-4762-980e-ac53e9a8dfc6",
+        "name": "LightWolf",
+        "score": 234
+    },
+    {
+        "id": "49020e22-ae02-4115-a0ec-a3b6ea5e496c",
+        "name": "StrikeIce",
+        "score": 234
+    },
+    {
+        "id": "130a6615-df31-40af-8512-4222a106886e",
+        "name": "烈火猎手",
+        "score": 234
+    },
+    {
+        "id": "2c822b6f-95fa-498c-a589-cb331379c9ab",
+        "name": "FireIce",
+        "score": 234
+    },
+    {
+        "id": "e7a82846-e46e-4a8b-9be5-dcbbf7db458a",
+        "name": "TruenoCielo",
+        "score": 234
+    },
+    {
+        "id": "4f3b893d-cd77-46aa-beff-2bc38c6c4923",
+        "name": "FlameIce",
+        "score": 233
+    },
+    {
+        "id": "8e6b9478-bb8a-4caf-b2a7-8eb7a5889e1b",
+        "name": "SolViento",
+        "score": 233
+    },
+    {
+        "id": "f15f25eb-67e8-4c26-9feb-f1ac9068742b",
+        "name": "FuegoFuego",
+        "score": 233
+    },
+    {
+        "id": "e8081afe-f69a-472f-b255-4cc07675203a",
+        "name": "KnightStorm",
+        "score": 233
+    },
+    {
+        "id": "5c347390-04cd-4978-b312-1508a0737eab",
+        "name": "KnightNight",
+        "score": 233
+    },
+    {
+        "id": "f127095f-7255-44cb-8c17-52d0c196f567",
+        "name": "武士天际",
+        "score": 233
+    },
+    {
+        "id": "03230820-98e2-42dc-9630-566a90c92a40",
+        "name": "銀翼龍魂",
+        "score": 233
+    },
+    {
+        "id": "acd1295f-22c0-4f82-85a5-07e534e53719",
+        "name": "StrikeDragon",
+        "score": 232
+    },
+    {
+        "id": "6047d6ed-8edd-44d9-af21-6cfdfde8c461",
+        "name": "幻影幻影",
+        "score": 232
+    },
+    {
+        "id": "3758ea78-9aef-4514-9243-b156a4e99bbc",
+        "name": "CieloEspada",
+        "score": 232
+    },
+    {
+        "id": "2eb23b63-a0a4-41c1-b483-bbc9b395e3df",
+        "name": "星際暗黑",
+        "score": 232
+    },
+    {
+        "id": "afbe986a-f9c3-4f78-894b-6df16276dfb6",
+        "name": "RayoMar",
+        "score": 232
+    },
+    {
+        "id": "1ec074e7-b4d2-4137-a8a0-fadb2a7d5e8c",
+        "name": "FirePhantom",
+        "score": 232
+    },
+    {
+        "id": "ce17a2c3-c504-432a-973c-470bccc367d9",
+        "name": "NovaFire",
+        "score": 232
+    },
+    {
+        "id": "4b239614-1126-4e05-9605-292f28ae3976",
+        "name": "DragonRider",
+        "score": 232
+    },
+    {
+        "id": "0b0546a4-a3c1-4ac0-952a-0bce35c24eb9",
+        "name": "StarNova",
+        "score": 232
+    },
+    {
+        "id": "a7cdbdd4-c0c0-4e6b-bec8-4c8d80d55a10",
+        "name": "AzulSombras",
+        "score": 232
+    },
+    {
+        "id": "1b1907ac-f684-4cd8-a94e-ba68ce9a493e",
+        "name": "LightHunter_TN",
+        "score": 232
+    },
+    {
+        "id": "ab8ee8e5-99fe-49aa-91f8-ca52c4a4a42e",
+        "name": "EstrellaEspada",
+        "score": 232
+    },
+    {
+        "id": "36d0adf7-0065-4330-8ba3-83e3ed250d4b",
+        "name": "銀翼狂刃",
+        "score": 232
+    },
+    {
+        "id": "2735c817-9d71-49e1-9984-1a9f79bb213d",
+        "name": "勇士烈风",
+        "score": 232
+    },
+    {
+        "id": "5f7ab6e6-4529-4d5c-a697-574843475a13",
+        "name": "GuerreroViento",
+        "score": 231
+    },
+    {
+        "id": "13b2f986-1b23-4692-9199-a9c508994f4a",
+        "name": "VientoEspada",
+        "score": 231
+    },
+    {
+        "id": "c055714c-085b-4dea-999f-a50986a5538a",
+        "name": "烈火殺手",
+        "score": 231
+    },
+    {
+        "id": "5cdf33de-cfd4-47f2-8e6c-b96d0b8183c9",
+        "name": "猎手行者",
+        "score": 231
+    },
+    {
+        "id": "5e0f26e6-28a3-463b-a4f0-b81a65847836",
+        "name": "BladeStorm_7Q",
+        "score": 231
+    },
+    {
+        "id": "4c7d2faa-0ae1-41f1-9b8f-e14dcdf2af2d",
+        "name": "行者銀翼",
+        "score": 231
+    },
+    {
+        "id": "ad13ab4d-d7bb-408b-af5b-57c432851b33",
+        "name": "WolfGalaxy",
+        "score": 230
+    },
+    {
+        "id": "e996a7a4-56ba-4b6e-9b16-bd60d9ab3210",
+        "name": "NightBlade",
+        "score": 230
+    },
+    {
+        "id": "44f15b11-9ddf-413d-a1de-1e43900abcc2",
+        "name": "EspadaFuego",
+        "score": 230
+    },
+    {
+        "id": "70cf6e9a-3be5-4c16-b747-9ca3e2c8f7a3",
+        "name": "EspadaRosa",
+        "score": 230
+    },
+    {
+        "id": "d9b05ab2-4774-4251-b618-850925779e48",
+        "name": "ShadowGalaxy",
+        "score": 230
+    },
+    {
+        "id": "2339b966-4f3f-461c-9ee9-099e36bee933",
+        "name": "KnightGhost",
+        "score": 230
+    },
+    {
+        "id": "4a435426-3c55-4840-ac30-5d4c9c8f161f",
+        "name": "HawkNova",
+        "score": 230
+    },
+    {
+        "id": "53e83415-4c7f-4102-80cc-8e828de4d940",
+        "name": "DragonRogue",
+        "score": 230
+    },
+    {
+        "id": "f2c44ba2-a8b0-4bb7-a150-97a372fc9770",
+        "name": "天際無敵",
+        "score": 230
+    },
+    {
+        "id": "f7c51f28-1f85-48ab-be46-f8e1ae0d3001",
+        "name": "StormFlame",
+        "score": 229
+    },
+    {
+        "id": "7ba49e46-3f75-4ff8-bdc1-407e82939cfd",
+        "name": "HawkPhantom",
+        "score": 229
+    },
+    {
+        "id": "d265cac3-af39-4a41-9af5-1d601ed268a5",
+        "name": "ShadowStrike",
+        "score": 229
+    },
+    {
+        "id": "c0cf85cf-0cda-4e37-9689-a0d86f66b39f",
+        "name": "StormSky",
+        "score": 229
+    },
+    {
+        "id": "7301b1b0-12bb-4699-9c1f-cd930e3d1099",
+        "name": "CieloOscuro",
+        "score": 229
+    },
+    {
+        "id": "b57fcc7f-f521-433a-92a4-02655ce4a9f1",
+        "name": "勇者幻影",
+        "score": 229
+    },
+    {
+        "id": "795381a4-89f4-47a0-8ba5-de91ee7715e1",
+        "name": "SolFuego",
+        "score": 229
+    },
+    {
+        "id": "f390d6ed-a940-4337-b1f4-3d0fc4ca6d80",
+        "name": "PhantomWolf",
+        "score": 229
+    },
+    {
+        "id": "596bd8b8-c526-4cf3-90cc-d56d48602c81",
+        "name": "AzulGuerrero",
+        "score": 229
+    },
+    {
+        "id": "8d4d0812-2472-4dc7-8863-f3ba97d4672e",
+        "name": "勇者天際",
+        "score": 229
+    },
+    {
+        "id": "a201df49-3bbe-4ed5-aa24-e03e18b2ea80",
+        "name": "GhostKnight_I5",
+        "score": 229
+    },
+    {
+        "id": "a9bd5078-82cc-452a-8ca4-56bc4df856e9",
+        "name": "SombrasNoche",
+        "score": 228
+    },
+    {
+        "id": "bea166a8-48cb-441d-9ff5-e278479e454d",
+        "name": "勇者殺手",
+        "score": 228
+    },
+    {
+        "id": "369bcdf0-e1e6-4ed8-8069-dab6162f4835",
+        "name": "SombrasEstrella",
+        "score": 228
+    },
+    {
+        "id": "01ee71b3-f870-46ef-be22-b3b2111bb725",
+        "name": "RiderLight",
+        "score": 228
+    },
+    {
+        "id": "30b73440-6889-4f22-92a2-716e551db309",
+        "name": "FuegoNoche",
+        "score": 228
+    },
+    {
+        "id": "34e88682-bf6c-45f0-b752-bc4ff4ff50a4",
+        "name": "FlameNova",
+        "score": 228
+    },
+    {
+        "id": "963d0a24-7a0c-43a5-8bf9-140887a97f12",
+        "name": "星辰行者",
+        "score": 227
+    },
+    {
+        "id": "131e4c03-a9b3-4e1f-ae34-87d14374ec60",
+        "name": "NightNova",
+        "score": 227
+    },
+    {
+        "id": "012f7af2-4a86-4719-a8d0-11bc8a26bf33",
+        "name": "RogueStar",
+        "score": 227
+    },
+    {
+        "id": "dd41b68a-400a-47da-a26a-6c2c0ba933b8",
+        "name": "VortexHunter",
+        "score": 227
+    },
+    {
+        "id": "9280836d-3814-490c-8a88-a932a337e5c5",
+        "name": "NightNight",
+        "score": 227
+    },
+    {
+        "id": "26b11402-c87e-487f-908b-d44a125661b1",
+        "name": "战神星辰",
+        "score": 227
+    },
+    {
+        "id": "0597dabb-4155-498e-8967-bfbd03d2f2b2",
+        "name": "RiderIce",
+        "score": 227
+    },
+    {
+        "id": "fa299c3a-e034-48e7-b0df-4b2549e6bb27",
+        "name": "ShadowFire",
+        "score": 227
+    },
+    {
+        "id": "6b52c31a-ca9d-4644-ab75-406c96e15e91",
+        "name": "無敵忍者",
+        "score": 227
+    },
+    {
+        "id": "706bf146-00f3-4eff-ad70-42abd5b2f132",
+        "name": "龍魂天際",
+        "score": 227
+    },
+    {
+        "id": "f0b2f10e-7d2d-4b9c-98b2-8813b3283f4b",
+        "name": "SkyPhantom",
+        "score": 227
+    },
+    {
+        "id": "2f96790c-fe4c-4657-baa4-c49e52583adc",
+        "name": "ShadowIce",
+        "score": 227
+    },
+    {
+        "id": "fa1c0cb3-91f2-4c49-8d5d-2d3112cf6abc",
+        "name": "夜之龍魂",
+        "score": 227
+    },
+    {
+        "id": "1d7455fe-9cd1-4a2a-99cb-90730d62b34d",
+        "name": "IceIce",
+        "score": 227
+    },
+    {
+        "id": "cbdccec4-e668-4397-ad1e-1e139704f5ef",
+        "name": "NightShadow_0B",
+        "score": 227
+    },
+    {
+        "id": "c89fc034-4318-4b35-bfb8-5271b22b770a",
+        "name": "FlameWolf",
+        "score": 227
+    },
+    {
+        "id": "b16acb53-06fd-48d0-91fc-9c189c97bbc2",
+        "name": "SolLobo",
+        "score": 226
+    },
+    {
+        "id": "d0abc790-cb83-434e-bc77-cf47712cd696",
+        "name": "DragonNova",
+        "score": 226
+    },
+    {
+        "id": "af9c14cd-7fff-4e86-b9f2-3385770ef5ec",
+        "name": "FireDragon",
+        "score": 226
+    },
+    {
+        "id": "780174dd-5f05-4642-a703-872fc59762d4",
+        "name": "HunterStorm",
+        "score": 226
+    },
+    {
+        "id": "b6f8201a-0316-47b5-b405-efc7a6c339e3",
+        "name": "NightStrike",
+        "score": 226
+    },
+    {
+        "id": "114c81ea-fc3c-4abd-a9d4-e893777cc551",
+        "name": "火影行者",
+        "score": 226
+    },
+    {
+        "id": "a5f95770-af56-4573-95ac-850f23fe25e9",
+        "name": "聖光烈火",
+        "score": 226
+    },
+    {
+        "id": "2cabf774-7be2-43d8-be6b-e011732c567a",
+        "name": "NovaLight",
+        "score": 226
+    },
+    {
+        "id": "db002c02-30c9-4ae3-8fd2-f80204cddbda",
+        "name": "RiderStar",
+        "score": 226
+    },
+    {
+        "id": "d12afaba-d8ce-4d55-a0c2-913c3f8accb7",
+        "name": "CieloGuerrero",
+        "score": 226
+    },
+    {
+        "id": "093217e2-8e39-45f4-a400-21d6289251ee",
+        "name": "NightFire",
+        "score": 226
+    },
+    {
+        "id": "38d61595-c35b-443a-984a-3b2485d71720",
+        "name": "WolfPhantom",
+        "score": 226
+    },
+    {
+        "id": "0f5e1b3f-8d39-460e-9477-155e08eb8d0a",
+        "name": "BladeRider",
+        "score": 225
+    },
+    {
+        "id": "a7d1f6a6-f95c-4ff8-a6dc-f11b60c298a3",
+        "name": "SkyNova",
+        "score": 225
+    },
+    {
+        "id": "65ad2a0e-cbe9-415d-8e69-23f93e3799c6",
+        "name": "NightStar_Q7",
+        "score": 225
+    },
+    {
+        "id": "c3f65bd8-0b8b-4512-a3c5-24838daf7288",
+        "name": "RogueDragon_66",
+        "score": 225
+    },
+    {
+        "id": "2f9febd4-2b44-441b-b6b1-884a8a16e29e",
+        "name": "MarRojo",
+        "score": 225
+    },
+    {
+        "id": "33e2f926-425b-489d-b1cd-90438f0daa4b",
+        "name": "MarEstrella",
+        "score": 225
+    },
+    {
+        "id": "702d1e0f-998b-40db-b013-ac168e4d9698",
+        "name": "星際聖光",
+        "score": 225
+    },
+    {
+        "id": "32237111-9445-4bab-80ec-5eb360388001",
+        "name": "影夜之",
+        "score": 225
+    },
+    {
+        "id": "00d4500f-eead-4797-8229-70c9459d92ec",
+        "name": "DragonEstrella",
+        "score": 225
+    },
+    {
+        "id": "6ed00e8e-03c5-4827-b4d1-c84fce74aee7",
+        "name": "NovaKnight_7O",
+        "score": 225
+    },
+    {
+        "id": "bee4a8b3-74d0-45a3-95a1-cacbab611f5d",
+        "name": "FireSky",
+        "score": 225
+    },
+    {
+        "id": "0b318cc7-c66a-431d-915f-f226936fec0e",
+        "name": "聖光忍者",
+        "score": 224
+    },
+    {
+        "id": "1f3a0289-2e00-41b7-a8b5-41d3ba71f707",
+        "name": "忍者火影",
+        "score": 224
+    },
+    {
+        "id": "7cc8560f-13bd-4cf8-a644-25ac1daf99f8",
+        "name": "LuzEspada",
+        "score": 224
+    },
+    {
+        "id": "58fc4635-ce13-4fab-9af6-6737acf6bb45",
+        "name": "暗黑幻影",
+        "score": 224
+    },
+    {
+        "id": "72e4ed94-70b9-4df7-9817-28dcf580319b",
+        "name": "勇士武士",
+        "score": 224
+    },
+    {
+        "id": "1a8271f8-027f-482a-b5bf-70f0950b830b",
+        "name": "ShadowRider",
+        "score": 224
+    },
+    {
+        "id": "e825779b-a284-4838-94f5-16a049cce506",
+        "name": "破晓烈风",
+        "score": 224
+    },
+    {
+        "id": "4895b94b-0a4e-43aa-8294-2fafde5f5a4a",
+        "name": "HunterPhantom",
+        "score": 223
+    },
+    {
+        "id": "904a461a-8f11-411e-97c6-cefd39b1128f",
+        "name": "DarkStar",
+        "score": 223
+    },
+    {
+        "id": "fbc48f56-05d1-44f8-9273-f4ec582a11d2",
+        "name": "EstrellaCazador",
+        "score": 223
+    },
+    {
+        "id": "0bde0f40-f244-4d23-9f07-3eea0cd4da8a",
+        "name": "VortexRogue",
+        "score": 223
+    },
+    {
+        "id": "363399bb-14e8-4052-b888-0c4a886ff034",
+        "name": "ShadowRogue",
+        "score": 223
+    },
+    {
+        "id": "3b5858ae-1a78-442a-8624-68cacea87759",
+        "name": "BladePhantom",
+        "score": 223
+    },
+    {
+        "id": "0cd188b3-b5e4-40d1-a7e7-1db2bb17b4c8",
+        "name": "RiderDark",
+        "score": 223
+    },
+    {
+        "id": "6d5e6f46-eb63-453a-8907-b239bf538426",
+        "name": "RiderBlade",
+        "score": 223
+    },
+    {
+        "id": "0fb0f616-432a-4e0a-89d9-f55609461156",
+        "name": "TruenoRayo",
+        "score": 223
+    },
+    {
+        "id": "c94c00e4-83f7-492b-9c60-172674d9293b",
+        "name": "CazadorLobo",
+        "score": 223
+    },
+    {
+        "id": "4ae69043-8e97-4305-bc89-dbbda1bb9065",
+        "name": "NightFlame",
+        "score": 222
+    },
+    {
+        "id": "968d63d2-9ed5-44c1-bc4b-4123d8260c10",
+        "name": "DarkHunter",
+        "score": 222
+    },
+    {
+        "id": "50e1e54e-ccaf-4538-938e-19f7165dfd5d",
+        "name": "龙行者",
+        "score": 222
+    },
+    {
+        "id": "b09c3398-31b3-462e-9e93-e8f353aca188",
+        "name": "戰士銀翼",
+        "score": 222
+    },
+    {
+        "id": "ebb03269-c76c-46d0-a463-5329f7db4ae4",
+        "name": "GalaxyHawk",
+        "score": 222
+    },
+    {
+        "id": "d17b55a1-9b4d-4c78-bf5a-f515de214461",
+        "name": "猎手烈火",
+        "score": 222
+    },
+    {
+        "id": "d08294be-176e-423e-b4b8-f30c3316f6b2",
+        "name": "夜之天際",
+        "score": 222
+    },
+    {
+        "id": "df2edc28-75dc-4c10-9762-9ed2f23030da",
+        "name": "DragonFlame",
+        "score": 222
+    },
+    {
+        "id": "64ba234f-8090-499f-993c-ba3e8fe0d332",
+        "name": "BladeHawk",
+        "score": 222
+    },
+    {
+        "id": "d22a0553-bbe9-4a97-ae17-debce7314af2",
+        "name": "龙猎手",
+        "score": 222
+    },
+    {
+        "id": "c4d6e76b-9439-4f66-b78b-d9809eda8081",
+        "name": "WolfGhost",
+        "score": 222
+    },
+    {
+        "id": "e1b10302-d326-4fd6-9eca-a52309ff40d3",
+        "name": "DarkVortex",
+        "score": 222
+    },
+    {
+        "id": "6bcf408c-06f9-450e-8c98-2f258a79a2fd",
+        "name": "星辰无敌",
+        "score": 222
+    },
+    {
+        "id": "5fe6d102-f987-42d3-b3f0-08301eb1492a",
+        "name": "StrikeLight",
+        "score": 222
+    },
+    {
+        "id": "ae34c31b-219e-413f-9e81-e8182e83d604",
+        "name": "行者龍魂",
+        "score": 221
+    },
+    {
+        "id": "4aef92f4-824c-4b9f-bf1e-75c5dde9af2c",
+        "name": "行者天際",
+        "score": 221
+    },
+    {
+        "id": "b5a9e505-082d-40b7-a068-aa7bfc4574e8",
+        "name": "RiderHawk",
+        "score": 221
+    },
+    {
+        "id": "69cc57a9-e881-4d4f-9c79-458a2066b89c",
+        "name": "FlameNight",
+        "score": 221
+    },
+    {
+        "id": "9e9270f2-6013-431c-bda9-cc25ab435a0b",
+        "name": "StrikeFlame",
+        "score": 221
+    },
+    {
+        "id": "7ffb9146-42d5-4c35-a44b-e83609257125",
+        "name": "RojoNoche",
+        "score": 221
+    },
+    {
+        "id": "bed23455-0392-4cb7-8a31-c4b2495e4ad7",
+        "name": "NightHunter_8Q",
+        "score": 221
+    },
+    {
+        "id": "d3b4faeb-5e90-4db5-b64b-753bfbddc0ea",
+        "name": "NocheNoche",
+        "score": 221
+    },
+    {
+        "id": "292d13f7-3e7c-4921-83fa-644be2a54f5e",
+        "name": "StormPhantom",
+        "score": 221
+    },
+    {
+        "id": "338199b6-1932-4258-95ef-97684c9b7ab2",
+        "name": "GalaxyNight_KY",
+        "score": 221
+    },
+    {
+        "id": "9adf09bf-814a-4b0e-819e-742767096029",
+        "name": "VortexLight",
+        "score": 220
+    },
+    {
+        "id": "8fca1d4c-c38f-43e2-8014-b36f9f32a840",
+        "name": "LoboCazador",
+        "score": 220
+    },
+    {
+        "id": "7eed6cda-2905-4d3a-9b43-30e74ea0b3e2",
+        "name": "殺手幻影",
+        "score": 220
+    },
+    {
+        "id": "e68d81d5-06f5-46bb-bbb4-7e5b20f64a65",
+        "name": "ShadowNova",
+        "score": 220
+    },
+    {
+        "id": "27e988e8-36da-44f9-ac8f-c10f56d73ad1",
+        "name": "LightHunter",
+        "score": 220
+    },
+    {
+        "id": "3a9e3323-4994-4be3-80ea-7567314677cb",
+        "name": "VortexDark",
+        "score": 220
+    },
+    {
+        "id": "aa031e8f-10b1-436b-8be3-93446012d32f",
+        "name": "影無敵",
+        "score": 220
+    },
+    {
+        "id": "3cd217a6-f15d-4b08-a265-770b17b078a7",
+        "name": "WolfWolf",
+        "score": 219
+    },
+    {
+        "id": "d42e9e93-0320-4358-b9f8-7b8f2cbd36a3",
+        "name": "DragonStrike",
+        "score": 219
+    },
+    {
+        "id": "1763005b-a163-4690-9327-3dae6edef8bf",
+        "name": "FlameRogue",
+        "score": 219
+    },
+    {
+        "id": "1adb839e-2be8-4e07-969e-4e4ea75dc023",
+        "name": "烈风战神",
+        "score": 219
+    },
+    {
+        "id": "373fb162-aa0b-4435-9d41-d3dfb5eb1fae",
+        "name": "SolMar",
+        "score": 219
+    },
+    {
+        "id": "fd04cffe-6dce-48e1-b6f6-bfd52b574c43",
+        "name": "KnightGalaxy",
+        "score": 219
+    },
+    {
+        "id": "6cdbff16-f609-47fa-bd36-045f9c504bf1",
+        "name": "VortexVortex",
+        "score": 219
+    },
+    {
+        "id": "5ef0f561-a951-413e-9305-b5248f22ee8f",
+        "name": "StrikeStar",
+        "score": 219
+    },
+    {
+        "id": "c78363e5-c5dd-4ac7-a9b2-f74d8fc6f8aa",
+        "name": "戰士暗黑",
+        "score": 218
+    },
+    {
+        "id": "f2c6f95a-66e6-48b6-b066-669bca3f165b",
+        "name": "SolDragon",
+        "score": 218
+    },
+    {
+        "id": "94459169-f507-4156-9950-7075bc53e92c",
+        "name": "RogueRider",
+        "score": 218
+    },
+    {
+        "id": "29f9cd65-b60a-44ce-974f-388f23e98453",
+        "name": "DragonGhost",
+        "score": 218
+    },
+    {
+        "id": "e4a493a7-700d-4d77-aa5c-8afc343cd1d0",
+        "name": "BladeSky",
+        "score": 218
+    },
+    {
+        "id": "f9fbc5b8-1854-4697-9c81-728a4fadf590",
+        "name": "星辰龙",
+        "score": 218
+    },
+    {
+        "id": "4a39774f-5183-4500-a5bb-b50333377164",
+        "name": "LightKnight",
+        "score": 218
+    },
+    {
+        "id": "d9c3f463-a8af-453f-9480-f4b09eca37a2",
+        "name": "HawkDragon",
+        "score": 218
+    },
+    {
+        "id": "c490e76d-158c-41b1-b1b0-2d91f127c758",
+        "name": "StarIce",
+        "score": 218
+    },
+    {
+        "id": "915e9738-6803-45f0-b401-6a6c1b082538",
+        "name": "BladeKnight",
+        "score": 218
+    },
+    {
+        "id": "9d1e857e-825b-4a3e-966e-a6fb71b37343",
+        "name": "AzulCielo",
+        "score": 218
+    },
+    {
+        "id": "3899e1d8-657e-48de-82b3-87506268d3d9",
+        "name": "FlameGalaxy_2M",
+        "score": 218
+    },
+    {
+        "id": "124014c4-a663-4bb8-ad35-37200d915c08",
+        "name": "狂刃勇士",
+        "score": 218
+    },
+    {
+        "id": "8178b090-98d7-4bba-944d-9c2819aa5042",
+        "name": "風暴行者",
+        "score": 217
+    },
+    {
+        "id": "b67cca70-af85-44f3-9fb9-840e5b0d1b88",
+        "name": "NovaStrike",
+        "score": 217
+    },
+    {
+        "id": "021d48cd-3977-43e6-876a-d46046659091",
+        "name": "天际武士",
+        "score": 217
+    },
+    {
+        "id": "8730b309-53c6-4fab-ab22-78f80ac81b0f",
+        "name": "GhostNova",
+        "score": 217
+    },
+    {
+        "id": "928f4b48-716f-4bff-b988-113e33376e6f",
+        "name": "StarLight",
+        "score": 217
+    },
+    {
+        "id": "5813d2bb-cf16-461d-b4d5-18af2155f5fb",
+        "name": "LoboNoche",
+        "score": 217
+    },
+    {
+        "id": "bfbff2ef-f30e-47e3-ba54-a6312181ad7d",
+        "name": "HawkWolf",
+        "score": 217
+    },
+    {
+        "id": "6a5d0870-9349-414a-a86b-5ed148315b59",
+        "name": "HawkRider",
+        "score": 217
+    },
+    {
+        "id": "5c0623af-d4b0-4afb-8191-00266fde5b99",
+        "name": "OscuroNoche",
+        "score": 217
+    },
+    {
+        "id": "d6bb82c5-47a0-48ce-85b8-d990c24f7ea3",
+        "name": "烈火銀翼",
+        "score": 217
+    },
+    {
+        "id": "85722419-85c1-4472-88c8-49f44b0494f0",
+        "name": "DarkPhantom_SU",
+        "score": 217
+    },
+    {
+        "id": "5213ce21-2d3f-42a7-9ae9-01eaad102c82",
+        "name": "CazadorDragon",
+        "score": 217
+    },
+    {
+        "id": "5ae3c1ef-0915-496c-97d8-002747548057",
+        "name": "LightDark",
+        "score": 217
+    },
+    {
+        "id": "157c66a1-9cca-40c4-b477-ca6b3f8b373b",
+        "name": "GalaxyKnight",
+        "score": 217
+    },
+    {
+        "id": "157c47ea-5203-4e14-8617-d0a272ba05c8",
+        "name": "StormWolf",
+        "score": 216
+    },
+    {
+        "id": "02e7f83f-bdf4-4d20-a157-e921c127053b",
+        "name": "RogueWolf",
+        "score": 216
+    },
+    {
+        "id": "ebe529e9-a2e4-4265-8e36-98bb136e1853",
+        "name": "NightGalaxy",
+        "score": 216
+    },
+    {
+        "id": "26825c34-b975-47cc-9d7c-5f6b76223583",
+        "name": "FuegoCielo",
+        "score": 216
+    },
+    {
+        "id": "1817861e-2b95-477a-be91-924e311907e3",
+        "name": "KnightStar",
+        "score": 216
+    },
+    {
+        "id": "3b65f2e4-21f0-41a0-80bc-27a3c9ce028c",
+        "name": "WolfHawk",
+        "score": 216
+    },
+    {
+        "id": "afb55464-6de3-4781-9a9d-e8cb339dc503",
+        "name": "IceFlame",
+        "score": 216
+    },
+    {
+        "id": "d0b068be-6760-48eb-b7d5-65203026fccb",
+        "name": "StrikeRider",
+        "score": 216
+    },
+    {
+        "id": "1710c04e-befc-4f46-9d50-681162fc1523",
+        "name": "GuerreroAzul",
+        "score": 216
+    },
+    {
+        "id": "3a0d18b9-4900-4213-a20e-7f514ca3805f",
+        "name": "狂刃行者",
+        "score": 215
+    },
+    {
+        "id": "b598681c-5a3b-4fba-8268-bc1b8806a34f",
+        "name": "BladeRogue",
+        "score": 215
+    },
+    {
+        "id": "fd0c32c3-713b-43bf-bca9-a5eafa8584dc",
+        "name": "StarVortex",
+        "score": 215
+    },
+    {
+        "id": "aca34ba4-ab72-4b69-84b8-32e65094d309",
+        "name": "GalaxyPhantom",
+        "score": 215
+    },
+    {
+        "id": "7f9e3d21-c040-4c4c-84af-4b957e6cd6fc",
+        "name": "DragonFire",
+        "score": 215
+    },
+    {
+        "id": "ace33439-fa7e-4cea-9357-b26e7f70445c",
+        "name": "TruenoLuz",
+        "score": 215
+    },
+    {
+        "id": "a68c384f-4ad7-479f-b1a5-26a95933001d",
+        "name": "VientoViento",
+        "score": 215
+    },
+    {
+        "id": "c73520ba-5ce8-4709-a45f-51dbf7163a82",
+        "name": "龍魂風暴",
+        "score": 215
+    },
+    {
+        "id": "0a15b4c8-09d6-494a-9f04-b45fbd172783",
+        "name": "GalaxyNight",
+        "score": 215
+    },
+    {
+        "id": "adc3beea-235c-4b9d-8d55-8f3c5a7351e0",
+        "name": "EstrellaViento",
+        "score": 215
+    },
+    {
+        "id": "a787f02e-d57a-417d-8be2-92ae8bdbb90e",
+        "name": "NightHunter",
+        "score": 215
+    },
+    {
+        "id": "2632e16a-6a69-447b-a7ac-f3f98264246c",
+        "name": "KnightLight",
+        "score": 215
+    },
+    {
+        "id": "e0501c44-6e5e-446b-8230-352cb6f1d474",
+        "name": "PhantomGhost",
+        "score": 215
+    },
+    {
+        "id": "a20126bc-a63a-4070-9cdf-58b9863946e4",
+        "name": "NocheSombras",
+        "score": 215
+    },
+    {
+        "id": "8071e3d6-edfa-4bd6-a252-e31d6e25a14b",
+        "name": "EspadaLuz",
+        "score": 215
+    },
+    {
+        "id": "876737de-8cf3-4516-afff-f1606a3a07d1",
+        "name": "狂刃龍魂",
+        "score": 214
+    },
+    {
+        "id": "cfbb494c-c47f-4707-811a-a8e373141887",
+        "name": "NovaWolf",
+        "score": 214
+    },
+    {
+        "id": "51dcfebd-795b-4c65-8291-19a7e4f561f9",
+        "name": "LoboGuerrero",
+        "score": 214
+    },
+    {
+        "id": "54192769-6d07-4094-a631-2da51cc0d993",
+        "name": "SombrasViento",
+        "score": 214
+    },
+    {
+        "id": "49ff9ab6-cb94-4608-8283-31138ab02b16",
+        "name": "GalaxyLight",
+        "score": 214
+    },
+    {
+        "id": "1d4032df-0562-429f-b880-ce7b93a936e2",
+        "name": "ShadowPhantom",
+        "score": 214
+    },
+    {
+        "id": "b2d369a2-cf2a-4dc8-bc30-388418a8bf13",
+        "name": "NovaRider",
+        "score": 214
+    },
+    {
+        "id": "40796498-e3c3-4f38-96bb-c593b7b5c89c",
+        "name": "夜之風暴",
+        "score": 214
+    },
+    {
+        "id": "31dfe30c-7f55-4d09-a6ce-ed42ff310df8",
+        "name": "FireGalaxy",
+        "score": 214
+    },
+    {
+        "id": "18135472-0554-4b9c-b4a1-68ba070624c1",
+        "name": "RojoLuz",
+        "score": 214
+    },
+    {
+        "id": "9df78828-4a31-44d1-9dce-f8d0089b0ed4",
+        "name": "SkyHawk_D2",
+        "score": 214
+    },
+    {
+        "id": "df0c9152-1e95-4d50-8b14-953b4b69a902",
+        "name": "OscuroSombras",
+        "score": 214
+    },
+    {
+        "id": "5aac8013-ac28-412c-881e-7f5a820cd523",
+        "name": "RojoEspada",
+        "score": 214
+    },
+    {
+        "id": "af2a0676-c60c-418e-b9b4-2b8e88c8c78b",
+        "name": "EstrellaGuerrero",
+        "score": 214
+    },
+    {
+        "id": "e6355340-fe28-46ba-93f2-a0841667221b",
+        "name": "天際殺手",
+        "score": 214
+    },
+    {
+        "id": "0799ce23-31a7-454e-9855-4586fcf10697",
+        "name": "影破曉",
+        "score": 214
+    },
+    {
+        "id": "cc798d88-cf8a-4617-aa82-f9db9614ba1b",
+        "name": "幻影行者",
+        "score": 213
+    },
+    {
+        "id": "d26a7d9b-3966-4ec0-9c98-6c91a291af46",
+        "name": "KnightStrike",
+        "score": 213
+    },
+    {
+        "id": "6ee87ffd-8e03-47ee-9230-441f61ac6364",
+        "name": "GhostGalaxy",
+        "score": 213
+    },
+    {
+        "id": "76480438-f24f-43a3-94f2-0a2766ac4e58",
+        "name": "破曉火影",
+        "score": 213
+    },
+    {
+        "id": "9323b70a-d06c-460f-9782-001d8c2a7ab2",
+        "name": "StarDark",
+        "score": 213
+    },
+    {
+        "id": "f45ebaad-f127-4656-8177-0749b568daea",
+        "name": "EstrellaRojo",
+        "score": 213
+    },
+    {
+        "id": "7a518119-d89b-4bcc-8c03-b65041567439",
+        "name": "FuegoTrueno",
+        "score": 213
+    },
+    {
+        "id": "6a322188-d7ab-48d4-9579-06bf76626fe4",
+        "name": "CieloNoche",
+        "score": 213
+    },
+    {
+        "id": "91923464-a5c1-4022-8900-1a0ce5b49430",
+        "name": "RosaGuerrero",
+        "score": 213
+    },
+    {
+        "id": "cf0a9159-ad95-4f8b-afd9-9ecbc2d28383",
+        "name": "ShadowGhost",
+        "score": 213
+    },
+    {
+        "id": "74332d13-fd9a-42bb-a44d-400be7188c78",
+        "name": "天际战神",
+        "score": 213
+    },
+    {
+        "id": "246feb96-e913-437e-afbd-d861d2f1b40d",
+        "name": "PhantomIce",
+        "score": 213
+    },
+    {
+        "id": "9b8603d4-1b36-453b-8e8b-79edcd2a466a",
+        "name": "狂刃幻影",
+        "score": 213
+    },
+    {
+        "id": "d0f2dc9e-4bfb-452e-a4bf-a957f4f965ef",
+        "name": "GalaxyRider",
+        "score": 212
+    },
+    {
+        "id": "6d8bd22e-1e57-422f-8eb0-92dd9f3c89aa",
+        "name": "NightLight",
+        "score": 212
+    },
+    {
+        "id": "ff466960-34f7-4150-bd09-a6a55bc9db7e",
+        "name": "ShadowWolf",
+        "score": 212
+    },
+    {
+        "id": "1b6fc0e2-aa03-4149-b320-c208866f62a7",
+        "name": "FlameDark",
+        "score": 212
+    },
+    {
+        "id": "d254e9a7-25ee-4a2f-a6e8-f2b8015cbdd6",
+        "name": "AzulSol",
+        "score": 212
+    },
+    {
+        "id": "68cf8e59-d7dc-4fd0-8686-75ec5f75e0d2",
+        "name": "SkyGalaxy",
+        "score": 212
+    },
+    {
+        "id": "5f632693-5fac-4069-9cc5-3942fd0f0553",
+        "name": "RiderNight",
+        "score": 212
+    },
+    {
+        "id": "4aad2c92-48d4-499b-bf08-2cc66189b52f",
+        "name": "破曉星際",
+        "score": 212
+    },
+    {
+        "id": "ce75609d-3175-446d-9abb-ec9f2aa9a64b",
+        "name": "StarSky",
+        "score": 212
+    },
+    {
+        "id": "36f8550c-8bc5-4f8f-b28d-5ec7c196bf35",
+        "name": "破曉暗黑",
+        "score": 212
+    },
+    {
+        "id": "e5486b05-91e8-4c28-a785-e2963f0051e1",
+        "name": "KnightFlame_CS",
+        "score": 212
+    },
+    {
+        "id": "43105f5d-c750-4b98-a076-d0e07e0eefbf",
+        "name": "StormHunter",
+        "score": 212
+    },
+    {
+        "id": "1a6cbe4b-9e41-45d8-abe7-7d4bd8e0f86a",
+        "name": "GalaxyStorm",
+        "score": 211
+    },
+    {
+        "id": "8d1c3ed1-f420-477e-bbb3-6cb51ddc1278",
+        "name": "SkyFire",
+        "score": 211
+    },
+    {
+        "id": "2b50589d-b904-4eb7-b84d-8b5e372b2bd0",
+        "name": "IceWolf",
+        "score": 211
+    },
+    {
+        "id": "43cadaab-2d08-4de2-985c-3cddcb6f83c4",
+        "name": "IceBlade",
+        "score": 211
+    },
+    {
+        "id": "36379176-fe07-4325-9b42-18aefc45c0af",
+        "name": "暗黑星際",
+        "score": 211
+    },
+    {
+        "id": "ef17b326-e97a-45fd-b322-e8caaa2055e6",
+        "name": "ShadowKnight",
+        "score": 211
+    },
+    {
+        "id": "3094edba-dc87-421a-a134-7787f3c609ad",
+        "name": "天際風暴",
+        "score": 211
+    },
+    {
+        "id": "9f6d5c74-8a1f-4e4c-b26b-01770fdd3c16",
+        "name": "夜之勇者",
+        "score": 211
+    },
+    {
+        "id": "3fe295f8-8f34-4718-b366-e3664c4b5696",
+        "name": "GuerreroRojo",
+        "score": 211
+    },
+    {
+        "id": "7deb86d9-8ec7-4cc5-a3d1-cfcbca78daa0",
+        "name": "HunterShadow_DE",
+        "score": 211
+    },
+    {
+        "id": "b39d1f81-4817-43ee-800a-266c95c05226",
+        "name": "LuzTrueno",
+        "score": 211
+    },
+    {
+        "id": "ebf6d015-b889-4f15-a1f0-ceb9840f646e",
+        "name": "戰士天際",
+        "score": 210
+    },
+    {
+        "id": "83acdce4-7b83-4242-9405-be427f693696",
+        "name": "PhantomNova",
+        "score": 210
+    },
+    {
+        "id": "12d27a04-ebbd-4c08-af86-b06021317eb0",
+        "name": "狂刃勇者",
+        "score": 210
+    },
+    {
+        "id": "01666c14-7541-484d-ad1e-3abf2933b4f9",
+        "name": "LightNight",
+        "score": 210
+    },
+    {
+        "id": "dab78e8f-0cb5-493f-b448-194ff47d6e89",
+        "name": "破曉天際",
+        "score": 210
+    },
+    {
+        "id": "3d04194c-5b64-42c3-a2f0-79d0af19fb51",
+        "name": "行者夜之",
+        "score": 210
+    },
+    {
+        "id": "0133a2b3-562b-4f77-b62d-cc14d1c8d157",
+        "name": "戰士破曉",
+        "score": 210
+    },
+    {
+        "id": "e0360476-791b-4fd2-94b8-77f59b0be4dd",
+        "name": "BladeFlame",
+        "score": 209
+    },
+    {
+        "id": "f1121ad3-988b-4bc2-8306-03b6f75843e6",
+        "name": "FireGhost",
+        "score": 209
+    },
+    {
+        "id": "16016f1a-af6c-4182-a66d-f41be43f6a56",
+        "name": "FireStorm_OR",
+        "score": 209
+    },
+    {
+        "id": "a015ef8b-6b51-40b2-8ac3-6e484993b26f",
+        "name": "HunterNight",
+        "score": 209
+    },
+    {
+        "id": "34cad1fe-f8a9-4065-bbb2-11075c63d090",
+        "name": "StrikeStorm",
+        "score": 208
+    },
+    {
+        "id": "e824ef2e-c9e0-4771-a681-fa284b37806b",
+        "name": "暗黑狂刃",
+        "score": 208
+    },
+    {
+        "id": "989fcb4f-8c58-4ebc-a945-fadfc65fc06c",
+        "name": "StormSky_0L",
+        "score": 208
+    },
+    {
+        "id": "40ae4f99-fd2e-4d8d-bffa-c806e6a45460",
+        "name": "KnightFire",
+        "score": 207
+    },
+    {
+        "id": "64db45ab-4018-444d-bbed-948e34a390a9",
+        "name": "黑夜烈火",
+        "score": 207
+    },
+    {
+        "id": "0b62e9c1-d30e-4f74-8b11-784888043932",
+        "name": "OscuroLobo",
+        "score": 207
+    },
+    {
+        "id": "610bd1f4-c540-4e1b-bcf4-052c227c06b7",
+        "name": "VientoLuz",
+        "score": 207
+    },
+    {
+        "id": "b76b8730-07e2-41c0-8f26-150bfc6a5b5b",
+        "name": "天际幻影",
+        "score": 207
+    },
+    {
+        "id": "f221e6d4-0c7f-4aed-bdc4-893eb74bce70",
+        "name": "殺手風暴",
+        "score": 207
+    },
+    {
+        "id": "d6f54efb-62f7-463f-96e2-c094819359da",
+        "name": "FireBlade",
+        "score": 207
+    },
+    {
+        "id": "cc0de382-65bc-4b81-9c80-c34be564d691",
+        "name": "NovaSky_VU",
+        "score": 207
+    },
+    {
+        "id": "7bf22faf-9f4f-4635-8257-a4fe41167332",
+        "name": "GhostBlade_GV",
+        "score": 207
+    },
+    {
+        "id": "f505f4d0-862c-4a21-8b3c-2bbebffdc57b",
+        "name": "NightSky_UZ",
+        "score": 207
+    },
+    {
+        "id": "08573e07-e95c-4c8e-8ac1-a96b860ff729",
+        "name": "GalaxyVortex",
+        "score": 206
+    },
+    {
+        "id": "5602ae6f-9be0-4e5d-9589-163af7b275aa",
+        "name": "BladeVortex",
+        "score": 206
+    },
+    {
+        "id": "5dea36aa-6828-455f-b27c-d19a6e4aae13",
+        "name": "HunterFire",
+        "score": 206
+    },
+    {
+        "id": "4a7767ca-d4e0-4eee-969d-84af8df05274",
+        "name": "ShadowHunter",
+        "score": 206
+    },
+    {
+        "id": "6cdc7da9-2dcf-4ba9-a16c-3ea051cca0cc",
+        "name": "DragonVortex",
+        "score": 206
+    },
+    {
+        "id": "c438be90-6ab4-40e4-8a24-b0e668657dc8",
+        "name": "StarDragon",
+        "score": 206
+    },
+    {
+        "id": "75c1c099-8421-4dc2-b802-06c836d89e1f",
+        "name": "StarGalaxy",
+        "score": 206
+    },
+    {
+        "id": "9c23b871-8e64-4ae7-a0df-8e3c77bacf23",
+        "name": "VortexRider_BL",
+        "score": 206
+    },
+    {
+        "id": "087aa522-bba1-4778-87b3-e64fcd828623",
+        "name": "RojoAzul",
+        "score": 206
+    },
+    {
+        "id": "d541a3ac-ff97-430f-98c2-02505f604848",
+        "name": "GhostShadow",
+        "score": 206
+    },
+    {
+        "id": "2386db55-a8a6-4092-8aaa-e1c457a74256",
+        "name": "幻影猎手",
+        "score": 206
+    },
+    {
+        "id": "d78db723-878e-40ce-8228-4f920348ad12",
+        "name": "破曉夜之",
+        "score": 205
+    },
+    {
+        "id": "4c15faf7-da31-4027-a1bb-6342d9827659",
+        "name": "PhantomKnight",
+        "score": 205
+    },
+    {
+        "id": "0ce861ef-2d92-4090-8241-2a990d882c2e",
+        "name": "LoboEstrella",
+        "score": 205
+    },
+    {
+        "id": "69e5a564-f1e3-48fb-8d28-dcc35f994d03",
+        "name": "HawkDark",
+        "score": 205
+    },
+    {
+        "id": "57cee15d-8f99-426c-83b8-056ef310367f",
+        "name": "EstrellaTrueno",
+        "score": 205
+    },
+    {
+        "id": "aae6dc27-3d14-476f-ac7f-63decc1e00d7",
+        "name": "KnightShadow_GY",
+        "score": 205
+    },
+    {
+        "id": "b7fbed38-1566-439b-8bad-53e33179da3e",
+        "name": "GalaxyDragon",
+        "score": 205
+    },
+    {
+        "id": "0aa0f634-6f85-4500-8b38-b63afc09c26b",
+        "name": "SkyIce",
+        "score": 205
+    },
+    {
+        "id": "0f472a17-5869-44a3-bd99-8207f6addc66",
+        "name": "FlameSky",
+        "score": 205
+    },
+    {
+        "id": "c0dcbee1-5f9f-415d-9248-09d47cb8326e",
+        "name": "StrikeNova",
+        "score": 204
+    },
+    {
+        "id": "742267a7-0fe5-4196-ab18-2af3ef9d12a9",
+        "name": "銀翼殺手",
+        "score": 204
+    },
+    {
+        "id": "5c43e649-d68f-4db2-90d6-82320791c6f2",
+        "name": "戰士無敵",
+        "score": 204
+    },
+    {
+        "id": "6b9243d6-cebd-4870-ad4b-ad3bbcf942da",
+        "name": "StormNight",
+        "score": 204
+    },
+    {
+        "id": "4f0c195c-9c7b-4989-8cbc-30ccbc194120",
+        "name": "FlameLight_PO",
+        "score": 204
+    },
+    {
+        "id": "699365c9-9604-4f9b-8d13-04d5e22d5740",
+        "name": "EspadaOscuro",
+        "score": 204
+    },
+    {
+        "id": "5b416ca9-cf37-4ee3-ac13-9fcad73a9480",
+        "name": "StormBlade",
+        "score": 203
+    },
+    {
+        "id": "7e3ceb5d-3abe-420f-89f1-6382fdc680ee",
+        "name": "DarkRider",
+        "score": 203
+    },
+    {
+        "id": "e4fd65f1-5dab-4ae9-a44f-3f122c7a0742",
+        "name": "SombrasEspada",
+        "score": 203
+    },
+    {
+        "id": "00fd542a-f9c5-4010-b431-018d8482d531",
+        "name": "StormRider",
+        "score": 203
+    },
+    {
+        "id": "6213f298-f744-46b1-ae21-072ed851d96f",
+        "name": "RayoLuz",
+        "score": 203
+    },
+    {
+        "id": "a53bdc88-6858-48e0-b59d-4494b30bb33d",
+        "name": "无敌战神",
+        "score": 203
+    },
+    {
+        "id": "4155b609-cd51-4616-8f32-11d5f646dadc",
+        "name": "StormLight_CP",
+        "score": 203
+    },
+    {
+        "id": "13bcc8d3-ab3c-4c07-9547-c4d46e784a5c",
+        "name": "MarRayo",
+        "score": 203
+    },
+    {
+        "id": "0f02598c-56d7-4f33-b4dd-a3b6e3c7d108",
+        "name": "CieloCielo",
+        "score": 203
+    },
+    {
+        "id": "80e94578-2601-4ddd-bdcb-ec6d4ce490fd",
+        "name": "銀翼忍者",
+        "score": 202
+    },
+    {
+        "id": "d0497b57-dff3-43d9-9b60-e15e3e7230db",
+        "name": "CieloTrueno",
+        "score": 202
+    },
+    {
+        "id": "57495092-7e99-445e-b940-4a5d3c04fa4d",
+        "name": "DragonNoche",
+        "score": 202
+    },
+    {
+        "id": "e0f11507-21b8-44f2-a7b7-3548c1044721",
+        "name": "SombrasCielo",
+        "score": 202
+    },
+    {
+        "id": "bc5a73d7-1355-4732-8b09-68ae4bb6202f",
+        "name": "GalaxyFlame",
+        "score": 202
+    },
+    {
+        "id": "cf2e9419-adf4-4837-81a4-2f86cf51b267",
+        "name": "HunterBlade",
+        "score": 202
+    },
+    {
+        "id": "461f4a18-578f-40cc-99ed-9682478041e2",
+        "name": "StarStorm",
+        "score": 202
+    },
+    {
+        "id": "d0b7729c-4fb2-4155-b385-07d50451bb1c",
+        "name": "NovaPhantom",
+        "score": 202
+    },
+    {
+        "id": "20249a72-8e3b-4c1b-aa4c-e35f833bc078",
+        "name": "DarkWolf",
+        "score": 201
+    },
+    {
+        "id": "51116ae6-bf1e-4699-a1ad-678ec3523635",
+        "name": "烈风幻影",
+        "score": 201
+    },
+    {
+        "id": "02b6c65f-7887-4be9-8928-3b02810f7a6f",
+        "name": "銀翼戰士",
+        "score": 201
+    },
+    {
+        "id": "16a444af-19d1-4f3b-b4a8-c1a25e2f20e8",
+        "name": "NocheGuerrero",
+        "score": 201
+    },
+    {
+        "id": "67501df4-83dc-4037-a912-2ed95523f355",
+        "name": "FireNova",
+        "score": 201
+    },
+    {
+        "id": "2fd1022f-b57d-4280-8c51-5fe00d762ab9",
+        "name": "GhostFlame",
+        "score": 201
+    },
+    {
+        "id": "7326ff27-a900-4019-8606-365a73460f96",
+        "name": "星辰战神",
+        "score": 201
+    },
+    {
+        "id": "118bd3c6-7508-4430-85b2-7c247de3c502",
+        "name": "戰士聖光",
+        "score": 201
+    },
+    {
+        "id": "1bc50b29-aa3a-4318-82bf-e1e88c98296c",
+        "name": "BladeWolf",
+        "score": 200
+    },
+    {
+        "id": "582514bc-0397-4e4d-8852-dcda83aee03f",
+        "name": "NightRider",
+        "score": 200
+    },
+    {
+        "id": "8ee4b34f-9d01-44af-a839-dcce151b16f1",
+        "name": "黑夜龙",
+        "score": 200
+    },
+    {
+        "id": "f130aa64-6fe5-4008-b3a9-0b6c1b9f1cd3",
+        "name": "GalaxyGhost",
+        "score": 200
+    },
+    {
+        "id": "dc2094ef-088a-453b-8302-93716f26e704",
+        "name": "GhostHunter",
+        "score": 200
+    },
+    {
+        "id": "2236630d-209f-4a87-81c0-9ee13952688a",
+        "name": "TruenoGuerrero",
+        "score": 200
+    },
+    {
+        "id": "bfa29680-0872-479b-aa9a-d7fa04b0cd96",
+        "name": "RiderPhantom",
+        "score": 200
+    },
+    {
+        "id": "174ec380-5ffa-4db0-a53d-4d2da3e3c9cb",
+        "name": "武士烈风",
+        "score": 200
+    },
+    {
+        "id": "768952ba-c536-4d51-9ad2-c2b888ca8721",
+        "name": "TruenoRosa",
+        "score": 199
+    },
+    {
+        "id": "c340b659-4eba-4a9c-a815-c2514ae32f35",
+        "name": "行者龙",
+        "score": 199
+    },
+    {
+        "id": "46cc572a-c4df-4f53-a473-b5a4c1b63dc7",
+        "name": "NovaShadow",
+        "score": 199
+    },
+    {
+        "id": "0bc3233d-82d9-4382-ab76-113dda83954b",
+        "name": "勇者烈火",
+        "score": 199
+    },
+    {
+        "id": "aef7f903-6e46-4d4a-a972-72abb4b755a5",
+        "name": "星際烈火",
+        "score": 199
+    },
+    {
+        "id": "44e60b7f-6d97-460c-8a37-a96201ca9981",
+        "name": "DarkStrike",
+        "score": 199
+    },
+    {
+        "id": "ca5b8bfe-a1c9-434a-a57d-2e95ead68630",
+        "name": "StarWolf",
+        "score": 199
+    },
+    {
+        "id": "e1a387ac-6525-47e1-92c7-dc04bac61331",
+        "name": "狂刃忍者",
+        "score": 199
+    },
+    {
+        "id": "8e460471-e334-436d-8ee7-5cf036768972",
+        "name": "VientoRojo",
+        "score": 199
+    },
+    {
+        "id": "9827928c-8b71-4016-8a95-87c553b47318",
+        "name": "DragonMar",
+        "score": 199
+    },
+    {
+        "id": "749b2d93-7be6-4a30-b87d-91bdbc9e7996",
+        "name": "RogueHunter",
+        "score": 198
+    },
+    {
+        "id": "8644d117-b909-4824-8408-33f9bb61f7d8",
+        "name": "RojoCazador",
+        "score": 198
+    },
+    {
+        "id": "ed27fa26-d391-4c8e-8a16-540c9f0c65ef",
+        "name": "HunterRider",
+        "score": 198
+    },
+    {
+        "id": "5fbdc7dd-282b-49c3-ad73-9bdc8c2b701d",
+        "name": "銀翼行者",
+        "score": 198
+    },
+    {
+        "id": "14429992-5f18-4075-bd7c-0245e0250b5e",
+        "name": "AzulMar",
+        "score": 198
+    },
+    {
+        "id": "39c7bd89-c8ec-40f2-85c3-62d2b07f12fb",
+        "name": "HawkStar",
+        "score": 198
+    },
+    {
+        "id": "9698f2ca-2814-45eb-a8d3-6735f8d5313d",
+        "name": "StrikeKnight",
+        "score": 198
+    },
+    {
+        "id": "d81bfcb0-f4a7-4178-96e0-d950b63f7b79",
+        "name": "VientoAzul",
+        "score": 198
+    },
+    {
+        "id": "fb10538f-d31a-46ea-9d74-6186d3f8755d",
+        "name": "天际暗影",
+        "score": 198
+    },
+    {
+        "id": "3942b4a1-2d8a-46b1-a371-ba5ffe007348",
+        "name": "VortexShadow",
+        "score": 198
+    },
+    {
+        "id": "af158516-bb42-4d18-8099-aa4bdb757a96",
+        "name": "DragonViento",
+        "score": 198
+    },
+    {
+        "id": "82b612f2-b916-473d-ac17-777028350278",
+        "name": "BladeStrike",
+        "score": 198
+    },
+    {
+        "id": "3fec3db1-0ad1-4c24-a867-233b61f5fe15",
+        "name": "RogueBlade",
+        "score": 197
+    },
+    {
+        "id": "9755b328-3266-4401-8b0e-a77cd52b7889",
+        "name": "KnightHawk",
+        "score": 197
+    },
+    {
+        "id": "c40450ce-c624-4270-8039-9faf78976a47",
+        "name": "LightGalaxy",
+        "score": 197
+    },
+    {
+        "id": "2b38cbaf-3818-4001-b95e-ad763899e14c",
+        "name": "PhantomPhantom_92",
+        "score": 197
+    },
+    {
+        "id": "dbdb7152-5390-408a-b39b-d2502df86920",
+        "name": "GalaxyRogue",
+        "score": 197
+    },
+    {
+        "id": "f37e245d-535c-49ed-8970-7afd534ad8a5",
+        "name": "KnightRider",
+        "score": 197
+    },
+    {
+        "id": "58e9111e-a13a-4e24-af62-efd551c068f4",
+        "name": "VortexStrike",
+        "score": 197
+    },
+    {
+        "id": "af4eb5d8-afe2-46e0-af5b-2a0d623ced37",
+        "name": "DarkDark",
+        "score": 197
+    },
+    {
+        "id": "345128b6-0724-4803-8e6e-f5c7af6a4117",
+        "name": "RojoDragon",
+        "score": 196
+    },
+    {
+        "id": "df52e09a-8cd9-4d06-a08f-51a8b0ae396e",
+        "name": "DragonHawk",
+        "score": 196
+    },
+    {
+        "id": "9323deb9-fefb-4437-83d0-7ba773b3abcf",
+        "name": "勇士烈火",
+        "score": 196
+    },
+    {
+        "id": "edd2b47b-b868-4032-80a5-6693f8031632",
+        "name": "NightGhost",
+        "score": 196
+    },
+    {
+        "id": "a4189f39-042a-4135-86ae-07b63f55c382",
+        "name": "GhostVortex",
+        "score": 196
+    },
+    {
+        "id": "293461a6-b49d-48e7-adf9-e37a933309ec",
+        "name": "OscuroLuz",
+        "score": 196
+    },
+    {
+        "id": "7380ee2f-e822-4def-9ca9-e695fb1c819d",
+        "name": "StormBlade_2J",
+        "score": 196
+    },
+    {
+        "id": "fee8b0f6-a1fa-4264-bb58-098cafe7c0c3",
+        "name": "RiderLight_UB",
+        "score": 196
+    },
+    {
+        "id": "5222b964-99a7-4f90-86e1-e4cca9e8355a",
+        "name": "龙星辰",
+        "score": 196
+    },
+    {
+        "id": "2196307f-f4f5-45bf-8cbf-c907e0b1dc85",
+        "name": "DarkFire",
+        "score": 195
+    },
+    {
+        "id": "bb6427a4-205a-4075-9586-adbf137edf1d",
+        "name": "GhostDragon",
+        "score": 195
+    },
+    {
+        "id": "39319abd-82ef-4815-945c-43f9f86bbaf5",
+        "name": "NightDark",
+        "score": 195
+    },
+    {
+        "id": "fd47686f-d0ea-46dd-b690-f98ef7f90101",
+        "name": "EspadaCazador",
+        "score": 195
+    },
+    {
+        "id": "fd556b5b-d70c-4be1-8588-315d8f6af961",
+        "name": "EspadaGuerrero",
+        "score": 195
+    },
+    {
+        "id": "efac26ba-7769-4a95-825e-3f3146ac15c4",
+        "name": "FlameStrike",
+        "score": 195
+    },
+    {
+        "id": "3d58b3cf-1310-4eba-b934-8c662f8b589e",
+        "name": "CazadorMar",
+        "score": 195
+    },
+    {
+        "id": "11d07920-cedb-423b-9602-05cdf41a898f",
+        "name": "ShadowStar",
+        "score": 195
+    },
+    {
+        "id": "10064042-d4e4-4f68-bed6-cd32f0e42ebf",
+        "name": "夜之忍者",
+        "score": 195
+    },
+    {
+        "id": "c52ca346-eb07-4542-80bd-ca6e53bb3bff",
+        "name": "VientoNoche",
+        "score": 195
+    },
+    {
+        "id": "fce86880-9a25-4a59-a722-0a30e7fc0251",
+        "name": "殺手殺手",
+        "score": 194
+    },
+    {
+        "id": "9969bf5a-d95e-433a-9cb1-6e59c4aa803a",
+        "name": "PhantomFire",
+        "score": 194
+    },
+    {
+        "id": "14f1e2a5-6540-442b-b224-f84ae042c00a",
+        "name": "StarStar",
+        "score": 194
+    },
+    {
+        "id": "3609977f-425a-45c6-89d4-d73b6b20bff7",
+        "name": "風暴無敵",
+        "score": 194
+    },
+    {
+        "id": "bf567488-4078-4efa-b76c-5470ea1b68e5",
+        "name": "StarStrike",
+        "score": 194
+    },
+    {
+        "id": "f48d28e3-9fa4-4b45-86a4-98836ba150a5",
+        "name": "狂刃聖光",
+        "score": 194
+    },
+    {
+        "id": "6424662c-cb76-4ba9-90c4-5cf0ad9667da",
+        "name": "勇者風暴",
+        "score": 194
+    },
+    {
+        "id": "8d96b4e9-a8ef-4954-98fd-4f87fabb30af",
+        "name": "殺手星際",
+        "score": 194
+    },
+    {
+        "id": "e2c9f61a-1faa-433b-a22b-ac8c23c05369",
+        "name": "EspadaEspada",
+        "score": 194
+    },
+    {
+        "id": "56a1b521-83e4-4134-8a0b-57181aed5885",
+        "name": "LightNova",
+        "score": 194
+    },
+    {
+        "id": "21f17bea-4da8-4af6-836b-e384e0c28306",
+        "name": "RojoRojo",
+        "score": 193
+    },
+    {
+        "id": "f5832ffc-c59a-4c7a-a8fe-e99b796c479c",
+        "name": "星辰星辰",
+        "score": 193
+    },
+    {
+        "id": "06d0de7d-e70f-46ea-837d-1ddaa9dd51d3",
+        "name": "StrikeVortex",
+        "score": 193
+    },
+    {
+        "id": "8ce1129c-964b-4e1a-80c4-32357a57d458",
+        "name": "DragonSky",
+        "score": 193
+    },
+    {
+        "id": "eeb76bec-fc04-4878-9eed-f8c539e4809e",
+        "name": "影龍魂",
+        "score": 193
+    },
+    {
+        "id": "0a4e35e6-41f8-4081-8f19-aa0d9cca3647",
+        "name": "PhantomVortex",
+        "score": 193
+    },
+    {
+        "id": "21af94f9-2aff-4ffa-a554-399f4efce84c",
+        "name": "EspadaNoche",
+        "score": 193
+    },
+    {
+        "id": "f0409b3a-fd05-4e5c-943b-fbfcdc94209e",
+        "name": "DarkNight",
+        "score": 193
+    },
+    {
+        "id": "9cec22c0-e841-4b55-9202-1899867df0b1",
+        "name": "MarCazador",
+        "score": 193
+    },
+    {
+        "id": "3d00591c-5b5d-4523-bdd4-b81040b1eb0d",
+        "name": "StrikeRogue_ZX",
+        "score": 193
+    },
+    {
+        "id": "ec9582f4-26ff-4d56-a8b5-6f03ad08635d",
+        "name": "烈风星辰",
+        "score": 193
+    },
+    {
+        "id": "ff95e057-313a-4884-893e-1a0b2db9038b",
+        "name": "RiderFlame_8P",
+        "score": 193
+    },
+    {
+        "id": "62c8e172-6e20-45ce-a00d-6a00135f3b96",
+        "name": "FuegoLobo",
+        "score": 192
+    },
+    {
+        "id": "8373f572-1edc-4787-84d5-59a1b0da2f97",
+        "name": "殺手影",
+        "score": 192
+    },
+    {
+        "id": "66bed85a-bcd3-4a9d-8b0f-9d2a3fba14a4",
+        "name": "KnightRogue",
+        "score": 192
+    },
+    {
+        "id": "d8711486-d728-4667-9719-3ff3d7d96e70",
+        "name": "NocheRojo",
+        "score": 192
+    },
+    {
+        "id": "0b7c28a7-e923-4699-a2e5-19e496736818",
+        "name": "PhantomPhantom",
+        "score": 192
+    },
+    {
+        "id": "e16c951f-fab2-487c-974c-70b0d7b33b1c",
+        "name": "WolfNova",
+        "score": 192
+    },
+    {
+        "id": "40ddc59f-0893-412c-92f2-11c68225fcde",
+        "name": "WolfLight",
+        "score": 192
+    },
+    {
+        "id": "4d68b946-7008-408e-926b-b095240c64ae",
+        "name": "GhostRider",
+        "score": 192
+    },
+    {
+        "id": "52ffd57d-1e0e-4d7d-ad5f-9139ac89d243",
+        "name": "SkyKnight",
+        "score": 192
+    },
+    {
+        "id": "f449fec6-e1b9-40c2-a488-ac5adac16294",
+        "name": "NightNova_8Z",
+        "score": 192
+    },
+    {
+        "id": "0fbca420-58d7-469e-85f5-f7f81bbfa16d",
+        "name": "DarkRider_MW",
+        "score": 192
+    },
+    {
+        "id": "822cac82-3494-4639-932b-ced0d90e507b",
+        "name": "夜之行者",
+        "score": 192
+    },
+    {
+        "id": "fd8056ef-b44f-4340-873c-961d2d67de06",
+        "name": "SkyStorm",
+        "score": 192
+    },
+    {
+        "id": "bbe8dcb8-56f8-43a2-9955-0d9620f1060c",
+        "name": "暗黑天際",
+        "score": 191
+    },
+    {
+        "id": "2c4fc808-50e6-44f3-bf7b-c266098ce18f",
+        "name": "FuegoRojo",
+        "score": 191
+    },
+    {
+        "id": "f0b2fa1f-51df-49bc-898f-dac28df98979",
+        "name": "NovaDark",
+        "score": 191
+    },
+    {
+        "id": "c2ce88d1-4e94-49d6-ac09-95117b19267a",
+        "name": "無敵暗黑",
+        "score": 191
+    },
+    {
+        "id": "5e99b559-d421-4e41-b200-864163bdae15",
+        "name": "勇者破曉",
+        "score": 191
+    },
+    {
+        "id": "05ad07f3-096e-4147-8774-3258629cd9ee",
+        "name": "HunterStar",
+        "score": 191
+    },
+    {
+        "id": "7f2bce4b-a1ef-4591-82d4-8e748517ac4c",
+        "name": "FlameRider_QD",
+        "score": 191
+    },
+    {
+        "id": "f8b24649-56a9-4f44-a890-835044a9ca4c",
+        "name": "龍魂龍魂",
+        "score": 191
+    },
+    {
+        "id": "2f518150-c259-4120-b9b5-90e2d19bac90",
+        "name": "KnightWolf",
+        "score": 191
+    },
+    {
+        "id": "59206c63-76b9-40d5-8302-e1d6422342b3",
+        "name": "GalaxyGalaxy",
+        "score": 190
+    },
+    {
+        "id": "f875a5df-5531-4ace-bbb4-439363d5b574",
+        "name": "LuzDragon",
+        "score": 190
+    },
+    {
+        "id": "9b811a6e-9870-4be4-908b-930b85a504ab",
+        "name": "星際戰士",
+        "score": 190
+    },
+    {
+        "id": "776ccab4-c74c-418d-8382-24182787890b",
+        "name": "LightFire",
+        "score": 190
+    },
+    {
+        "id": "565b7818-0c8e-4cf0-bbb8-a4d0cd9a4fa3",
+        "name": "銀翼銀翼",
+        "score": 190
+    },
+    {
+        "id": "7b8cc02f-cba4-4c5e-ae1e-cc0d34c05e44",
+        "name": "GhostIce",
+        "score": 190
+    },
+    {
+        "id": "3bf459e7-9d79-4e40-88a0-0b70a9df4c2b",
+        "name": "VortexNova",
+        "score": 190
+    },
+    {
+        "id": "ba1d7426-2283-48b5-b913-d842fbd791e9",
+        "name": "FireRider",
+        "score": 190
+    },
+    {
+        "id": "0f51442a-a9b4-430f-a3e3-10e1a1812ca2",
+        "name": "烈火忍者",
+        "score": 190
+    },
+    {
+        "id": "80517340-e29e-4120-b84c-4a7e580a49b7",
+        "name": "LoboRosa",
+        "score": 190
+    },
+    {
+        "id": "afa08411-fcba-430f-b18e-b76bfb174844",
+        "name": "VortexWolf",
+        "score": 189
+    },
+    {
+        "id": "b96d4e41-cd0a-4830-9ec7-d71ac54c8e7d",
+        "name": "SolNoche",
+        "score": 189
+    },
+    {
+        "id": "2fabb498-1090-4480-8964-e385c8e41761",
+        "name": "StarKnight",
+        "score": 189
+    },
+    {
+        "id": "598ad7cb-6652-4bf0-bda0-1b70d24d95fd",
+        "name": "DarkStorm",
+        "score": 189
+    },
+    {
+        "id": "97657303-b2c2-456c-b015-d1726c129ea8",
+        "name": "StormKnight",
+        "score": 189
+    },
+    {
+        "id": "e5a145e9-f46d-4619-851e-e41f68b7a85d",
+        "name": "EstrellaDragon",
+        "score": 189
+    },
+    {
+        "id": "b1391383-9cd3-4141-b7b1-877e64dc23f4",
+        "name": "StrikeGhost",
+        "score": 189
+    },
+    {
+        "id": "900c6427-cce0-4be1-989d-0f72d8b5cff5",
+        "name": "DarkLight",
+        "score": 189
+    },
+    {
+        "id": "77d3f672-6d8d-467a-abd6-8c0d84645084",
+        "name": "RosaEspada",
+        "score": 189
+    },
+    {
+        "id": "982405cc-ba48-408c-9462-d7d3903da29d",
+        "name": "猎手猎手",
+        "score": 188
+    },
+    {
+        "id": "8e461070-5715-4b33-95e2-6f004ba90805",
+        "name": "FireStar",
+        "score": 188
+    },
+    {
+        "id": "518738a1-d85b-450f-819a-ccffd176df24",
+        "name": "AzulRojo",
+        "score": 188
+    },
+    {
+        "id": "20616986-9e6e-4161-996b-4103286bb728",
+        "name": "RiderNova",
+        "score": 188
+    },
+    {
+        "id": "afe80d51-a5e5-4069-8732-eadf5d8751cc",
+        "name": "聖光火影",
+        "score": 188
+    },
+    {
+        "id": "e675ba85-de95-4645-9a65-accb99bed371",
+        "name": "忍者行者",
+        "score": 188
+    },
+    {
+        "id": "775eb9f2-a64d-4a67-afeb-c9e87c162b89",
+        "name": "勇士暗影",
+        "score": 188
+    },
+    {
+        "id": "72b9f6c7-92dc-4ebd-9b04-a450454f870c",
+        "name": "NovaNova",
+        "score": 187
+    },
+    {
+        "id": "915e9219-90ec-4ee4-89a3-acb530d3f522",
+        "name": "FireShadow",
+        "score": 187
+    },
+    {
+        "id": "8e671cf0-5a2f-454d-93d0-bd2ec574ed05",
+        "name": "DarkShadow",
+        "score": 187
+    },
+    {
+        "id": "986b0053-ac88-474a-8e16-cf901007a6ac",
+        "name": "NightVortex",
+        "score": 186
+    },
+    {
+        "id": "60f35fbf-d686-4ccd-b14b-6f41f3b50acf",
+        "name": "武士幻影",
+        "score": 186
+    },
+    {
+        "id": "50b175b5-413d-4452-97a8-5b7283071606",
+        "name": "SkyBlade",
+        "score": 186
+    },
+    {
+        "id": "5cf2d47b-f742-40df-938b-eadf26874463",
+        "name": "StrikeHawk",
+        "score": 186
+    },
+    {
+        "id": "718fd27c-a70f-42e1-b4fa-68960ae9b7b8",
+        "name": "RiderDragon",
+        "score": 186
+    },
+    {
+        "id": "1e992f1d-5923-4121-b517-c6f398cf66a0",
+        "name": "WolfNight",
+        "score": 186
+    },
+    {
+        "id": "c5854ef0-cd13-4d99-93b3-846cee405cfb",
+        "name": "破曉聖光",
+        "score": 186
+    },
+    {
+        "id": "7cf0b3e5-a6ba-47de-b2f7-fa1e4829d00c",
+        "name": "風暴銀翼",
+        "score": 186
+    },
+    {
+        "id": "aef7a571-9aab-4174-9df3-14328fc757d8",
+        "name": "HawkIce",
+        "score": 185
+    },
+    {
+        "id": "92622c29-3bec-4e95-b2ab-68f1fbb77551",
+        "name": "GhostPhantom",
+        "score": 185
+    },
+    {
+        "id": "792c4c24-d926-49b0-a769-04d3c9734b22",
+        "name": "NovaRogue",
+        "score": 185
+    },
+    {
+        "id": "4626d0b7-ad8b-4ed4-8381-95c7893ef529",
+        "name": "PhantomLight_T3",
+        "score": 185
+    },
+    {
+        "id": "036d584d-99ca-4d6e-a4ca-0e1f1c492453",
+        "name": "GhostSky",
+        "score": 184
+    },
+    {
+        "id": "791b91d9-f02a-44bb-8c21-9c6a92f1584d",
+        "name": "IceStar",
+        "score": 184
+    },
+    {
+        "id": "f1d3c3f8-3d5e-4a86-97b7-ea549fa55b19",
+        "name": "KnightHawk_ZL",
+        "score": 184
+    },
+    {
+        "id": "82381744-7858-4e49-b537-c77a47f3cd29",
+        "name": "FlameVortex",
+        "score": 184
+    },
+    {
+        "id": "6952bc48-ddf1-4dec-97aa-c82141ea7b50",
+        "name": "VortexSky",
+        "score": 184
+    },
+    {
+        "id": "f13e27e3-d918-4a94-94ef-b04dc4b98f92",
+        "name": "狂刃破曉",
+        "score": 184
+    },
+    {
+        "id": "021dbec2-1cf6-4a02-a0d1-036d954e9b16",
+        "name": "RiderKnight",
+        "score": 184
+    },
+    {
+        "id": "0ec9af2e-b763-40f7-a602-fd001e789be5",
+        "name": "天際幻影",
+        "score": 184
+    },
+    {
+        "id": "057feaae-570a-4ed7-a63c-21938427f6d4",
+        "name": "RiderRogue",
+        "score": 184
+    },
+    {
+        "id": "c143cec3-2bb5-431d-a058-8de62369d56e",
+        "name": "幻影殺手",
+        "score": 183
+    },
+    {
+        "id": "3b072a9e-6e34-447e-82a1-36d53ba29676",
+        "name": "NocheEspada",
+        "score": 183
+    },
+    {
+        "id": "49c51c10-83c1-4939-ade4-1aaa83031c6c",
+        "name": "HunterFlame",
+        "score": 183
+    },
+    {
+        "id": "2a319afd-1d30-43b0-827c-9ec7bdc1c848",
+        "name": "破晓战神",
+        "score": 183
+    },
+    {
+        "id": "ad064b7e-28a9-4e22-bdeb-5fb76826fee7",
+        "name": "NovaKnight",
+        "score": 183
+    },
+    {
+        "id": "33118fe2-bc05-439a-8a61-cae1ca03e5a3",
+        "name": "StrikeFire",
+        "score": 182
+    },
+    {
+        "id": "999e5c83-d606-48be-941e-51df16e8a389",
+        "name": "狂刃戰士",
+        "score": 182
+    },
+    {
+        "id": "a807b30a-1285-4687-a5f6-6fb432d79930",
+        "name": "WolfDragon",
+        "score": 182
+    },
+    {
+        "id": "7eebd3c4-0f9f-4a75-a96f-ce97cdac9f98",
+        "name": "DragonRojo",
+        "score": 182
+    },
+    {
+        "id": "9b2df169-9d71-46dd-a252-c3170a87ecea",
+        "name": "天際破曉",
+        "score": 182
+    },
+    {
+        "id": "ca640240-3b6c-44fd-9fe0-e25d5f2fcae6",
+        "name": "火影聖光",
+        "score": 182
+    },
+    {
+        "id": "edf34af4-d7b8-4f59-9018-308c72942529",
+        "name": "行者火影",
+        "score": 182
+    },
+    {
+        "id": "f5b06e16-e26a-4cf6-b4f8-c85c2b072da6",
+        "name": "GuerreroSol",
+        "score": 182
+    },
+    {
+        "id": "977819b4-83b6-44a0-8997-b366637c6f25",
+        "name": "DragonStorm_3O",
+        "score": 182
+    },
+    {
+        "id": "c5ad0be6-23fe-405a-8f91-dec2b79e88de",
+        "name": "KnightKnight",
+        "score": 181
+    },
+    {
+        "id": "ed46e19e-901e-477c-91ad-21f55d698586",
+        "name": "HunterRogue",
+        "score": 181
+    },
+    {
+        "id": "5f019f5d-c04f-44a1-8917-7d3d0ce440f6",
+        "name": "NovaGalaxy",
+        "score": 181
+    },
+    {
+        "id": "1da884eb-d901-4a86-8e7b-e2486efda90e",
+        "name": "HunterDark",
+        "score": 181
+    },
+    {
+        "id": "db40e8f3-c19d-4139-bf61-a1d32c4c5d94",
+        "name": "RogueBlade_1N",
+        "score": 181
+    },
+    {
+        "id": "e5fb2301-d4a0-4452-9194-6258ff29a380",
+        "name": "FuegoViento",
+        "score": 181
+    },
+    {
+        "id": "967cea0f-856d-4f4a-a0da-a2856ec0e8c4",
+        "name": "FlameLight",
+        "score": 181
+    },
+    {
+        "id": "b6ccef6d-df49-4fab-9e08-ede8420f9ee7",
+        "name": "IceHawk",
+        "score": 180
+    },
+    {
+        "id": "ae73f140-c813-4960-8d2e-5e45194fc512",
+        "name": "火影無敵",
+        "score": 180
+    },
+    {
+        "id": "c24f86d3-801e-4c97-a534-1d3548fa9d8c",
+        "name": "SombrasOscuro",
+        "score": 180
+    },
+    {
+        "id": "49267c68-81ee-429b-9296-6ec7ea0c5835",
+        "name": "StrikeShadow_Y4",
+        "score": 180
+    },
+    {
+        "id": "f82de810-1779-448f-84e4-8bbac9e16ed0",
+        "name": "EstrellaNoche",
+        "score": 180
+    },
+    {
+        "id": "3592afae-ea32-4e55-97b6-44ad06f4d8af",
+        "name": "猎手战神",
+        "score": 179
+    },
+    {
+        "id": "120a8af4-9e91-4fea-a7f0-01999f16241e",
+        "name": "星際火影",
+        "score": 179
+    },
+    {
+        "id": "b47450a6-6471-4bab-ab28-bba69e73119b",
+        "name": "PhantomStrike",
+        "score": 179
+    },
+    {
+        "id": "aeb03513-a820-42d8-bb3f-ddf47b90c97f",
+        "name": "无敌暗影",
+        "score": 178
+    },
+    {
+        "id": "70ef659b-18b3-4bf5-bb56-90356489bdc8",
+        "name": "星際勇者",
+        "score": 178
+    },
+    {
+        "id": "bb15c460-9fe7-4dcd-b5f1-cab592436350",
+        "name": "无敌幻影",
+        "score": 178
+    },
+    {
+        "id": "6b555c39-6335-4d09-a561-a3756cf69933",
+        "name": "DragonShadow_XU",
+        "score": 178
+    },
+    {
+        "id": "3ee60319-f5e2-4850-8694-d4c5f8409d0c",
+        "name": "DragonShadow",
+        "score": 178
+    },
+    {
+        "id": "8c01c019-0a39-4bd6-ba62-96ecbd992d42",
+        "name": "NovaDragon",
+        "score": 178
+    },
+    {
+        "id": "0845c614-e1ed-4f15-99a6-8a830c16be47",
+        "name": "NightHawk",
+        "score": 177
+    },
+    {
+        "id": "64a401c5-6734-48b0-a8ce-f2bdc6ce6f8f",
+        "name": "RiderFire",
+        "score": 177
+    },
+    {
+        "id": "a74db7d8-3698-4708-bf1e-12b357da8942",
+        "name": "GhostStrike",
+        "score": 177
+    },
+    {
+        "id": "0b4b4b88-c033-414b-bae7-e40fbd2c608b",
+        "name": "NovaStar",
+        "score": 177
+    },
+    {
+        "id": "8868865b-8826-40d7-bc62-9316300993da",
+        "name": "LoboViento",
+        "score": 177
+    },
+    {
+        "id": "e4b7c842-af46-426c-9643-75451ff56b18",
+        "name": "星際天際",
+        "score": 177
+    },
+    {
+        "id": "1d38a36a-a5e4-4be2-a48e-861ecaac0945",
+        "name": "StormShadow",
+        "score": 177
+    },
+    {
+        "id": "235df237-00d0-416d-80fb-008f950598b5",
+        "name": "GhostGhost",
+        "score": 176
+    },
+    {
+        "id": "c758d82e-960c-4df6-b17c-6cc023e1b820",
+        "name": "HunterGalaxy",
+        "score": 176
+    },
+    {
+        "id": "b4c677ca-f34a-4b9a-bf5c-c2d8ca3d9332",
+        "name": "BladeHunter",
+        "score": 176
+    },
+    {
+        "id": "b21df0b7-aa9c-4cf7-ba03-630938684610",
+        "name": "DragonIce",
+        "score": 176
+    },
+    {
+        "id": "40dd6e42-6b98-47b3-9a95-fade9a3cf98d",
+        "name": "VortexIce",
+        "score": 176
+    },
+    {
+        "id": "2cb9ef13-97d1-48fb-a15b-728b65b56ae8",
+        "name": "FirePhantom_G2",
+        "score": 176
+    },
+    {
+        "id": "f1c7beab-5494-46b5-80d5-d80a74907572",
+        "name": "DarkSky",
+        "score": 175
+    },
+    {
+        "id": "b99cf3a5-0ac0-4e05-aa87-2ca6064fa9a3",
+        "name": "FlameShadow",
+        "score": 175
+    },
+    {
+        "id": "836211be-84c2-424c-92bd-1f863c91e4a8",
+        "name": "VortexHawk",
+        "score": 175
+    },
+    {
+        "id": "51458c99-1673-447d-99c4-d47c68950408",
+        "name": "PhantomShadow",
+        "score": 175
+    },
+    {
+        "id": "8ea5641e-3bdc-496c-886c-0beb3c887797",
+        "name": "VortexStorm",
+        "score": 174
+    },
+    {
+        "id": "33346ff2-8aec-42d8-886b-a462b64e56c9",
+        "name": "火影烈火",
+        "score": 174
+    },
+    {
+        "id": "ad4a1354-ba6b-4ac4-a046-7560b8238b1a",
+        "name": "GhostWolf_BW",
+        "score": 174
+    },
+    {
+        "id": "6bdc9687-1e14-4e8b-9799-d54bd0f49cd7",
+        "name": "BladeIce",
+        "score": 174
+    },
+    {
+        "id": "f80c64a1-1f00-443c-b6bc-c6698f7ef4b5",
+        "name": "StrikeFire_1R",
+        "score": 174
+    },
+    {
+        "id": "301289f3-5fb7-4202-a733-1500b0f09476",
+        "name": "影狂刃",
+        "score": 174
+    },
+    {
+        "id": "308d2b71-7fc5-4921-a0d5-db60b18bfb38",
+        "name": "StormStrike",
+        "score": 173
+    },
+    {
+        "id": "3adca275-55c5-46ee-963a-e0374690d5f9",
+        "name": "幻影銀翼",
+        "score": 173
+    },
+    {
+        "id": "92348dfa-26cd-45e1-a449-35bf8d20f09f",
+        "name": "StrikeShadow",
+        "score": 173
+    },
+    {
+        "id": "59dbfdc0-d88a-43a1-b2c6-7ec539021b58",
+        "name": "StarShadow",
+        "score": 173
+    },
+    {
+        "id": "41f8fb0d-2794-4a57-bec0-94ff2af6d8ba",
+        "name": "勇者行者",
+        "score": 173
+    },
+    {
+        "id": "cab9288f-d7ab-460e-bfd9-9d2e2f35f027",
+        "name": "忍者影",
+        "score": 173
+    },
+    {
+        "id": "a9937201-03e9-4ba4-9c5a-087598e22b05",
+        "name": "SkyShadow",
+        "score": 173
+    },
+    {
+        "id": "b3371b1b-fcad-4f76-bea7-d1fccceac9d0",
+        "name": "GhostRogue",
+        "score": 172
+    },
+    {
+        "id": "fa10e328-1fdb-46d5-8018-89ea79e3e06b",
+        "name": "AzulEstrella",
+        "score": 172
+    },
+    {
+        "id": "6aaba4ff-1fbd-4957-99a8-efd000e93e76",
+        "name": "KnightSky",
+        "score": 172
+    },
+    {
+        "id": "751b4bba-37c8-41f1-94e2-b43b76f9d7ee",
+        "name": "GalaxyDark",
+        "score": 172
+    },
+    {
+        "id": "46c97fa1-3b60-44a5-9e1b-c94728523830",
+        "name": "狂刃風暴",
+        "score": 172
+    },
+    {
+        "id": "c5e037a7-b7e4-4539-9a8b-ad41f042ac06",
+        "name": "RogueShadow",
+        "score": 172
+    },
+    {
+        "id": "ecfb78f4-b974-4fbb-a753-e031d4c2eadd",
+        "name": "NightShadow",
+        "score": 171
+    },
+    {
+        "id": "8d8767b8-ad91-4821-a1ef-be809185343e",
+        "name": "SolOscuro",
+        "score": 171
+    },
+    {
+        "id": "153a3fd9-0565-4d17-8196-787634a12653",
+        "name": "SombrasCazador",
+        "score": 171
+    },
+    {
+        "id": "c02b0844-1012-4a46-85d5-5068345aa5d3",
+        "name": "RogueNova",
+        "score": 171
+    },
+    {
+        "id": "ff74ad6e-b342-4414-b365-84666c64b9d5",
+        "name": "SkyNight",
+        "score": 171
+    },
+    {
+        "id": "4b4b000c-1c3a-423e-ad3a-3c2d61900299",
+        "name": "OscuroOscuro",
+        "score": 171
+    },
+    {
+        "id": "b9713f46-63d3-43d6-8c00-52aa5dd562ba",
+        "name": "殺手行者",
+        "score": 171
+    },
+    {
+        "id": "fb53a760-43d5-48bf-bebb-3c0689571c4e",
+        "name": "狂刃天際",
+        "score": 171
+    },
+    {
+        "id": "63f8b87a-2b51-4ce7-892d-380905d381f0",
+        "name": "GuerreroEspada",
+        "score": 171
+    },
+    {
+        "id": "9d7454f3-2b63-475b-915a-2767bb803551",
+        "name": "FlameFlame",
+        "score": 170
+    },
+    {
+        "id": "7720b603-5369-450c-b928-c0399dd1374f",
+        "name": "暗影暗影",
+        "score": 170
+    },
+    {
+        "id": "863528d4-802d-4021-8c50-f16a7b98987c",
+        "name": "StormDragon",
+        "score": 170
+    },
+    {
+        "id": "6fc3cbf1-bb27-4189-8136-c804b26d9b85",
+        "name": "OscuroEspada",
+        "score": 170
+    },
+    {
+        "id": "b656689e-85c1-42ef-9e00-8f12c503db18",
+        "name": "RogueIce",
+        "score": 169
+    },
+    {
+        "id": "f082bee8-786b-4d4f-8974-421af7604653",
+        "name": "破晓星辰",
+        "score": 169
+    },
+    {
+        "id": "f322d59f-db1a-499e-951c-d1dbb6aae041",
+        "name": "武士战神",
+        "score": 169
+    },
+    {
+        "id": "f3b5ab61-56a7-4bba-8bbc-d6938f2b3638",
+        "name": "BladeFire",
+        "score": 169
+    },
+    {
+        "id": "222c2dd9-580c-48b1-a21c-ff2d0508c6b0",
+        "name": "RojoSol",
+        "score": 169
+    },
+    {
+        "id": "df52bc49-5599-4a35-b2f1-28c9d264f641",
+        "name": "CazadorEspada",
+        "score": 169
+    },
+    {
+        "id": "98c2c7f7-4543-45a0-b7ca-9a14a447bcf4",
+        "name": "VortexKnight",
+        "score": 169
+    },
+    {
+        "id": "2108b2f1-5823-4423-b193-4a8e79f27a6d",
+        "name": "SkyHunter",
+        "score": 169
+    },
+    {
+        "id": "bc66557c-080c-411b-8450-efec45d963e2",
+        "name": "FlameBlade",
+        "score": 169
+    },
+    {
+        "id": "1a786fad-6c04-4e65-81fa-de6f8c9c4f32",
+        "name": "NovaIce",
+        "score": 169
+    },
+    {
+        "id": "330e0fcb-3247-44f9-b0f9-9e41f73c342f",
+        "name": "FlameStorm",
+        "score": 168
+    },
+    {
+        "id": "ac1db8a9-a5b5-445e-a83b-acf62889615f",
+        "name": "DragonLuz",
+        "score": 168
+    },
+    {
+        "id": "a2fbfbc8-1537-4939-b4b9-b570be544af7",
+        "name": "VientoFuego",
+        "score": 168
+    },
+    {
+        "id": "8793b92a-3d53-483e-a80d-b8c1e70109b9",
+        "name": "FireVortex",
+        "score": 168
+    },
+    {
+        "id": "8ead33e4-caf0-470c-813c-27a7c7e6dc41",
+        "name": "DragonWolf",
+        "score": 168
+    },
+    {
+        "id": "242bd88d-87c8-4bff-86b7-61d1160d10b4",
+        "name": "破晓猎手",
+        "score": 168
+    },
+    {
+        "id": "7875ab05-8f45-49d5-9b04-d4ed95ae773c",
+        "name": "HawkLight",
+        "score": 168
+    },
+    {
+        "id": "82b65606-d4c6-4022-bf0d-0731d6a0af90",
+        "name": "PhantomDark_PX",
+        "score": 168
+    },
+    {
+        "id": "9881ce55-3482-4688-b332-8a2996f5d5ee",
+        "name": "SolLuz",
+        "score": 167
+    },
+    {
+        "id": "0fe11219-6527-401c-9c6b-4e09f4dbb9d8",
+        "name": "FireWolf",
+        "score": 167
+    },
+    {
+        "id": "5e689be3-1169-48b0-ba19-009b352a535f",
+        "name": "星辰烈火",
+        "score": 167
+    },
+    {
+        "id": "98ad9749-82a7-42e4-8b2b-d78ee537b1c1",
+        "name": "黑夜武士",
+        "score": 166
+    },
+    {
+        "id": "09e444af-90ee-4063-869d-50a284f4628d",
+        "name": "ShadowHawk",
+        "score": 166
+    },
+    {
+        "id": "db0cb7a7-032d-4b6c-8aa5-ac283fad2fe3",
+        "name": "SombrasSombras",
+        "score": 166
+    },
+    {
+        "id": "1d8f022f-e45d-4fe3-b15e-9078df12b51a",
+        "name": "战神战神",
+        "score": 166
+    },
+    {
+        "id": "6960885e-eaa3-42b2-97ca-a6b07ed1c022",
+        "name": "忍者破曉",
+        "score": 166
+    },
+    {
+        "id": "b902a675-40e2-4f23-8f49-59371b081fc7",
+        "name": "聖光風暴",
+        "score": 166
+    },
+    {
+        "id": "be6d91a8-6d12-41f8-80a2-c98241bf8d8b",
+        "name": "LoboMar",
+        "score": 166
+    },
+    {
+        "id": "1e4abcc9-7ba3-4ad3-9aeb-cfce049cf752",
+        "name": "HunterHawk",
+        "score": 166
+    },
+    {
+        "id": "87bb8ded-46d1-4a3e-9a7a-a65a9ef89742",
+        "name": "SkyHawk",
+        "score": 166
+    },
+    {
+        "id": "090d9cc7-fd00-4788-ade8-cfcfaf8172e2",
+        "name": "KnightFlame_S7",
+        "score": 166
+    },
+    {
+        "id": "c3294144-ae68-4b7d-8103-01c7041c0e4b",
+        "name": "BladeShadow",
+        "score": 165
+    },
+    {
+        "id": "d13eac16-1fc0-48e4-a71d-48fd9b876b6a",
+        "name": "DarkHunter_UW",
+        "score": 165
+    },
+    {
+        "id": "e5c00299-6c93-4af0-a0dd-37ecad98f6e0",
+        "name": "HawkBlade",
+        "score": 165
+    },
+    {
+        "id": "2b7a81fe-f01b-4f0e-89ab-f43f1628c134",
+        "name": "殺手暗黑",
+        "score": 164
+    },
+    {
+        "id": "8c50f3e4-320b-4537-b260-a62fe52c867c",
+        "name": "GhostLight",
+        "score": 164
+    },
+    {
+        "id": "7e0ecbcc-4c13-4c28-ac9c-ebc157de19d3",
+        "name": "RayoTrueno",
+        "score": 164
+    },
+    {
+        "id": "82502e70-ee32-48fc-a897-d66f7c1a3572",
+        "name": "GuerreroTrueno",
+        "score": 164
+    },
+    {
+        "id": "fb1aa788-2303-4bf1-8bd0-d7cd8d6eba4d",
+        "name": "GhostWolf",
+        "score": 163
+    },
+    {
+        "id": "c4b82845-ec82-4020-9da7-34ea34e3f7e7",
+        "name": "KnightDark",
+        "score": 163
+    },
+    {
+        "id": "2dc8d984-1933-4643-8afe-134eaddf580a",
+        "name": "DragonGuerrero",
+        "score": 163
+    },
+    {
+        "id": "6a6076aa-124a-4c50-bd0c-c399b469c561",
+        "name": "PhantomBlade",
+        "score": 162
+    },
+    {
+        "id": "d7eedaba-53ba-4a4e-89a2-8c2bb0cb7d9e",
+        "name": "NocheOscuro",
+        "score": 162
+    },
+    {
+        "id": "8fb7d19d-5e0d-433b-81a7-cd9dcb8cf160",
+        "name": "忍者聖光",
+        "score": 162
+    },
+    {
+        "id": "d5b4af61-e1cc-4674-b9c7-d77ec575db52",
+        "name": "PhantomDark",
+        "score": 162
+    },
+    {
+        "id": "e35b615a-a110-4fb7-981d-086036041c31",
+        "name": "DragonRayo",
+        "score": 162
+    },
+    {
+        "id": "57a2157c-da93-47a1-b0a7-2e28834d8f25",
+        "name": "StrikeHunter",
+        "score": 162
+    },
+    {
+        "id": "3a44a0f2-2b81-48d5-9e03-d1e1778308d8",
+        "name": "StarNight",
+        "score": 162
+    },
+    {
+        "id": "439e814a-1614-40d4-81d5-c1514891dd22",
+        "name": "NocheSol",
+        "score": 161
+    },
+    {
+        "id": "2ebfebe3-ad4f-4391-89e6-dbd0ab88396f",
+        "name": "StormLight",
+        "score": 161
+    },
+    {
+        "id": "da35bd36-a09f-48e3-9ad1-b287e4f98415",
+        "name": "WolfSky",
+        "score": 161
+    },
+    {
+        "id": "f71725ed-8c6d-4be6-9182-54485bda7b7a",
+        "name": "破晓幻影",
+        "score": 161
+    },
+    {
+        "id": "63f2509f-f33f-4c0c-9ce7-ae4c6d85bd73",
+        "name": "暗影烈火",
+        "score": 161
+    },
+    {
+        "id": "ccbd9ecc-08d0-4c75-8184-fcdba218687e",
+        "name": "GalaxyStrike",
+        "score": 161
+    },
+    {
+        "id": "a0661aa2-8962-4730-94eb-d3cc5c15129f",
+        "name": "夜之烈火",
+        "score": 161
+    },
+    {
+        "id": "f7df4133-a1f2-41d4-be87-0d0e1d73c3b8",
+        "name": "聖光聖光",
+        "score": 160
+    },
+    {
+        "id": "ee40c068-c5f3-4588-8bb8-a707506122dc",
+        "name": "GhostDark",
+        "score": 160
+    },
+    {
+        "id": "4eace477-ced9-497d-8f49-6a760a9bd394",
+        "name": "HawkWolf_7I",
+        "score": 159
+    },
+    {
+        "id": "57a45a8d-057a-48e8-9f77-d8f399db99b7",
+        "name": "StrikeRogue",
+        "score": 159
+    },
+    {
+        "id": "4adc5391-c469-4d04-8a57-4518df8c5ddc",
+        "name": "NovaNight",
+        "score": 158
+    },
+    {
+        "id": "f57656b7-eafa-4753-b574-7239a3afc7be",
+        "name": "LoboLuz",
+        "score": 158
+    },
+    {
+        "id": "ea1f04e1-4573-471d-9859-a5c96e6f3d97",
+        "name": "RiderVortex",
+        "score": 158
+    },
+    {
+        "id": "38deed16-02c5-4a93-bdf3-5856feb550fe",
+        "name": "PhantomHawk",
+        "score": 157
+    },
+    {
+        "id": "ee72be77-82c1-44f3-bc95-88cc66948830",
+        "name": "StrikePhantom",
+        "score": 157
+    },
+    {
+        "id": "3406d466-3387-49f1-b471-e4da5eee8f2d",
+        "name": "GhostFire",
+        "score": 157
+    },
+    {
+        "id": "69f16ee0-7fd0-414f-af9e-1334cc4e03cb",
+        "name": "FlameFire",
+        "score": 157
+    },
+    {
+        "id": "85824485-1ef9-4969-b5a1-fa897139fb3c",
+        "name": "風暴聖光",
+        "score": 156
+    },
+    {
+        "id": "28ec0f0f-6664-4cf5-bc99-3ff4e8e745d6",
+        "name": "KnightBlade",
+        "score": 155
+    },
+    {
+        "id": "b6c7cba2-0eec-466a-b801-306f23f7754e",
+        "name": "RiderWolf",
+        "score": 155
+    },
+    {
+        "id": "0cbfc9d4-f4e9-495c-bddc-8148ac016d9d",
+        "name": "DarkIce",
+        "score": 155
+    },
+    {
+        "id": "e8e6c086-df75-442c-a4c1-fb569ede5f14",
+        "name": "RojoGuerrero",
+        "score": 155
+    },
+    {
+        "id": "4bc05146-c5f8-4f65-bb8e-88a5c65f78c8",
+        "name": "暗黑影",
+        "score": 155
+    },
+    {
+        "id": "9c4e4663-d8e1-4ddc-ab8b-60d0113214bf",
+        "name": "HunterShadow",
+        "score": 154
+    },
+    {
+        "id": "a00d9731-a74f-46d9-9d21-9f50803d88b6",
+        "name": "StarFire",
+        "score": 154
+    },
+    {
+        "id": "1ee8a2d0-c68f-48e8-be57-516d25d88e6b",
+        "name": "狂刃天际",
+        "score": 153
+    },
+    {
+        "id": "1bf996d8-1d4c-4b9c-bfbe-46492a5f7c83",
+        "name": "DarkRogue",
+        "score": 153
+    },
+    {
+        "id": "18a9fdd7-9905-4e52-8cda-a9dac004668b",
+        "name": "ShadowNight",
+        "score": 152
+    },
+    {
+        "id": "6e8ca68e-a31d-4084-9b46-b6d241d6d51c",
+        "name": "破曉無敵",
+        "score": 152
+    },
+    {
+        "id": "f2bf237c-acd2-4bb9-a62e-32f104df8ff7",
+        "name": "EstrellaMar",
+        "score": 152
+    },
+    {
+        "id": "453e398c-c765-4b54-a598-930b2b89706b",
+        "name": "WolfDark",
+        "score": 152
+    },
+    {
+        "id": "10cfe8b1-d4c8-44e6-a08a-c9b6375e42f2",
+        "name": "PhantomRider",
+        "score": 151
+    },
+    {
+        "id": "4f78b58d-f927-4922-b993-326ed421fad2",
+        "name": "VientoTrueno",
+        "score": 151
+    },
+    {
+        "id": "7b90bf4a-ce8d-477a-ba8d-6472f8aad906",
+        "name": "NightStorm",
+        "score": 151
+    },
+    {
+        "id": "88139072-0229-44be-94ab-b8f592b20590",
+        "name": "CieloAzul",
+        "score": 150
+    },
+    {
+        "id": "7a408a3c-7d12-4eb3-a991-956e58a7cca2",
+        "name": "RogueRogue",
+        "score": 149
+    },
+    {
+        "id": "2bc40d4b-23e5-4e5f-95df-9b83aada70ab",
+        "name": "LoboSol",
+        "score": 149
+    },
+    {
+        "id": "767919b9-bd48-44a6-bd69-0dbf7319b017",
+        "name": "KnightShadow",
+        "score": 148
+    },
+    {
+        "id": "12dcf479-acfc-4d15-984e-b45b11a2ca6b",
+        "name": "龙战神",
+        "score": 148
+    },
+    {
+        "id": "f3dd5eb1-b02e-48f1-9418-4b9c7fc6fef0",
+        "name": "OscuroCazador",
+        "score": 147
+    },
+    {
+        "id": "313fab90-e9f4-496f-aa93-69f6bdebda8b",
+        "name": "幻影夜之",
+        "score": 147
+    },
+    {
+        "id": "d19bf3fa-90d0-4fa3-8d23-482a9d7cc6bf",
+        "name": "FlameGalaxy",
+        "score": 146
+    },
+    {
+        "id": "069bc1ca-b0d3-4e45-895d-d33c9bf42590",
+        "name": "NovaSky",
+        "score": 146
+    },
+    {
+        "id": "a5d1fe91-213e-49d4-807e-e43dd4df1c86",
+        "name": "VortexGhost",
+        "score": 145
+    },
+    {
+        "id": "53e13900-3b63-42f2-a6e5-bb2080a5447d",
+        "name": "VortexNight",
+        "score": 144
+    },
+    {
+        "id": "4c93566d-70ff-4cdd-b4d4-9d4c0fa81707",
+        "name": "LightGhost",
+        "score": 143
+    },
+    {
+        "id": "fc9afd01-769d-4721-80d4-34eae0cda25e",
+        "name": "AzulTrueno",
+        "score": 142
+    },
+    {
+        "id": "8d73da83-fad2-49b4-bb08-e9f3ab191768",
+        "name": "聖光星際",
+        "score": 141
+    },
+    {
+        "id": "b5a233fa-4477-4378-b68d-e539e662df90",
+        "name": "LightSky",
+        "score": 141
+    },
+    {
+        "id": "1897e7b3-7eab-4cff-8f78-8b3d969ed97d",
+        "name": "狂刃火影",
+        "score": 140
+    },
+    {
+        "id": "b70e8a1b-abd3-4f38-9203-1a43ee4d8e84",
+        "name": "PhantomHunter",
+        "score": 140
+    },
+    {
+        "id": "d2a21cad-24ae-4cc5-a913-07bb02d0eff3",
+        "name": "PhantomRogue",
+        "score": 139
+    },
+    {
+        "id": "4a9c6d9d-8677-4ebb-a8e2-a06d370f75de",
+        "name": "殺手烈火",
+        "score": 138
+    },
+    {
+        "id": "1503835c-8513-4503-a1d5-0cc5d5a175b7",
+        "name": "FlameStar",
+        "score": 138
+    },
+    {
+        "id": "555b1a52-54e2-45df-98b8-eadfccc5fcb8",
+        "name": "DarkPhantom",
+        "score": 135
+    },
+    {
+        "id": "85aeaefc-cdec-44c8-b883-c1f7f1d03553",
+        "name": "行者暗影",
+        "score": 135
+    },
+    {
+        "id": "71709194-212b-4394-a95d-ebe15bc01a4d",
+        "name": "風暴龍魂",
+        "score": 135
+    },
+    {
+        "id": "cd541b67-3cc1-4d69-89a1-dbe7f884917d",
+        "name": "FireHunter",
+        "score": 135
+    },
+    {
+        "id": "2d2d107f-78d8-4f71-b605-c1d40f9f18ec",
+        "name": "RogueSky_QJ",
+        "score": 135
+    },
+    {
+        "id": "3ebdcba2-7eda-4ed5-82c6-d03875c27f4b",
+        "name": "OscuroRosa",
+        "score": 134
+    },
+    {
+        "id": "9de82d3e-b8e3-429a-b502-e83bb59f1c6a",
+        "name": "DragonHunter",
+        "score": 134
+    },
+    {
+        "id": "898559f6-ecd5-4ff6-8e89-ffde60e697fc",
+        "name": "GalaxyShadow",
+        "score": 132
+    },
+    {
+        "id": "bdfa8cc3-d9ac-410e-a3a8-a5e4ef19175f",
+        "name": "HunterKnight",
+        "score": 129
+    },
+    {
+        "id": "125527a0-53f5-447c-8d02-aef9e22aec01",
+        "name": "LuzGuerrero",
+        "score": 129
+    },
+    {
+        "id": "a76a320b-f614-452f-89b3-999ee71814c7",
+        "name": "NovaStorm",
+        "score": 128
+    },
+    {
+        "id": "2af62066-ea38-4909-b7ef-4eafeba88b14",
+        "name": "RiderStorm",
+        "score": 127
+    },
+    {
+        "id": "6b0c74f7-26fd-487a-8af4-a9ccdd4cce5b",
+        "name": "NightSky",
+        "score": 126
+    },
+    {
+        "id": "9f95858b-2591-469e-8152-85f486361a32",
+        "name": "StarHunter",
+        "score": 126
+    },
+    {
+        "id": "d53e6cb6-59b1-4197-afda-4579af628c28",
+        "name": "GhostHawk",
+        "score": 125
+    },
+    {
+        "id": "6af3e328-ad4e-4ea3-b286-ffc4bf1c5b29",
+        "name": "SkyStrike",
+        "score": 125
+    },
+    {
+        "id": "f2877a50-76af-4e34-8af1-223ae8c06acc",
+        "name": "IceFire_LY",
+        "score": 121
+    },
+    {
+        "id": "63a32b42-9b7b-4259-8935-e47e4694a0a2",
+        "name": "HawkHawk",
+        "score": 121
+    },
+    {
+        "id": "ed1a2aad-5846-48f2-9a75-2256691c7d8f",
+        "name": "FlameWolf_NE",
+        "score": 121
+    },
+    {
+        "id": "e536046d-62cd-440f-aa0d-7b6086518e06",
+        "name": "IcePhantom",
+        "score": 119
+    },
+    {
+        "id": "87617988-6468-4ab4-8be8-9880e04268ca",
+        "name": "龍魂火影",
+        "score": 116
+    },
+    {
+        "id": "8d20c745-7950-4722-bf6a-81956b7a2bdb",
+        "name": "MarEspada",
+        "score": 113
+    },
+    {
+        "id": "458c5ff6-baaa-48c0-8224-8b71286ca124",
+        "name": "IceLight",
+        "score": 112
+    },
+    {
+        "id": "7e29c154-1b89-4db2-893f-68270a91e042",
+        "name": "ShadowVortex",
+        "score": 111
+    },
+    {
+        "id": "c8fced65-1b66-497b-a0c7-4ffdc5348324",
+        "name": "WolfFire",
+        "score": 103
+    },
+    {
+        "id": "40adb9bd-a954-4f2e-923f-4f2c0171d40b",
+        "name": "BladeNight",
+        "score": 103
+    },
+    {
+        "id": "9de3ac00-31f1-4326-aa5a-0e9b4777625c",
+        "name": "行者天际",
+        "score": 102
+    },
+    {
+        "id": "2b110943-5245-4209-ad0d-a0c66490c23f",
+        "name": "PhantomDragon",
+        "score": 88
+    },
+    {
+        "id": "a3816c11-dce8-4b8f-85d5-211cba757c1c",
+        "name": "StormVortex",
+        "score": 81
+    }
 ]
